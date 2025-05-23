@@ -1,6 +1,10 @@
-# [Block Frontmatter](https://sli.dev/features/block-frontmatter.html)
-
-#Slidev #Syntax
+---
+title: Block Frontmatter
+url: https://sli.dev/features/block-frontmatter.html
+tags:
+  - Slidev
+  - Syntax
+---
 
 ````md
 ---

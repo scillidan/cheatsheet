@@ -1,6 +1,9 @@
-# [Frontmatter Merging](https://sli.dev/features/frontmatter-merging.html)
-
-#Syntax 
+---
+title: Frontmatter Merging
+url: https://sli.dev/features/frontmatter-merging.html
+tags:
+  - Syntax
+---
 
 ```md title="./slides.md"
 ---

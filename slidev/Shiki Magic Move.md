@@ -1,6 +1,10 @@
-# [Shiki Magic Move](https://sli.dev/features/shiki-magic-move.html)
-
-#Codeblock #Animation 
+---
+title: Shiki Magic Move
+url: https://sli.dev/features/shiki-magic-move.html
+tags:
+  - Codeblock
+  - Animation
+---
 
 ````md magic-move
 ```js

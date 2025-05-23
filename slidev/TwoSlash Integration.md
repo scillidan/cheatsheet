@@ -1,6 +1,9 @@
-# [TwoSlash Integration](https://sli.dev/features/twoslash.html)
-
-#Codeblock
+---
+title: TwoSlash Integration
+url: https://sli.dev/features/twoslash.html
+tags:
+  - Codeblock
+---
 
 ````md
 ```ts twoslash

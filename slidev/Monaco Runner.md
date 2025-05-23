@@ -1,6 +1,10 @@
-# [Monaco Runner](https://sli.dev/features/monaco-run.html)
-
-#Codeblock #Editor
+---
+title: Monaco Runner
+url: https://sli.dev/features/monaco-run.html
+tags:
+  - Codeblock
+  - Editor
+---
 
 ```ts {monaco-run}
 function distance(x: number, y: number) {

@@ -1,6 +1,9 @@
-# [Slide Hooks](https://sli.dev/features/slide-hook.html)
-
-#Client-API
+---
+title: Slide Hooks
+url: https://sli.dev/features/slide-hook.html
+tags:
+  - Client-API
+---
 
 ```ts
 import { onSlideEnter, onSlideLeave, useIsSlideActive } from '@slidev/client'

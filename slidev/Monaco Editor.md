@@ -1,6 +1,10 @@
-# [Monaco Editor](https://sli.dev/features/monaco-editor.html)
-
-#Codeblock #Editor 
+---
+title: Monaco Editor
+url: https://sli.dev/features/monaco-editor.html
+tags:
+  - Codeblock
+  - Editor
+---
 
 ````md
 ```ts {monaco}

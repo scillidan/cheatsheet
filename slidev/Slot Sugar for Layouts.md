@@ -1,6 +1,10 @@
-# [Slot Sugar for Layouts](https://sli.dev/features/slot-sugar.html)
-
-#Layout #Syntax 
+---
+title: Slot Sugar for Layouts
+url: https://sli.dev/features/slot-sugar.html
+tags:
+  - Layout
+  - Syntax
+---
 
 ```md
 ---

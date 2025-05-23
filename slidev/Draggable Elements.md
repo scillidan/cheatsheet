@@ -1,6 +1,9 @@
-# [Draggable Elements](https://sli.dev/features/draggable.html)
-
-#Layout 
+---
+title: Draggable Elements
+url: https://sli.dev/features/draggable.html
+tags:
+  - Layout
+---
 
 ```md
 # Directive - Data from the frontmatter

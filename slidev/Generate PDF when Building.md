@@ -1,6 +1,10 @@
-# [Generate PDF when Building](https://sli.dev/features/build-with-pdf.html)
-
-#Export #Build
+---
+title: Generate PDF when Building
+url: https://sli.dev/features/build-with-pdf.html
+tags:
+  - Export
+  - Build
+---
 
 ```md
 ---

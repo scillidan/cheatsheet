@@ -1,1 +1,4 @@
-# [Building and Hosting](https://sli.dev/guide/hosting)
+---
+title: Building and Hosting
+url: https://sli.dev/guide/hosting
+---

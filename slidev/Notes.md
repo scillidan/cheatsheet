@@ -1,4 +1,7 @@
-# [Notes](https://sli.dev/guide/syntax#notes)
+---
+title: Notes
+url: https://sli.dev/guide/syntax#notes
+---
 
 ```md
 ---

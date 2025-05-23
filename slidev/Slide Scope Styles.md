@@ -1,6 +1,10 @@
-# [Slide Scope Styles](https://sli.dev/features/slide-scope-style.html)
-
-#Styling #Syntax
+---
+title: Slide Scope Styles
+url: https://sli.dev/features/slide-scope-style.html
+tags:
+  - Styling
+  - Syntax
+---
 
 ```md
 # Slidev

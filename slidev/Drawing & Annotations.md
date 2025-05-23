@@ -1,6 +1,9 @@
-# [Drawing & Annotations](https://sli.dev/features/drawing.html)
-
-#Drawing 
+---
+title: Drawing & Annotations
+url: https://sli.dev/features/drawing.html
+tags:
+  - Drawing
+---
 
 ```md
 ---

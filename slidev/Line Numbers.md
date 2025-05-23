@@ -1,4 +1,7 @@
-# [Line Numbers](https://sli.dev/features/code-block-line-numbers.html)
+---
+title: Line Numbers
+url: https://sli.dev/features/code-block-line-numbers.html
+---
 
 ````md
 ```ts {6,7}{lines:true,startLine:5}

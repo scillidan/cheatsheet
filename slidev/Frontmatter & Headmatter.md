@@ -1,4 +1,7 @@
-# [Frontmatter & Headmatter](https://sli.dev/guide/syntax#frontmatter)
+---
+title: Frontmatter & Headmatter
+url: https://sli.dev/guide/syntax#frontmatter
+---
 
 ```md
 ---

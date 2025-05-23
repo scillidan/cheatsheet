@@ -1,6 +1,9 @@
-# [Slide Canvas Size](https://sli.dev/features/canvas-size.html)
-
-#Layout 
+---
+title: Slide Canvas Size
+url: https://sli.dev/features/canvas-size.html
+tags:
+  - Layout 
+---
 
 ```md
 ---

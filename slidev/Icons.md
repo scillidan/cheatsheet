@@ -1,6 +1,9 @@
-# [Icons](https://sli.dev/features/icons.html)
-
-#Components
+---
+title: Icons
+url: https://sli.dev/features/icons.html
+tags:
+  - Components
+---
 
 ```html
 <uim-rocket />

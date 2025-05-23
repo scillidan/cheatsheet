@@ -1,4 +1,7 @@
-# [Layout](https://sli.dev/guide/layout)
+---
+title: Layout
+url: https://sli.dev/guide/layout
+---
 
 ```md
 ---

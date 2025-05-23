@@ -1,6 +1,9 @@
-# [Mermaid Diagrams](https://sli.dev/features/mermaid.html)
-
-#Diagram 
+---
+title: Mermaid Diagrams
+url: https://sli.dev/features/mermaid.html
+tags:
+  - Diagram
+---
 
 ````md
 ```mermaid {theme: 'neutral', scale: 0.8}

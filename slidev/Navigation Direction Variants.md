@@ -1,6 +1,10 @@
-# [Navigation Direction Variants](https://sli.dev/features/direction-variant.html)
-
-#Navigation #Styling 
+---
+title: Navigation Direction Variants
+url: https://sli.dev/features/direction-variant.html
+tags:
+  - Navigation
+  - Styling
+---
 
 ```css
 /* example: delay on only forward but not backward */

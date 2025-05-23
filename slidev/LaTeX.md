@@ -1,6 +1,10 @@
-# [LaTeX](https://sli.dev/features/latex.html)
-
-#Codeblock #Syntax 
+---
+title: LaTeX
+url: https://sli.dev/features/latex.html
+tags:
+  - Codeblock
+  - Syntax
+---
 
 ```md
 $\sqrt{3x-1}+(1+x)^2$

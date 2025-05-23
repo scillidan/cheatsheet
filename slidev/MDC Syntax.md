@@ -1,6 +1,10 @@
-# [MDC Syntax](https://sli.dev/features/mdc.html)
-
-#Syntax #Styling 
+---
+title: MDC Syntax
+url: https://sli.dev/features/mdc.html
+tags:
+  - Syntax
+  - Styling
+---
 
 ```mdc
 ---

@@ -1,6 +1,10 @@
-# [Global Layers](https://sli.dev/features/global-layers.html)
-
-#Navigation #Layout 
+---
+title: Global Layers
+url: https://sli.dev/features/global-layers.html
+tags:
+  - Navigation
+  - Layout
+---
 
 ```html
 <!-- global-bottom.vue -->

@@ -1,6 +1,9 @@
-# [PlantUML Diagrams](https://sli.dev/features/plantuml.html)
-
-#Diagram
+---
+title: PlantUML Diagrams
+url: https://sli.dev/features/plantuml.html
+tags:
+  - Diagram
+---
 
 ````md
 ```plantuml

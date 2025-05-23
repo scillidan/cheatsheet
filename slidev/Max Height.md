@@ -1,6 +1,10 @@
-# [Max Height](https://sli.dev/features/code-block-max-height.html)
-
-#Codeblock #Layout 
+---
+title: Max Height
+url: https://sli.dev/features/code-block-max-height.html
+tags:
+  - Codeblock
+  - Layout
+---
 
 ````md
 ```ts {2|3|7|12}{maxHeight:'100px'}

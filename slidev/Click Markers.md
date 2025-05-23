@@ -1,6 +1,10 @@
-# [Click Markers](https://sli.dev/features/click-marker.html)
-
-#Presenter #Animation 
+---
+title: Click Markers
+url: https://sli.dev/features/click-marker.html
+tags:
+  - Presenter
+  - Animation
+---
 
 ```md
 <!--

@@ -1,6 +1,9 @@
-# [Importing Slides](https://sli.dev/features/importing-slides.html)
-
-#Syntax 
+---
+title: Importing Slides
+url: https://sli.dev/features/importing-slides.html
+tags:
+  - Syntax
+---
 
 ````markdown title="./slides.md"
 # Title
