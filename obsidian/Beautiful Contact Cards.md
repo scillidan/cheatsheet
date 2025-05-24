@@ -1,3 +1,7 @@
+---
+source: https://github.com/seth10/beautiful-obsidian-contacts
+---
+
 
 ```contact
 name: First Last, "The Boss"
