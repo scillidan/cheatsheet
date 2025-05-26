@@ -1,0 +1,9 @@
+| opt   | shortcut | command                  |
+| :-    | :-       | :-                       |
+| Broot | F2,:e    | edit                     |
+| Broot | C-e      | Edit_with_Sublime_Text   |
+| Broot | c/<text> | Filter                   |
+| Broot | :ol      | open                     |
+| Broot | C-o      | Open_with_Directory_Opus |
+| Broot | C-t      | Terminal                 |
+| Broot | C-p      | toggle_preview           |

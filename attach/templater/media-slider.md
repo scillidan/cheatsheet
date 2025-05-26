@@ -1,9 +1,3 @@
----
-source: https://github.com/amatya-aditya/obsidian-media-slider
----
-
-Some further text in your note.
-
 ```media-slider
 ---
 sliderId: my-slider
