@@ -1,3 +1,72 @@
+| vault      | core_plugins    |
+| :-         | :-              |
+| global     | Bookmarks       |
+| global     | Command palette |
+| global     | File recovery   |
+| global     | Files           |
+| global     | Outline         |
+| global     | Page preview    |
+| global     | Slash commands  |
+| cheatsheet | tags view       |
+| live       | Workspaces      |
+| log        | Backlinks       |
+| log        | Canvas          |
+| log        | Graph view      |
+| log        | Outgoing links  |
+
+| vault      | community_plugins             |
+| :-         | :-                            |
+| global     | URI                           |
+| global     | Autofit Tabs                  |
+| global     | Better Export PDF             |
+| global     | BRAT                          |
+| global     | Codeblock Customizer          |
+| global     | CSV Codeblock                 |
+| global     | CSV Table                     |
+| global     | Custom File Extensions Plugin |
+| global     | Dataview                      |
+| global     | Export Image plugin           |
+| global     | File Color                    |
+| global     | Folder notes                  |
+| global     | Homepage                      |
+| global     | Image Toolkit                 |
+| global     | LawList: Custom List Styles   |
+| global     | Minimal Theme Settings        |
+| global     | Mode manager                  |
+| global     | Mononote                      |
+| global     | Omnisearch                    |
+| global     | Open with                     |
+| global     | Regex Line Filter             |
+| global     | Scroll to Top                 |
+| global     | Settings prefiles             |
+| global     | Show Whitespace               |
+| global     | Sort & Permute lines          |
+| global     | Templater                     |
+| global     | Various Complements           |
+| global     | Wakatime / Wakapi             |
+| global     | Wheel Tab Switcher            |
+| cheatsheet | GDScript Syntax Highlighting  |
+| cheatsheet | LanguageTool Integration      |
+| cheatsheet | Media Companion               |
+| cheatsheet | Media Slider                  |
+| cheatsheet | Text Extractor                |
+| cheatsheet | Tag Wrangler                  |
+| cheatsheet | TagFolder                     |
+| live       | Calibre                       |
+| live       | Force note view mode          |
+| live       | Note Definitions              |
+| live       | Habit Tracker 21              |
+| live       | Kokoro TTS                    |
+| live       | MTG Card Links                |
+| live       | PomoBar                       |
+| live       | Remember cursor position      |
+| live       | Timeline Schedule             |
+| live       | Water Tracker                 |
+| live       | Word Frequency                |
+| log        | Beautiful Contact Cards       |
+| log        | Excalidraw                    |
+| log        | Novel word count              |
+
 | vault      | plugin          | on_ribbon                   |
 | :-         | :-              | :-                          |
 | global     | BRAT            | All Commands list           |
