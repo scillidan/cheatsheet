@@ -1,3 +1,3 @@
-| opt     | shortcut | command        |
-| :-      | :-       | :-             |
-| Umi-OCR | A-S-1    | Screenshot OCR |
+|opt|shortcut|command|
+|:-|:-|:-|
+|Umi-OCR|A-S-1|Screenshot OCR|

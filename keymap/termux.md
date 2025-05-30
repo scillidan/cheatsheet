@@ -1,3 +1,3 @@
-| opt    | shortcut | command |
-| :-     | :-       | :-      |
-| Termux | C-A-v    | paste   |
+|opt|shortcut|command|
+|:-|:-|:-|
+|Termux|C-A-v|paste|

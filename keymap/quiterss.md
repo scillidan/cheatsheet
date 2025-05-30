@@ -1,3 +1,3 @@
-| opt      | shortcut | command         |
-| :-       | :-       | :-              |
-| QuiteRSS | C-o      | Open In Browser |
+|opt|shortcut|command|
+|:-|:-|:-|
+|QuiteRSS|C-o|Open In Browser|
