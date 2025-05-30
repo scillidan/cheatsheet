@@ -29,6 +29,7 @@
 |cfg|config|
 |cgo|cargo|
 |char|characte|
+|chk|check|
 |chpt|chapter|
 |clk|clock|
 |clp|clipboard|
