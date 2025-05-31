@@ -109,9 +109,12 @@
 |studio|https://gm-studio1.vercel.app|
 |SVGEdit|https://gm-svgedit.vercel.app|
 |SvgPathEditor|https://gm-svg-path-editor.vercel.app|
+|textReader|https://gm-text-reader.vercel.app/textReader.html|
+|texthooker-ui|https://gm-texthooker-ui.vercel.app|
 |Torrent Webseed Creator|https://github.com/scillidan/torrent-webseed-creator|
 |Transformer Explainer|https://scillidan.github.io/transformer-explainer|
 |URL-encoder for SVG|https://scillidan.github.io/url-encoder|
+|Yomi-Reader|https://yomi-reader-git-gh-pages-goblin-market.vercel.app|
 |Villain|https://gm-villain.vercel.app|
 |visionmagic|https://gm-visionmagic.vercel.app|
 |Vivliostyle Viewer|https://gm-vivliostyle-js.vercel.app|
