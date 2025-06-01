@@ -1,3 +1,5 @@
+## Mark
+
 |tag|link|
 |:-|:-|
 |rofi,preset|[Rofi](https://github.com/adi1090x/rofi)|
@@ -16,7 +18,9 @@
 |tag|link|
 |:-|:-|
 |rofi,firefox|[rofi-firefox-bookmark](https://github.com/MusicalArtist12/rofi-firefox-bookmark)|
+|rofi,keymap|[dmenu-hotkeys](https://github.com/maledorak/dmenu-hotkeys)|
 |rofi,linkding|[rofi-linkding](https://github.com/merdely/rofi-linkding)|
+|rofi,mount|[udiskie-dmenu](https://github.com/fogine/udiskie-dmenu)|
 |rofi,mpd|[clerk](https://github.com/carnager/clerk)|
 |rofi,obsidian|[Rofi Helper](https://github.com/digitalsignalperson/obsidian-rofi-helper)|
 |rofi,recoll|[zzzfoo](https://github.com/andersju/zzzfoo)|

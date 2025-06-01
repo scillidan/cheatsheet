@@ -1,3 +1,5 @@
+## Mark
+
 |tag|vault|link|
 |:-|:-|:-|
 |obsidian|global|[Actions URI](https://github.com/czottmann/obsidian-actions-uri)|
@@ -69,17 +71,18 @@
 |obsidian|[Another Quick Switcher](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)|
 |obsidian|[Auto Archive Plugin for Obsidian](https://github.com/shanedonburke/obsidian-auto-archive)|
 |obsidian|[Automatic Table](https://github.com/BrMacCath/Table-of-Contents)|
-|obsidian|[BPMN-Plugin](https://github.com/joleaf/obsidian-bpmn-plugin)|
 |obsidian|[Better File Link](https://github.com/marcjulianschwarz/obsidian-file-link)|
 |obsidian|[Better Reading Mode](https://github.com/Quorafind/Obsidian-Better-Reading-Mode)|
 |obsidian|[Better Word Count](https://github.com/lukeleppan/better-word-count)|
 |obsidian|[Blockreffer for Obsidian](https://github.com/tyler-dot-earth/obsidian-blockreffer)|
 |obsidian|[Blue Star](https://github.com/Lio5n/blue-star)|
-|obsidian|[CSV Editor](https://github.com/deathau/csv-obsidian)|
+|obsidian|[BPMN-Plugin](https://github.com/joleaf/obsidian-bpmn-plugin)|
 |obsidian|[Card Links](https://github.com/ormai/obsidian-card-links)|
 |obsidian|[CardBoard](https://github.com/roovo/obsidian-card-board)|
+|obsidian|[Checkbox Sorter](https://github.com/mattang687/obsidian-checkbox-sort)|
 |obsidian|[Citations](https://github.com/hans/obsidian-citation-plugin)|
 |obsidian|[Cloze](https://github.com/DearVikki/obsidian-cloze-plugin)|
+|obsidian|[cMenu](https://github.com/chetachiezikeuzor/cMenu-Plugin)|
 |obsidian|[Code Editor Shortcuts](https://github.com/timhor/obsidian-editor-shortcuts)|
 |obsidian|[Code Styler](https://github.com/mayurankv/Obsidian-Code-Styler)|
 |obsidian|[Collaboration for Obsidian – Sync, Share, and Edit anywhere](https://github.com/peerdraft/obsidian-plugin)|
@@ -88,10 +91,11 @@
 |obsidian|[Contextual Typography](https://github.com/mgmeyers/obsidian-contextual-typography)|
 |obsidian|[Copy Inline Code](https://github.com/Alddar/obsidian-copy-inline-code-plugin)|
 |obsidian|[Copy Search URL](https://github.com/czottmann/obsidian-copy-search-url)|
-|obsidian|[DB folder](https://github.com/RafaelGB/obsidian-db-folder)|
+|obsidian|[CSV Editor](https://github.com/deathau/csv-obsidian)|
 |obsidian|[DataCards](https://github.com/Sophokles187/data-cards)|
 |obsidian|[Datacore](https://github.com/blacksmithgu/datacore)|
 |obsidian|[Day Planner (OG)](https://github.com/ebullient/obsidian-day-planner-og)|
+|obsidian|[DB folder](https://github.com/RafaelGB/obsidian-db-folder)|
 |obsidian|[Dialogue](https://github.com/holubj/obsidian-dialogue-plugin)|
 |obsidian|[Dice Roller](https://github.com/javalent/dice-roller)|
 |obsidian|[Easy Copy](https://github.com/Moyf/easy-copy)|
@@ -115,9 +119,11 @@
 |obsidian|[Github Publisher](https://github.com/ObsidianPublisher/obsidian-github-publisher)|
 |obsidian|[Harper](https://github.com/elijah-potter/harper-obsidian-plugin)|
 |obsidian|[Hot-Reload Plugin](https://github.com/pjeby/hot-reload)|
+|obsidian|[Iconize](https://github.com/FlorianWoelki/obsidian-iconize)|
 |obsidian|[Index Notes Plugin for Obsidian](https://github.com/adanielnoel/obsidian-index-notes)|
 |obsidian|[Influx](https://github.com/jensmtg/influx)|
 |obsidian|[Initiative Tracker](https://github.com/javalent/initiative-tracker)|
+|obsidian|[Inline Callouts](https://github.com/gapmiss/inline-callouts)|
 |obsidian|[Inscribe](https://github.com/ahmetildirim/obsidian-inscribe)|
 |obsidian|[Kanban](https://github.com/mgmeyers/obsidian-kanban)|
 |obsidian|[Key-Value list - Obsidian plugin](https://github.com/christianwannerstedt/obsidian-key-value-list)|
@@ -127,15 +133,17 @@
 |obsidian|[Line Width Slider](https://github.com/MugishoMp/obsidian-editor-width-slider)|
 |obsidian|[Linter](https://github.com/platers/obsidian-linter)|
 |obsidian|[Longform](https://github.com/kevboh/longform)|
-|obsidian|[MIDI Logger](https://github.com/maybe-hello-world/midi-logger)|
 |obsidian|[Markdown Table Editor](https://github.com/ganesshkumar/obsidian-table-editor)|
 |obsidian|[Markdown Tree](https://github.com/carvah/markdown-tree-plugin)|
 |obsidian|[Marp](https://github.com/JichouP/obsidian-marp-plugin)|
+|obsidian|[MatchSyntax](https://github.com/rivea0/obsidian-match-syntax)|
 |obsidian|[Mermaid Tools](https://github.com/dartungar/obsidian-mermaid)|
 |obsidian|[Meta Bind Plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin)|
+|obsidian|[MIDI Logger](https://github.com/maybe-hello-world/midi-logger)|
 |obsidian|[Natural Language Syntax Highlighting](https://github.com/artisticat1/nl-syntax-highlighting)|
 |obsidian|[NeuroVox](https://github.com/Synaptic-Labs-AI/NeuroVox)|
 |obsidian|[Numerals](https://github.com/gtg922r/obsidian-numerals)|
+|obsidian|[obsideck](https://github.com/j4ckofalltrades/obsideck)|
 |obsidian|[Obsidian Asciinema cast file viewer plugin](https://github.com/dkleinbe/obsidian-asciinema-player)|
 |obsidian|[Obsidian Automatic Table Of Contents](https://github.com/johansatge/obsidian-automatic-table-of-contents)|
 |obsidian|[Obsidian Canvas2Document](https://github.com/slnsys/obsidian-canvas2document)|
@@ -161,7 +169,11 @@
 |obsidian|[Obsidian Venn Tags](https://github.com/MichaelMahlberg/obsidian-venn-tags)|
 |obsidian|[Obsidian Virtual Linker Plugin (Glossary Plugin)](https://github.com/vschroeter/obsidian-virtual-linker)|
 |obsidian|[Obsidian-Birthday-Tracker-Plugin](https://github.com/Raboro/Obsidian-Birthday-Tracker-Plugin)|
+|obsidian|[obsidian-continuous-mode](https://github.com/gasparschott/obsidian-continuous-mode)|
+|obsidian|[obsidian-pagescroll-plugin](https://github.com/chenshutian9610/obsidian-pagescroll-plugin)|
 |obsidian|[Obsidian-Pseudocode](https://github.com/ytliu74/obsidian-pseudocode)|
+|obsidian|[obsidian-publish-css](https://github.com/chad-bennett/obsidian-publish-css)|
+|obsidian|[obsidian.nvim](https://github.com/epwalsh/obsidian.nvim)|
 |obsidian|[Outliner](https://github.com/vslinko/obsidian-outliner)|
 |obsidian|[Ozan's Image in Editor Plugin](https://github.com/ozntel/oz-image-in-editor-obsidian)|
 |obsidian|[Pandoc](https://github.com/OliverBalfour/obsidian-pandoc)|
@@ -198,6 +210,7 @@
 |obsidian|[Task Collector (TC](https://github.com/ebullient/obsidian-task-collector)|
 |obsidian|[Tasks Calendar Wrapper](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper)|
 |obsidian|[Terminal](https://github.com/polyipseity/obsidian-terminal)|
+|obsidian|[Text Generator](https://github.com/nhaouari/obsidian-textgenerator-plugin)|
 |obsidian|[The Calendarium](https://github.com/javalent/the-calendarium)|
 |obsidian|[The Map File System](https://github.com/nzani/mfs-obsidian-plugin)|
 |obsidian|[Transcription](https://github.com/djmango/obsidian-transcription)|
@@ -206,9 +219,3 @@
 |obsidian|[Wheel Tab Switcher](https://github.com/22-2/wheel-tab-switcher)|
 |obsidian|[ZettleFlow](https://github.com/RafaelGB/Obsidian-ZettlelFlow)|
 |obsidian|[Zoom](https://github.com/vslinko/obsidian-zoom)|
-|obsidian|[cMenu](https://github.com/chetachiezikeuzor/cMenu-Plugin)|
-|obsidian|[obsideck](https://github.com/j4ckofalltrades/obsideck)|
-|obsidian|[obsidian-continuous-mode](https://github.com/gasparschott/obsidian-continuous-mode)|
-|obsidian|[obsidian-pagescroll-plugin](https://github.com/chenshutian9610/obsidian-pagescroll-plugin)|
-|obsidian|[obsidian-publish-css](https://github.com/chad-bennett/obsidian-publish-css)|
-|obsidian|[obsidian.nvim](https://github.com/epwalsh/obsidian.nvim)|

@@ -1,3 +1,5 @@
+## Mark
+
 |tag|state|link|
 |:-|:-|:-|
 |brave|Active|[ActivityWatch Web Watcher](https://github.com/ActivityWatch/aw-watcher-web)|
@@ -63,18 +65,19 @@
 |brave|Active|[VSCode Extension Downloader](https://chromewebstore.google.com/detail/vscode-extension-download/hkjdjlmpniknglhaobilgigaigleiebd?pli=1)|
 |brave|Active|[WakaTime](https://github.com/wakatime/browser-wakatime)|
 |brave|Active|[Yomitan Popup Dictionary](https://github.com/themoeway/yomitan)|
-|Brave|Inactive|[AnythingLLM Browser Companion](https://docs.anythingllm.com/browser-extension/install)|
-|Brave|Inactive|[Auto Clipboard](https://github.com/wangmeijian/auto_clipboard)|
-|Brave|Inactive|[Automa](https://automa.site)|
-|Brave|Inactive|[find+ Regex Find-in-Page Tool](https://github.com/brandon1024/find)|
-|Brave|Inactive|[Kiwix JS Browser Extension](https://chromewebstore.google.com/detail/kiwix-js-browser-extensio/donaljnlmapmngakoipdmehbfcioahhk)|
-|Brave|Inactive|[Luminous: JavaScript events blocker](https://gbaptista.github.io/luminous/doc/en-US)|
-|Brave|Inactive|[Page Assist - A Web UI for Local AI Models](https://github.com/n4ze3m/page-assist)|
-|Brave|Inactive|[Rikaitan Popup Dictionary](https://github.com/Ajatt-Tools/rikaitan)|
-|Brave|Inactive|[Saladict - Pop-up Dictionary and Page Translator](https://github.com/crimx/ext-saladict)|
-|Brave|Inactive|[SF Explorer](https://info.sf-explorer.com)|
-|Brave|Inactive|[simple-modify-headers](https://github.com/didierfred/SimpleModifyHeaders?tab=readme-ov-file)|
-|Brave|Inactive|[Speechify — Text to Speech](https://speechify.com)|
+|brave|Inactive|[Redirector](https://github.com/einaregilsson/Redirector)|
+|brave|Inactive|[AnythingLLM Browser Companion](https://docs.anythingllm.com/browser-extension/install)|
+|brave|Inactive|[Auto Clipboard](https://github.com/wangmeijian/auto_clipboard)|
+|brave|Inactive|[Automa](https://automa.site)|
+|brave|Inactive|[find+ Regex Find-in-Page Tool](https://github.com/brandon1024/find)|
+|brave|Inactive|[Kiwix JS Browser Extension](https://chromewebstore.google.com/detail/kiwix-js-browser-extensio/donaljnlmapmngakoipdmehbfcioahhk)|
+|brave|Inactive|[Luminous: JavaScript events blocker](https://gbaptista.github.io/luminous/doc/en-US)|
+|brave|Inactive|[Page Assist - A Web UI for Local AI Models](https://github.com/n4ze3m/page-assist)|
+|brave|Inactive|[Rikaitan Popup Dictionary](https://github.com/Ajatt-Tools/rikaitan)|
+|brave|Inactive|[Saladict - Pop-up Dictionary and Page Translator](https://github.com/crimx/ext-saladict)|
+|brave|Inactive|[SF Explorer](https://info.sf-explorer.com)|
+|brave|Inactive|[simple-modify-headers](https://github.com/didierfred/SimpleModifyHeaders?tab=readme-ov-file)|
+|brave|Inactive|[Speechify — Text to Speech](https://speechify.com)|
 
 ## Cache
 
@@ -100,6 +103,7 @@
 |brave|[doqment PDF Reader](https://github.com/shivaprsd/doqment)|
 |brave|[Double Read](https://chrome.google.com/webstore/detail/double-read/kcacjknamjmflfkgibhnidhhddiaidao)|
 |brave|[Download all Images](https://webextension.org/listing/save-images.html)|
+|brave|[Edit with Sublime Text](https://add0n.com/edit-as-html.html)|
 |brave|[Emoji Keyboard](https://chrome.google.com/webstore/detail/emoji-keyboard-online-cop/kgmeffmlnkfnjpgmdndccklfigfhajen)|
 |brave|[Enhanced GitHub](https://github.com/softvar/enhanced-github)|
 |brave|[enwords](https://github.com/aykutkardas/enwords)|
@@ -110,6 +114,7 @@
 |brave|[Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/nddeiknmamlpagmnabfdlljlikeoanch)|
 |brave|[feeder](https://feeder.co)|
 |brave|[ff2mpv](https://github.com/woodruffw/ff2mpv)|
+|brave|[Firenvim](https://github.com/glacambre/firenvim)|
 |brave|[Forget Button](https://webextension.org/listing/ecleaner.html)|
 |brave|[Fullscreen](https://github.com/xieby1/fullscreen)|
 |brave|[Gif Frames](https://chrome.google.com/webstore/detail/gif-frames/khkbfocobajjjkojjgpmnhdgbmlnlnef)|
