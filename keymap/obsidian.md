@@ -1,3 +1,5 @@
+## Core plugins
+
 |vault|core_plugins|
 |:-|:-|
 |global|Bookmarks|
@@ -14,58 +16,9 @@
 |log|Graph view|
 |log|Outgoing links|
 
-|vault|community_plugins|
-|:-|:-|
-|global|URI|
-|global|Autofit Tabs|
-|global|Better Export PDF|
-|global|BRAT|
-|global|Codeblock Customizer|
-|global|CSV Codeblock|
-|global|CSV Table|
-|global|Custom File Extensions Plugin|
-|global|Dataview|
-|global|Export Image plugin|
-|global|File Color|
-|global|Folder notes|
-|global|Homepage|
-|global|Image Toolkit|
-|global|LawList: Custom List Styles|
-|global|Minimal Theme Settings|
-|global|Mode manager|
-|global|Mononote|
-|global|Omnisearch|
-|global|Open with|
-|global|Regex Line Filter|
-|global|Scroll to Top|
-|global|Settings prefiles|
-|global|Show Whitespace|
-|global|Sort & Permute lines|
-|global|Templater|
-|global|Various Complements|
-|global|Wakatime / Wakapi|
-|global|Wheel Tab Switcher|
-|cheatsheet|GDScript Syntax Highlighting|
-|cheatsheet|LanguageTool Integration|
-|cheatsheet|Media Companion|
-|cheatsheet|Media Slider|
-|cheatsheet|Text Extractor|
-|cheatsheet|Tag Wrangler|
-|cheatsheet|TagFolder|
-|live|Calibre|
-|live|Force note view mode|
-|live|Note Definitions|
-|live|Habit Tracker 21|
-|live|Kokoro TTS|
-|live|MTG Card Links|
-|live|PomoBar|
-|live|Remember cursor position|
-|live|Timeline Schedule|
-|live|Water Tracker|
-|live|Word Frequency|
-|log|Beautiful Contact Cards|
-|log|Excalidraw|
-|log|Novel word count|
+## [[resource/obsidian.md|Community plugins]]
+
+## On ribbon
 
 |vault|plugin|on_ribbon|
 |:-|:-|:-|
@@ -78,20 +31,23 @@
 |log|Canvas|Create new canvas|
 |log|Graph view|Open graph view|
 
-|vault|shortcut|command|
+## Built-in shortcut
+
+|vault|command|shortcut|
 |:-|:-|:-|
-|global|A-b|Bookmarks: Borkmarks ...|
-|global|A-S-b|Bookmarks: Remove bookmark for the current file|
-|global|C-S-p|Command palette: Open command palette|
-|global|C-S-Down|Split down|
-|global|C-S-Right|Split right|
-|global|A-S-l|Toggle Live Preview/Source mode|
-|global|C-[|Toggle left sidebar|
-|global|C-]|Toggle right sidebar|
+|global|Bookmarks: Borkmarks ...|A-b|
+|global|Bookmarks: Remove bookmark for the current file|A-S-b|
+|global|Command palette: Open command palette|C-S-p|
+|global|Split down|C-S-Down|
+|global|Split right|C-S-Right|
+|global|Toggle Live Preview/Source mode|A-S-l|
+|global|Toggle left sidebar|C-[|
+|global|Toggle right sidebar|C-]|
+
+## Community plugins shortcut
 
 |vault|community_plugin|shortcut|command|
 |:-|:-|:-|:-|
-|global|Markdown Table Editor|Open Editor (Below the Active View)|A-S-m|
 |global|MatchSyntax|Enter match syntax|C-m|
 |global|MatchSyntax|Clear match highlights|C-S-m|
 |global|Mode manager|Switch to edit|C-S-e|
@@ -104,5 +60,12 @@
 |global|Scroll to Top|Scroll to Cursor|A-c|
 |global|Show Whitespace|Toggle Show Whitespace|C-S-w|
 |global|Templater|Open insert template modal|A-S-t|
+|global|Auto Link Title|Normal paste (no fetching behavior)|C-v|
+|global|Auto Link Title|Paste URL and auto fetch title|C-S-v|
 |cheatsheet|LanguageTool Integration|Check Text|A-S-l|
+|live|Sentence Navigator|Move to start of current sentence|S-Up|
+|live|Sentence Navigator|Move to start of next sentence|S-Down|
+|live|Sentence Navigator|Select current sentence|A-s|
+|live|Sentence Navigator|Select to end of sentence|S-Right|
+|live|Sentence Navigator|Select to start of sentence|S-Left|
 |live|Water Tracker|Add one drink|A-w|
