@@ -1,42 +1,39 @@
 ## Mark
 
-|tag|link|subscribe|
-|:-|:-|:-|
-|f-droid,apk|[APK Explorer & Editor](https://github.com/apk-editor/APK-Explorer-Editor)|release|
-|f-droid,apk|[App Manager](https://github.com/MuntashirAkon/AppManager)|release|
-|f-droid,apk|[Obtainium](https://github.com/ImranR98/Obtainium)|release|
-|f-droid,auth|[Aegis Authenticator](https://github.com/beemdevelopment/Aegis)|release|
-|f-droid,book|[AndBible: Bible Study](https://github.com/AndBible/and-bible)|release|
-|f-droid,browser|[Fennec](https://gitlab.com/relan/fennecbuild)|download|
-|f-droid,email|[FairEmail](https://github.com/M66B/FairEmail)|release|
-|f-droid,explorer|Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager)|release|
-|f-droid,lan|[Tailscale](https://github.com/tailscale/tailscale)|download|
-|f-droid,manga|[Mihon App](https://github.com/mihonapp/mihon)|release|
-|f-droid,player|[Lissen - Clean Audiobookshelf Player](https://github.com/GrakovNe/lissen-android)|release|
-|f-droid,player|[mpvKt](https://github.com/abdallahmehiz/mpvKt)|release|
-|f-droid,player|[VLC](https://code.videolan.org/videolan/vlc-android)|pipelines|
-|f-droid,podcast|[AntennaPod](https://github.com/AntennaPod/AntennaPod)|release|
-|f-droid,reader|[Librera Reader](https://github.com/foobnix/LibreraReader)|release|
-|f-droid,share|[LocalSend](https://github.com/localsend/localsend)|release|
-|f-droid,stream|[Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-android)|release|
-|f-droid,sync|[Syncthing-Fork](https://github.com/Catfriend1/syncthing-android)|release|
-|f-droid|[Binary Eye](https://github.com/markusfisch/BinaryEye)|release|
-|f-droid|[Neo Store](https://github.com/NeoApplications/Neo-Store)|release|
-|f-droid|[Termux](https://github.com/termux/termux-app)|release|
-|other,editor|[蜜蜂便签](https://mp.weixin.qq.com/s/6v_1CnkOGsUgGaRIiXKFIg)|download|
-|other,network|[v2rayNG](https://github.com/2dust/v2rayNG)|release|
+|tag|link|subscribe|obtainium|
+|:-|:-|:-|:-|
+|f-droid,apk|[Neo Store](https://github.com/NeoApplications/Neo-Store)|release|[Neo Store](https://f-droid.org/en/packages/com.machiav3lli.fdroid/)|
+|f-droid,apk|[Obtainium](https://github.com/ImranR98/Obtainium)|release|[Obtainium](https://f-droid.org/en/packages/dev.imranr.obtainium.fdroid)|
+|f-droid,browser|[Fennec](https://gitlab.com/relan/fennecbuild)|/|[Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)|
+|f-droid,email|[FairEmail](https://github.com/M66B/FairEmail)|release|[FairEmail](https://f-droid.org/en/packages/eu.faircode.email)|
+|f-droid,explorer|[Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager)|release|[Amaze](https://f-droid.org/en/packages/com.amaze.filemanager/)|
+|f-droid,player|[AntennaPod](https://github.com/AntennaPod/AntennaPod)|commit|[AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/)|
+|f-droid,player|[Lissen - Clean Audiobookshelf Player](https://github.com/GrakovNe/lissen-android)|release|[Lissen: Audiobookshelf client](https://f-droid.org/en/packages/org.grakovne.lissen/)|
+|f-droid,player|[mpvKt](https://github.com/abdallahmehiz/mpvKt)|release|[mpvKt: MPV based media player](https://f-droid.org/en/packages/live.mehiz.mpvkt/)|
+|f-droid,player|[VLC](https://github.com/videolan/vlc-android)|commit|[VLC](https://f-droid.org/en/packages/org.videolan.vlc/)|
+|f-droid,reader|[Librera Reader](https://github.com/foobnix/LibreraReader)|release|[Librera Reader](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/)|
+|f-droid,reader|[Mihon App](https://github.com/mihonapp/mihon)|release|/|
+|f-droid|[Aegis Authenticator](https://github.com/beemdevelopment/Aegis)|release|[Aegis Authenticator](https://f-droid.org/en/packages/com.beemdevelopment.aegis/)|
+|f-droid|[Binary Eye](https://github.com/markusfisch/BinaryEye)|release|[Binary Eye](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye)|
+|f-droid|[LocalSend](https://github.com/localsend/localsend)|release|[LocalSend](https://f-droid.org/en/packages/org.localsend.localsend_app)|
+|f-droid|[Tailscale](https://github.com/tailscale/tailscale)|/|[Tailscale](https://f-droid.org/en/packages/com.tailscale.ipn/)
+|f-droid|[Termux](https://github.com/termux/termux-app)|release|[Termux](https://f-droid.org/en/packages/com.termux/)|
+|other,editor|[蜜蜂便签](https://mp.weixin.qq.com/s/6v_1CnkOGsUgGaRIiXKFIg)|/|/|
 
 ## Extra
 
 |tag|link|subscribe|
 |:-|:-|:-|
 |f-droid,anki|[AnkiDroid: Flashcards](https://github.com/ankidroid/Anki-Android)|release|
+|f-droid,apk|[APK Explorer & Editor](https://github.com/apk-editor/APK-Explorer-Editor)|release|
+|f-droid,apk|[App Manager](https://github.com/MuntashirAkon/AppManager)|release|
 |f-droid,apk|[Kanade Apk Extractor](https://github.com/alexrintt/kanade)|release|
 |f-droid,apk|[LibChecker](https://github.com/LibChecker/LibChecker)|release|
-|f-droid,calibre|[Calibre Web Companion](https://github.com/doen1el/calibre-web-companion)|release|
-|f-droid,camera|[Recording Webcam](https://github.com/TV-Box-Support/Recording-Webcam)|release|
-|f-droid,reader|[KOReader](https://github.com/koreader/koreader)|release|
-|f-droid,reader|[Readium Kotlin Toolkit](https://github.com/readium/kotlin-toolkit)|release|
+|f-droid,book|[AndBible: Bible Study](https://github.com/AndBible/and-bible)|release|
+|f-droid,explorer|[Material Files](https://github.com/zhanghai/MaterialFiles)|release|
+|f-droid,photo|[Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)|release|
+|f-droid,stream|[Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-android)|release|
+|f-droid,sync|[Syncthing-Fork](https://github.com/Catfriend1/syncthing-android)|release|
 |f-droid,vnc|[bVNC Free](https://github.com/iiordanov/remote-desktop-clients)|release|
 |f-droid,vnc|[droidVNC-NG](https://github.com/bk138/droidVNC-NG)|release|
 |f-droid,wallpaper|[Doodle Android: Live Wallpapers](https://github.com/patzly/doodle-android)|release|
@@ -45,6 +42,10 @@
 
 |tag|link|subscribe|
 |:-|:-|:-|
+|f-droid,calibre|[Calibre Web Companion](https://github.com/doen1el/calibre-web-companion)|release|
+|f-droid,camera|[Recording Webcam](https://github.com/TV-Box-Support/Recording-Webcam)|release|
+|f-droid,reader|[KOReader](https://github.com/koreader/koreader)|release|
+|f-droid,reader|[Readium Kotlin Toolkit](https://github.com/readium/kotlin-toolkit)|release|
 |f-droid,reader|[Storyteller](https://gitlab.com/smoores/storyteller)|release|
 |f-droid,telegram|[Forkgram](https://github.com/Forkgram/TelegramAndroid)|release|
 |f-droid,telegram|[Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)|release|
@@ -61,7 +62,6 @@
 |f-droid,dictionary|[SilverDict](https://github.com/Crissium/SilverDict-mobile)|/|
 |f-droid,editor|[Squircle CE](https://github.com/massivemadness/Squircle-CE)|/|
 |f-droid,explorer|[File Manager Plus](https://alphainventor.com/file-manager-plus)|/|
-|f-droid,explorer|[Material Files](https://github.com/zhanghai/MaterialFiles)|/|
 |f-droid,game|[Forkyz Scanner](https://gitlab.com/Hague/forkyzscanner)|/|
 |f-droid,game|[RetroArch](https://github.com/libretro/RetroArch)|/|
 |f-droid,lan|[Zerotier Fix](https://github.com/kaaass/ZerotierFix)|/|
@@ -89,7 +89,6 @@
 |f-droid,torrent|[Torrents-csv](https://git.torrents-csv.com/heretic/torrents-csv-android)|/|
 |f-droid,translate|[Rtranslator](https://github.com/niedev/RTranslator)|/|
 |f-droid,ubuntu|[Ubuntu on android](https://github.com/RandomCoderOrg/ubuntu-on-android)|/|
-|f-droid,viewer|[Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery)|/|
 |f-droid,wallpaper|[Code Rain Wallpaper](https://gitlab.com/_zagura/code-rain-wallpaper)|/|
 |f-droid,webdav|[Round Sync](https://github.com/newhinton/Round-Sync)|/|
 |f-droid,windows|[MiceWine Emulator](https://github.com/KreitinnSoftware/MiceWine-Application)|/|

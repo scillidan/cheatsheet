@@ -107,6 +107,7 @@
 |sketch-to-lineart|https://gm-sketch-to-lineart.vercel.app|
 |sreadium|https://gm-sreadium.vercel.app|
 |studio|https://gm-studio1.vercel.app|
+|github-search-rss|https://scillidan.github.io/github-search-rss|
 |SVGEdit|https://gm-svgedit.vercel.app|
 |SvgPathEditor|https://gm-svg-path-editor.vercel.app|
 |textReader|https://gm-text-reader.vercel.app/textReader.html|
