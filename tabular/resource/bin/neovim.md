@@ -79,6 +79,7 @@
 |tag|link|
 |:-|:-|
 |neovim,complete|[Blink Completion (blink.cmp)](https://github.com/Saghen/blink.cmp)|
+|neovim,obsidian|[obsidian.nvim](https://github.com/epwalsh/obsidian.nvim)|
 
 ## Cache
 

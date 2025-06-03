@@ -54,6 +54,7 @@
 |global|Mode manager|Switch to reading|C-S-r|
 |global|Omnisearch|In-file search|C-f|
 |global|Omnisearch|Vault search|C-S-f|
+|global|Open with|Open file with Sublime Text|C-e|
 |global|Regex Line Filter|Toggle|C-r|
 |global|Scroll to Top|Scroll to Top|A-Up|
 |global|Scroll to Top|Scroll to Bottom|A-Down|

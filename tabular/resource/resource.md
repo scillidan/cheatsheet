@@ -1,8 +1,182 @@
+## Mark
+
+|tag|mark|link|subscribe|
+|:-|:-|:-|:-|
+|action|mark|[GitLab Sync - GitHub Action](https://github.com/kujov/gitlab-sync)||
+|ai,repo|mark|[Repomix](https://github.com/yamadashy/repomix)||
+|ai|mark|[LM Studio](https://lmstudio.ai)|download|
+|ai|mark|[Ollama](https://github.com/ollama/ollama)|release|
+|archive|mark|[7zip](https://7-zip.org)|download|
+|audio,editor|mark|[Audacity](https://github.com/audacity/audacity)|release|
+|audio,encode|mark|[XMedia Recode](https://xmedia-recode.de)|download|
+|audio,metadata|mark|[Mp3tag](https://mp3tag.de)|download|
+|audio,player,multi|mark|[YouTube Music](https://github.com/th-ch/youtube-music)||
+|autohotkey|mark|[AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)|release|
+|bin,brower|mark|[open-cli](https://github.com/sindresorhus/open-cli)||
+|bin,cd|mark|[tere](https://github.com/mgunyho/tere)||
+|bin,curl|mark|[Reproducible curl binaries](https://github.com/curl/curl-for-win)||
+|bin,echo|mark|[echo-cli](https://github.com/iamakulov/echo-cli)||
+|bin,find,replace|mark|[sd](https://github.com/chmln/sd)|release|
+|bin,fzf|mark|[fzf](https://github.com/junegunn/fzf)||
+|bin,grep|mark|[dnGrep](https://github.com/dnGrep/dnGrep)|release|
+|bin,grep|mark|[ripgrep](https://github.com/BurntSushi/ripgrep)|release|
+|bin,jump|mark|[zoxide](https://github.com/ajeetdsouza/zoxide)||
+|bin,less,markdown|cache|[Glow](https://github.com/charmbracelet/glow)|release|
+|bin,less,markdown|cache|[mdr](https://github.com/MichaelMure/mdr)||
+|bin,recent|mark|[Atuin](https://github.com/ellie/atuin)||
+|bin,sed|mark|[sed-windows](https://github.com/mbuilov/sed-windows)|release|
+|bin,touch|mark|[feel](https://github.com/jbr/feel)||
+|bin,translate|mark|[Translate Shell](https://github.com/soimort/translate-shell)||
+|bin,tree|mark|[tree](https://github.com/a8m/tree)||
+|bookmark,buku,extension|cache|[bukubrow-webext](https://github.com/SamHH/bukubrow-webext)||
+|bookmark,buku|cache|[bukubrow-host](https://github.com/samhh/bukubrow-host)||
+|bookmark,buku|cache|[bukuserver](https://github.com/jarun/buku/tree/master/bukuserver)||
+|bookmark,linkding,extension|cache|[linkding extension](https://github.com/sissbruecker/linkding-extension)||
+|bookmark,linkding,extension|cache|[linkding injector](https://github.com/fivefold/linkding-injector)||
+|bookmark,linkding|cache|[Linkding Archiver](https://github.com/sebw/linkding-archiver)||
+|bookmark,linkding|cache|[linkding-cli](https://github.com/bachya/linkding-cli)||
+|browser,brave|mark|[Brave](https://brave.com)|release|
+|browser,http,extension|mark|[simple-modify-headers](https://github.com/didierfred/SimpleModifyHeaders)||
+|browser,script,extension|mark|[Violentmonkey](https://violentmonkey.github.io)||
+|cli,command|mark|[mprocs](https://github.com/pvolok/mprocs)|release|
+|cli,rename|mark|[Renamer](https://github.com/innocenzi/rename)||
+|cli,sentence|mark|[Sentences](https://github.com/neurosnap/sentences)||
+|clip,image|mark|[PureRef](https://pureref.com)|download|
+|clipboard|mark|[Ditto](https://github.com/sabrogden/Ditto)|release|
+|cmder,terminal|mark|[Cmder](https://github.com/cmderdev/cmder)|release|
+|copy|mark|[FastCopy](https://fastcopy.jp/)|download|
+|desktop,menu|mark|[Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu)|release|
+|desktop,wallpaper|mark|[Lively](https://github.com/rocksdanister/lively)|release|
+|device,display|mark|[LCD-show-retropie](https://github.com/lcdwiki/LCD-show-retropie)||
+|device,uconsole,postmarketos|cache|[PostmarketOS - uConsole CM4](https://forum.clockworkpi.com/t/postmarketos-uconsole-cm4/12458)||
+|dictionary,cli|mark|[sdcv](https://github.com/Dushistov/sdcv)||
+|dictionary|mark|[GoldenDict](https://github.com/goldendict/goldendict)||
+|directory-opus|mark|[Directory Opus](https://gpsoft.com.au)|download|
+|document,docset|mark|[Zeal](https://zealdocs.org)||
+|dotfiles,git|mark|[chezmoi](https://github.com/twpayne/chezmoi)|release|
+|editor,latex|mark|[MiKTeX](https://miktex.org)|download|
+|editor,markdown|cache|[Asciidoc FX](https://asciidocfx.com)||
+|editor,markdown|cache|[MarkText](https://github.com/marktext/marktext)||
+|editor,markdown|cache|[QOwnNotes](https://qownnotes.org)||
+|editor,markdown|cache|[VNote](https://vnotex.github.io/vnote)||
+|editor,office|mark|[LibreOffice](https://libreoffice.org)|download|
+|editor|mark|[Neovide](https://github.com/neovide/neovide)||
+|email|mark|[Thunderbird](https://thunderbird.net)|download|
+|emulator|mark|[RetroArch](https://retroarch.com)|download|
+|everything|mark|[Everything](https://voidtools.com)|download|
+|explorer,context-menu|mark|[Shell-X](https://github.com/oleg-shilo/shell-x)|release|
+|explorer,decompress|mark|[SmartZip](https://github.com/vvyoko/SmartZip)|release|
+|explorer,link|mark|[Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html)|download|
+|explorer,restart|mark|[Restart Explorer](https://sordum.org/9192/restart-explorer-v1-7)|download|
+|explorer,svg|mark|[SVG Shell Extensions](https://github.com/EtheaDev/SVGShellExtensions)|release|
+|explorer,unlock|mark|[LockHunter](https://lockhunter.com/index.htm)|download|
+|file-share|mark|[LocalSend](https://github.com/localsend/localsend)|release|
+|font,2woff|mark|[ttf2woff2](https://github.com/nfroidure/ttf2woff2)||
+|git,github|mark|[GitHub Desktop](https://desktop.github.com)|download|
+|git,issue|mark|[pro](https://github.com/Wowu/pro)|release|
+|git,sync|mark|[git-sync](https://github.com/simonthum/git-sync)||
+|github,action,markdown|cache|[Markdown autodocs](https://github.com/dineshsonachalam/markdown-autodocs)||
+|github,action,mkdocs|mark|[Publishing your site](https://squidfunk.github.io/mkdocs-material/publishing-your-site)||
+|github,action,pdf|cache|[Markdown to PDF](https://github.com/BaileyJM02/markdown-to-pdf)||
+|github,css|cache|[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)||
+|github,css|cache|[Markdown to GitHub style web](https://github.com/KrauseFx/markdown-to-html-github-style)||
+|github,js|cache|[gh-md-toc](https://github.com/ekalinin/github-markdown-toc)||
+|git|mark|[Git for Windows](https://github.com/git-for-windows/git)|release|
+|git|mark|[Git](https://git-scm.com)|download|
+|grammar|mark|[LanguageTool](https://github.com/languagetool-org/languagetool)|download|
+|gui,rename|mark|[Advanced Renamer](https://advancedrenamer.com)|download|
+|hardware,audio|mark|[EarTrumpet](https://github.com/File-New-Project/EarTrumpet)|download|
+|hardware,memory|mark|[Reduce Memory](https://sordum.org/9197/reduce-memory-v1-6/)|download|
+|image,convert|mark|[XnConvert](https://xnview.com/en/xnconvert)|download|
+|image,darktable|mark|[darktable](https://github.com/darktable-org/darktable)|release|
+|image,library|mark|[ImageMagick](https://imagemagick.org)|download|
+|image,tool,background|mark|[Rembg](https://github.com/danielgatis/rembg)||
+|image,viewer|mark|[JPEGView](https://github.com/sylikc/jpegview)|release|
+|imager|mark|[Etcher](https://github.com/balena-io/etcher)|download|
+|imager|mark|[Ventoy](https://github.com/ventoy/Ventoy)|release|
+|img,playbook|mark|[AME Wizard](https://ameliorated.io)|download|
+|img,tool|mark|[SDCardFormatter](https://sdcard.org/downloads/formatter)|download|
+|js,highlight|cache|[mark.js](https://markjs.io)||
+|js,markdown|cache|[markdown-it-attrs](https://github.com/arve0/markdown-it-attrs)||
+|js,markdown|cache|[markdown-it-cjk-breaks](https://github.com/markdown-it/markdown-it-cjk-breaks)||
+|keyboard|mark|[VIA - releases](https://github.com/the-via/releases)|release|
+|keypirinha|mark|[Keypirinha](https://github.com/Keypirinha/Keypirinha)|release|
+|library,cargo|mark|[rustup](https://rustup.rs)|download|
+|library,go|mark|[go](https://go.dev)||
+|library,go|mark|[gvm](https://github.com/danielkermode/gvm)||
+|library,lua|mark|[hererocks](https://github.com/luarocks/hererocks)||
+|library,npm|mark|[npms-cli](https://github.com/npms-io/npms-cli)||
+|library,npm|mark|[NVM for Windows](https://github.com/coreybutler/nvm-windows)|release|
+|library,npm|mark|[pnpm](https://pnpm.io)||
+|library,python|mark|[pip_search](https://github.com/victorgarric/pip_search)||
+|library,python|mark|[pyenv for Windows](https://github.com/pyenv-win/pyenv-win)|release|
+|library,python|mark|[Python](https://python.org)|download|
+|library,ruby|mark|[rbenv for Windows](https://github.com/ccmywish/rbenv-for-windows)||
+|library,ruby|mark|[rvm](https://github.com/rvm/rvm)||
+|lyric|mark|[LRCGET](https://github.com/tranxuanthang/lrcget)||
+|mpv|mark|[mpv](https://mpv.io)||
+|music,cmus|mark|[cmus](https://cmus.github.io/)||
+|neovim|mark|[Neovim](https://github.com/neovim/neovim)|release|
+|network,dns|cache|[DNS Benchmark](https://grc.com/dns/benchmark.htmS)||
+|network,host|mark|[HostsFileEditor](https://github.com/scottlerch/HostsFileEditor)|release|
+|network,zerotier|mark|[ZeroTier](https://zerotier.com)|download|
+|obs-studio|mark|[OBS Studio](https://github.com/obsproject/obs-studio)|release|
+|ocr|mark|[Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)|release|
+|password,keepassxc,extension|mark|[KeePassXC-Browser](https://github.com/keepassxreboot/keepassxc-browser)||
+|password,keepassxc|mark|[KeepassXC](https://github.com/keepassxreboot/keepassxc)|release|
+|pdf,reader|mark|[Foxit PDF Reader](https://www.foxit.com/pdf-reader/)|download|
+|pdf,signature|cache|[markpdf](https://github.com/ajaxray/markpdf)||
+|protocol,ftp|mark|[WinSCP](https://github.com/winscp/winscp)|download|
+|protocol,fuse|mark|[WinFsp](https://github.com/winfsp/winfsp)|release|
+|protocol,sshfs|mark|[SSHFS-Win Manager](https://github.com/evsar3/sshfs-win-manager)|release|
+|protocol,sshfs|mark|[SSHFS-Win](https://github.com/winfsp/sshfs-win)|release|
+|protocol,ssh|mark|[WinSSHTerm](https://winsshterm.blogspot.com)||
+|python|mark|[uv](https://github.com/astral-sh/uv)|release|
+|rename|mark|[Bulk Rename Utility](https://www.bulkrenameutility.co.uk)|download|
+|rime,ime|mark|[Rime](https://github.com/rime/weasel)|release|
+|rofi|mark|[Rofi](https://github.com/davatorium/rofi)||
+|rss,newsboat|mark|[Newsboat](https://github.com/newsboat/newsboat)||
+|rss,serve|mark|[Miniflux 2](https://github.com/miniflux/v2)||
+|rss|mark|[QuiteRSS](https://quiterss.org)|download|
+|scoop|mark|[Scoop](https://scoop.sh)||
+|screenshot,snipaste|mark|[Snipaste](https://snipaste.com)|download|
+|sd-webui|mark|[Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)||
+|security,hash|mark|[OpenHashTab](https://github.com/namazso/OpenHashTab)|release|
+|shell,environment：-|mark|[Rapid Environment Editor](https://rapidee.com/en/about)|download|
+|shell,init|mark|[RefrEnv](https://github.com/badrelmers/RefrEnv)|release|
+|shell,prompt|mark|[Starship](https://github.com/starship/starship)|release|
+|sublime-text|mark|[Sublime Text](https://sublimetext.com)|download|
+|subtitle,download|mark|[subliminal](https://github.com/Diaoul/subliminal)||
+|subtitle,editor|mark|[Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit)|release|
+|sudo|mark|[gsudo - a sudo for Windows](https://github.com/gerardog/gsudo)|release|
+|sync|mark|[MEGAsync](https://mega.io/desktop)|download|
+|terminal,alacritty|mark|[Alacritty Theme](https://github.com/alacritty/alacritty-theme)||
+|terminal,alacritty|mark|[Alacritty](https://github.com/alacritty/alacritty)|release|
+|terminal,asciinema,gif|mark|[agg](https://github.com/asciinema/agg)|release|
+|terminal,asciinema|mark|[asciinema](https://github.com/asciinema/asciinema)||
+|text,diff|mark|[WinMerge](https://github.com/WinMerge/winmerge)|release|
+|text-expander|mark|[Espanso](https://github.com/espanso/espanso)|release|
+|thumbnail|mark|[DarkThumbs](https://github.com/fire-eggs/DarkThumbs)|release|
+|torrent|mark|[qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)|release|
+|track,activitywatch,extension|mark|[ActivityWatch Web Watcher](https://github.com/ActivityWatch/aw-watcher-web)||
+|video,cut|mark|[LosslessCut](https://github.com/mifi/lossless-cut)|release|
+|video,editor|mark|[Kdenlive](https://kdenlive.org)|download|
+|video,encode,handbrake|mark|[HandBrake](https://handbrake.fr)|download|
+|video,encode|mark|[StaxRip](https://github.com/staxrip/staxrip)|release|
+|video,library|mark|[FFmpeg](https://ffmpeg.org)|download|
+|video,metadata|mark|[MediaInfo](https://mediaarea.net/en/MediaInfo)|download|
+|video,rename|mark|[sub-batch](https://github.com/kl/sub-batch)|release|
+|video,translate|mark|[Tern](https://github.com/1c7/Translate-Subtitle-File)|release|
+|web,preview|extra|[Markserv](https://github.com/markserv/markserv)||
+|window,resize|mark|[resizer2](https://github.com/alvesvaren/resizer2)|release|
+|window,switch|mark|[AltBacktick](https://github.com/akiver/AltBacktick)||
+
+## Cache
+
 |tag|mark|link|subscribe|
 |:-|:-|:-|:-|
 |3d|cache|[Blender](https://github.com/blender/blender)|download|
 |action,artifact|cache|[upload-artifact](https://github.com/actions/upload-artifact)||
-|action|mark|[GitLab Sync - GitHub Action](https://github.com/kujov/gitlab-sync)||
 |adb|cache|[AYA](https://github.com/liriliri/aya)|release|
 |ai,audio|cache|[Amphion](https://github.com/open-mmlab/Amphion)||
 |ai,audio|cache|[AniPortrait](https://github.com/Zejun-Yang/AniPortrait)||
@@ -29,7 +203,6 @@
 |ai,rag|cache|[LightRAG](https://github.com/HKUDS/LightRAG)||
 |ai,rag|cache|[MemoRAG](https://github.com/qhjqhj00/MemoRAG)||
 |ai,rag|cache|[pgai](https://github.com/timescale/pgai)||
-|ai,repo|mark|[Repomix](https://github.com/yamadashy/repomix)||
 |ai,translate|cache|[BallonsTranslator](https://github.com/dmMaze/BallonsTranslator)||
 |ai,translate|cache|[ChatGPT API SRT Subtitle Translator](https://github.com/Cerlancism/chatgpt-subtitle-translator)|release|
 |ai,tta|cache|[AudioLDM](https://github.com/haoheliu/AudioLDM)||
@@ -70,8 +243,6 @@
 |ai|cache|[ToonCrafter](https://github.com/sdbds/ToonCrafter-for-windows)||
 |ai|cache|[VoxNovel](https://github.com/DrewThomasson/VoxNovel)||
 |ai|cache|[Whishper](https://github.com/pluja/whishper)||
-|ai|mark|[LM Studio](https://lmstudio.ai)|download|
-|ai|mark|[Ollama](https://github.com/ollama/ollama)|release|
 |alias|cache|[Shell Colorized Aliases for Docker/Podman (SCAD](https://github.com/MicahElliott/scad)||
 |anime|cache|[FastAnime](https://github.com/Benexl/FastAnime)||
 |anki|later|[Anki](https://github.com/ankitects/anki)||
@@ -90,7 +261,6 @@
 |archive|cache|[Universal Extractor 2](https://github.com/Bioruebe/UniExtract2)||
 |archive|extra|[Gzip for Windows](https://gnuwin32.sourceforge.net/packages/gzip.htm)|download|
 |archive|extra|[UnRar for Windows](https://gnuwin32.sourceforge.net/packages/unrar.htm)|download|
-|archive|mark|[7zip](https://7-zip.org)|download|
 |asciinema|cache|[asciinema](https://github.com/gvcgo/asciinema)||
 |audio,convert|cache|[Audiomass](https://github.com/jeanslack/audiomass)||
 |audio,convert|cache|[music-tools](https://github.com/mauvedeity/music-tools)||
@@ -101,9 +271,7 @@
 |audio,cut|cache|[Unsilence](https://github.com/lagmoellertim/unsilence)||
 |audio,editor|cache|[ocenaudio](https://github.com/ocenaudio/ocenaudio-translations)||
 |audio,editor|cache|[Tenacity](https://codeberg.org/tenacityteam/tenacity)||
-|audio,editor|mark|[Audacity](https://github.com/audacity/audacity)|release|
 |audio,encode|cache|[FlicFlac](https://github.com/DannyBen/FlicFlac)||
-|audio,encode|mark|[XMedia Recode](https://xmedia-recode.de)|download|
 |audio,generate|cache|[Lip Synced Character Animator Generator](https://github.com/EternalDusk/LipSyncVideoGenerator)||
 |audio,generate|cache|[MusicVideoGenerator](https://github.com/EtaletaiRecords/MusicVideoGenerator)||
 |audio,generate|extra|[Audio Waveform Image Generator](https://github.com/bbc/audiowaveform)||
@@ -117,11 +285,9 @@
 |audio,lyric|cache|[ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX)||
 |audio,metadata|extra|[AudioShell](https://audioshell.en.lo4d.com/windows)|download|
 |audio,metadata|extra|[Tag Editor](https://github.com/Martchus/tageditor)|release|
-|audio,metadata|mark|[Mp3tag](https://mp3tag.de)|download|
 |audio,player,multi|cache|[Listen 1](https://listen1.github.io/listen1)||
 |audio,player,multi|cache|[Moosync](https://github.com/Moosync/Moosync)||
 |audio,player,multi|cache|[muffon](https://github.com/staniel359/muffon)||
-|audio,player,multi|mark|[YouTube Music](https://github.com/th-ch/youtube-music)||
 |audio,player|cache|[AIMP](https://aimp.ru)||
 |audio,player|cache|[Exaile](https://exaile.org)||
 |audio,player|cache|[Garlmap](https://github.com/Jelmerro/Garlmap)||
@@ -141,20 +307,16 @@
 |audio,spotify|cache|[Spytify](https://github.com/jwallet/spy-spotify)||
 |audio,sync|cache|[Ascanius](https://github.com/hljodbokasafnid/Ascanius)||
 |audio,sync|cache|[AudiobookTextSync](https://github.com/kanjieater/AudiobookTextSync)||
-|autohotkey|mark|[AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)|release|
 |automa,web|cache|[Selenium](https://github.com/SeleniumHQ/selenium)|release|
 |automa|cache|[PyAutoGUI](https://github.com/asweigart/pyautogui)||
-|bin,brower|mark|[open-cli](https://github.com/sindresorhus/open-cli)||
 |bin,cat|cache|[ccat](https://github.com/owenthereal/ccat)||
 |bin,cat|cache|[gat](https://github.com/koki-develop/gat)||
 |bin,cat|cache|[treecat](https://github.com/Knio/treecat)||
 |bin,cat|extra|[bat](https://github.com/sharkdp/bat)|release|
 |bin,cd|cache|[ls Xtended](https://github.com/souvikinator/lsx)||
-|bin,cd|mark|[tere](https://github.com/mgunyho/tere)||
 |bin,curl|cache|[Curl](https://github.com/curl/curl)||
 |bin,curl|cache|[Curlie](https://github.com/rs/curlie)||
 |bin,curl|cache|[httpstat](https://github.com/davecheney/httpstat)||
-|bin,curl|mark|[Reproducible curl binaries](https://github.com/curl/curl-for-win)||
 |bin,dig|cache|[bind](https://isc.org/bind)||
 |bin,dig|cache|[dog](https://github.com/ogham/dog)||
 |bin,du|cache|[dua](https://github.com/Byron/dua-cli)||
@@ -162,16 +324,13 @@
 |bin,du|cache|[Dust](https://github.com/bootandy/dust)||
 |bin,du|cache|[go DiskUsage(](https://github.com/dundee/gdu)||
 |bin,du|cache|[lsdsk](https://github.com/rasa/lsdsk)||
-|bin,echo|mark|[echo-cli](https://github.com/iamakulov/echo-cli)||
 |bin,explorer|cache|[lf](https://github.com/gokcehan/lf)||
 |bin,explorer|cache|[xplr](https://github.com/sayanarijit/xplr)||
 |bin,explorer|cache|[Yazi](https://github.com/sxyazi/yazi)||
 |bin,explorer|extra|[Broot](https://github.com/Canop/broot)|release|
 |bin,find,replace|cache|[amber](https://github.com/dalance/amber)||
-|bin,find,replace|mark|[sd](https://github.com/chmln/sd)|release|
 |bin,find|cache|[fd](https://github.com/sharkdp/fd)||
 |bin,find|cache|[television](https://github.com/alexpasmantier/television)||
-|bin,fzf|mark|[fzf](https://github.com/junegunn/fzf)||
 |bin,grep|cache|[grepWin](https://github.com/stefankueng/grepWin)||
 |bin,grep|cache|[Grepz](https://github.com/shockz-offsec/Grepz)||
 |bin,grep|cache|[qgrep](https://github.com/zeux/qgrep)||
@@ -182,27 +341,20 @@
 |bin,grep|cache|[ugrep](https://github.com/Genivia/ugrep)|release|
 |bin,grep|cache|[vgrep](https://github.com/vrothberg/vgrep)||
 |bin,grep|cache|[w2vgrep - Semantic Grep](https://github.com/arunsupe/semantic-grep)|release|
-|bin,grep|mark|[dnGrep](https://github.com/dnGrep/dnGrep)|release|
-|bin,grep|mark|[ripgrep](https://github.com/BurntSushi/ripgrep)|release|
 |bin,jq|cache|[jq](https://jqlang.github.io)||
-|bin,jump|mark|[zoxide](https://github.com/ajeetdsouza/zoxide)||
 |bin,less,epub|cache|[epr](https://github.com/wustho/epr)||
 |bin,less,epub|cache|[epy](https://github.com/wustho/epy)||
 |bin,less,html|cache|[reader](https://github.com/mrusme/reader)||
-|bin,less,markdown|cache|[Glow](https://github.com/charmbracelet/glow)|release|
-|bin,less,markdown|cache|[mdr](https://github.com/MichaelMure/mdr)||
 |bin,ls|extra|[lsd](https://github.com/lsd-rs/lsd)|release|
 |bin,man,color|cache|[rose-pine-man](https://github.com/const-void/rose-pine-man)||
 |bin,mkdir|cache|[Mkdirs](https://github.com/dolanor/mkdirs)||
 |bin,ping|cache|[pingu](https://github.com/sheepla/pingu)||
 |bin,ping|cache|[PowerPing](https://github.com/Killeroo/PowerPing)||
 |bin,ranger|cache|[ranger](https://github.com/ranger/ranger)||
-|bin,recent|mark|[Atuin](https://github.com/ellie/atuin)||
 |bin,rm|cache|[recycle-bin](https://github.com/sindresorhus/recycle-bin)||
 |bin,rm|cache|[trash-cli](https://github.com/andreafrancia/trash-cli)||
 |bin,rm|cache|[trash-cli](https://github.com/sindresorhus/trash-cli)||
 |bin,rm|cache|[trashy](https://github.com/oberblastmeister/trashy)||
-|bin,sed|mark|[sed-windows](https://github.com/mbuilov/sed-windows)|release|
 |bin,select|cache|[Heatseeker](https://github.com/rschmitt/heatseeker)||
 |bin,sync|cache|[cwRsync](https://itefix.net/cwrsync)||
 |bin,sync|cache|[rsync](https://rsync.samba.org)||
@@ -210,35 +362,22 @@
 |bin,tldr|cache|[tldr++](https://github.com/isacikgoz/tldr)||
 |bin,tldr|cache|[tldr-pages](https://github.com/tldr-pages/tldr)||
 |bin,touch|cache|[fsutil](https://github.com/MicrosoftDocs/windowsserverdocs/blob/main/WindowsServerDocs/administration/windows-commands/fsutil.md)||
-|bin,touch|mark|[feel](https://github.com/jbr/feel)||
-|bin,translate|mark|[Translate Shell](https://github.com/soimort/translate-shell)||
 |bin,tree|cache|[ki-cli-hyphen](https://github.com/scillidan/ki-cli-hyphen)||
 |bin,tree|cache|[Untree](https://github.com/codeinred/untree)||
 |bin,tree|extra|[erdtree](https://github.com/solidiquis/erdtree)|release|
-|bin,tree|mark|[tree](https://github.com/a8m/tree)||
 |bin,webfont|cache|[webfont-dl](https://github.com/mmastrac/webfont-dl)||
 |bin,webfont|extra|[autosubset](https://github.com/MarcelWaldvogel/autosubset)||
 |bin,webfont|extra|[fontmin](https://github.com/ecomfe/fontmin)||
 |bin,wol|cache|[rallyup](https://github.com/darwindarak/rallyup)||
 |bin|cache|[Libro](https://github.com/mkaz/libro)||
 |bin|extra|[dictzip for Windows 10 (x64)](https://github.com/KaseyJenkins/dictzip-win64)||
-|bookmark,buku,extension|cache|[bukubrow-webext](https://github.com/SamHH/bukubrow-webext)||
-|bookmark,buku|cache|[bukubrow-host](https://github.com/samhh/bukubrow-host)||
-|bookmark,buku|cache|[bukuserver](https://github.com/jarun/buku/tree/master/bukuserver)||
-|bookmark,linkding,extension|cache|[linkding extension](https://github.com/sissbruecker/linkding-extension)||
-|bookmark,linkding,extension|cache|[linkding injector](https://github.com/fivefold/linkding-injector)||
-|bookmark,linkding|cache|[Linkding Archiver](https://github.com/sebw/linkding-archiver)||
-|bookmark,linkding|cache|[linkding-cli](https://github.com/bachya/linkding-cli)||
-|browser,brave|mark|[Brave](https://brave.com)|release|
 |browser,chrome|cache|[Chrome](https://google.com/intl/zh-cn/chrome)||
 |browser,firefox|cache|[Firefox](https://mozilla.org/en-US/firefox)|download|
 |browser,firefox|extra|[LibreWolf](https://librewolf.net)|download|
 |browser,gopher,tui|cache|[Bombadillo](https://bombadillo.colorfield.space)||
 |browser,gopher|cache|[Kristall](https://github.com/MasterQ32/kristall)||
-|browser,http,extension|mark|[simple-modify-headers](https://github.com/didierfred/SimpleModifyHeaders)||
 |browser,qutebrowser|cache|[Catppuccin for qutebrowser](https://github.com/catppuccin/qutebrowser)||
 |browser,qutebrowser|cache|[qutebrowser](https://qutebrowser.org)||
-|browser,script,extension|mark|[Violentmonkey](https://violentmonkey.github.io)||
 |cad|cache|[PartCAD](https://github.com/partcad/partcad)||
 |cd|cache|[Shunpo](https://github.com/egurapha/Shunpo)||
 |chat,irc|cache|[HexChat](https://hexchat.github.io)||
@@ -265,7 +404,6 @@
 |cli,command|cache|[loop](https://github.com/mateodelnorte/loop)||
 |cli,command|cache|[parallel](https://github.com/amishshah/parallel)||
 |cli,command|cache|[retry](https://github.com/timofurrer/retry-cmd)||
-|cli,command|mark|[mprocs](https://github.com/pvolok/mprocs)|release|
 |cli,complete|cache|[The Fuck](https://github.com/nvbn/thefuck)||
 |cli,count|cache|[Tokei](https://github.com/XAMPPRocky/tokei)||
 |cli,count|extra|[scc](https://github.com/boyter/scc)|release|
@@ -337,7 +475,6 @@
 |cli,rename|cache|[RnR](https://github.com/ismaelgv/rnr)||
 |cli,rename|cancel|[replacer](https://github.com/guerinoni/replacer)||
 |cli,rename|extra|[pipe-rename](https://github.com/marcusbuffett/pipe-rename)||
-|cli,rename|mark|[Renamer](https://github.com/innocenzi/rename)||
 |cli,search,tui|cache|[Go Around](https://github.com/glendsoza/goaround)||
 |cli,search,tui|cache|[so](https://github.com/samtay/so)||
 |cli,search|cache|[fileinfo](https://github.com/sdushantha/fileinfo)||
@@ -346,7 +483,6 @@
 |cli,search|cache|[What Anime CLI](https://github.com/irevenko/what-anime-cli)||
 |cli,semantic|cache|[Semantra](https://github.com/freedmand/semantra)||
 |cli,sentence|cache|[Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter)||
-|cli,sentence|mark|[Sentences](https://github.com/neurosnap/sentences)||
 |cli,serve|cache|[http-server](https://github.com/http-party/http-server)||
 |cli,serve|cache|[serve](https://github.com/syntaqx/serve)||
 |cli,serve|cache|[serve](https://github.com/vercel/serve)||
@@ -375,13 +511,9 @@
 |cli,weather|cache|[wttr.in](https://github.com/chubin/wttr.in)||
 |cli,youtube,mpv|cache|[YouTerm](https://github.com/marcoradocchia/youterm)||
 |cli,zim|cache|[ZIM-converter](https://github.com/Bartvelp/zim-converter)||
-|clip,image|mark|[PureRef](https://pureref.com)|download|
-|clipboard|mark|[Ditto](https://github.com/sabrogden/Ditto)|release|
 |cli|cache|[Chapterize-Audiobooks](https://github.com/patrickenfuego/Chapterize-Audiobooks)||
 |cli|cache|[rust-stakeholder](https://github.com/giacomo-b/rust-stakeholder)||
-|cmder,terminal|mark|[Cmder](https://github.com/cmderdev/cmder)|release|
 |convert,m4b|cache|[AudioBookConverter](https://github.com/yermak/AudioBookConverter)|release|
-|copy|mark|[FastCopy](https://fastcopy.jp/)|download|
 |css,image,hover|cache|[Inline Menu Layout with Gallery Panel](https://github.com/codrops/InlineMenuLayout)||
 |css,image,shape|cache|[Shape Slideshow with Clip-path](https://github.com/codrops/ShapesSlideshow)||
 |css,image|cache|[Building an Interactive Image Grid with Three.js](https://tympanus.net/codrops/2025/03/18/building-an-interactive-image-grid-with-three-js/)||
@@ -391,7 +523,6 @@
 |desktop,menu|cache|[NeXuS](https://winstep.net/nexus.asp)|download|
 |desktop,menu|cache|[SystemTrayMenu](https://github.com/Hofknecht/SystemTrayMenu)||
 |desktop,menu|cache|[Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups)||
-|desktop,menu|mark|[Open-Shell](https://github.com/Open-Shell/Open-Shell-Menu)|release|
 |desktop,pet|cache|[Desktop Goose](https://samperson.itch.io/desktop-goose)||
 |desktop,taskbar|cache|[Tiny Taskbar](https://github.com/HooferDevelops/TinyTaskbar)||
 |desktop,taskbar|cache|[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)|release|
@@ -409,7 +540,6 @@
 |desktop,wallpaper|cache|[wfwp](https://github.com/fjn308/wfwp)||
 |desktop,wallpaper|cache|[WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop)||
 |desktop,wallpaper|extra|[Wallpaper Engine](https://wallpaperengine.io/)||
-|desktop,wallpaper|mark|[Lively](https://github.com/rocksdanister/lively)|release|
 |development,api|cache|[Hoppscotch](https://github.com/hoppscotch/hoppscotch)||
 |development,api|cache|[Infisical](https://github.com/Infisical/infisical)||
 |development,database|cache|[sqlite-vec](https://github.com/asg017/sqlite-vec)||
@@ -423,7 +553,6 @@
 |device,cb1|cache|[CB1](https://github.com/bigtreetech/CB1)||
 |device,controller|cache|[Gopher](https://github.com/irungentoo/Gopher360)||
 |device,desktop-switch|cache|[DeskHop](https://github.com/hrvach/deskhop)||
-|device,display|mark|[LCD-show-retropie](https://github.com/lcdwiki/LCD-show-retropie)||
 |device,dns|cache|[Pi-hole](https://github.com/pi-hole/pi-hole)||
 |device,drone|cache|[ODM](https://github.com/OpenDroneMap/ODM)||
 |device,game,handheld|cache|[NucDeck](https://github.com/dmcke5/NucDeck)||
@@ -456,7 +585,6 @@
 |device,sampler|cache|[SOURC](https://github.com/ffont/source)||
 |device,transfer,audio|cache|[ggwave](https://github.com/ggerganov/ggwave)||
 |device,uconsole,i3|cache|[Uconsole-i3](https://github.com/dzaczek/Uconsole-i3)||
-|device,uconsole,postmarketos|cache|[PostmarketOS - uConsole CM4](https://forum.clockworkpi.com/t/postmarketos-uconsole-cm4/12458)||
 |device,uconsole,rp2040|cache|[μPico](https://github.com/dotcypress/upico)||
 |device,uconsole,sway|cache|[uConsole Sway Configuration](https://github.com/emdash/uConsole_sway_config)||
 |device,uconsole,usb|cache|[μHub](https://github.com/dotcypress/uhub)||
@@ -469,7 +597,6 @@
 |device,watch,library|cache|[LVGL](https://lvgl.io)||
 |device,watch,os|cache|[Open-Smartwatch Operating System](https://github.com/Open-Smartwatch/open-smartwatch-os)||
 |device,weather,eink|cache|[eink-weather-display](https://github.com/kimmobrunfeldt/eink-weather-display)||
-|dictionary,cli|mark|[sdcv](https://github.com/Dushistov/sdcv)||
 |dictionary,convert|extra|[PyGlossary](https://github.com/ilius/pyglossary)||
 |dictionary,dictd,cygwin|cache|[dict-wrapper](https://github.com/dekerser/dict-wrapper)||
 |dictionary,dictd|cache|[dict-ecdict](https://github.com/tuberry/dict-ecdict)||
@@ -497,8 +624,6 @@
 |dictionary,yomichan|extra|[yomichan-dict-css](https://github.com/themoeway/yomichan-dict-css)||
 |dictionary,yomitan|extra|[Yomitan](https://github.com/themoeway/yomitan)||
 |dictionary|extra|[GoldenDict-ng](https://github.com/xiaoyifang/goldendict-ng)||
-|dictionary|mark|[GoldenDict](https://github.com/goldendict/goldendict)||
-|directory-opus|mark|[Directory Opus](https://gpsoft.com.au)|download|
 |discord|cache|[Discord](https://discord.com)||
 |dns|cache|[DNS Changer](https://github.com/DnsChanger/dnsChanger-desktop)|release|
 |dns|cache|[Dns Jumper](https://sordum.org/downloads/?dns-jumper)|download|
@@ -507,11 +632,9 @@
 |document,docset|cache|[Dashing](https://github.com/technosophos/dashing)||
 |document,docset|cache|[Velocity](https://velocity.silverlakesoftware.com)||
 |document,docset|extra|[doc2dash](https://github.com/hynek/doc2dash)||
-|document,docset|mark|[Zeal](https://zealdocs.org)||
 |document,zim,convert|cache|[ZIM-converter](https://github.com/Bartvelp/zim-converter)||
 |document,zim|cache|[Plugins](https://github.com/jaap-karssenberg/zim-wiki/wiki/Plugins)||
 |document,zim|cache|[Zim](https://zim-wiki.org)||
-|dotfiles,git|mark|[chezmoi](https://github.com/twpayne/chezmoi)|release|
 |download,aria2|cache|[aria2-rpc-conf](https://github.com/swgrhck/aria2-rpc-conf)||
 |download,aria2|cache|[aria2](https://aria2.github.io)||
 |download,aria2|cache|[aria2p](https://github.com/pawamoy/aria2p)||
@@ -572,19 +695,13 @@
 |editor,latex|cache|[KLatexFormula](https://klatexformula.sourceforge.io)||
 |editor,latex|cache|[TeXFindPkg](https://github.com/lvjr/texfindpkg)||
 |editor,latex|cache|[Texmaker](https://xm1math.net/texmaker)||
-|editor,latex|mark|[MiKTeX](https://miktex.org)|download|
 |editor,lite-xl|cache|[Lite XL colors](https://github.com/lite-xl/lite-xl-colors)||
 |editor,lite-xl|cache|[Lite XL plugins](https://github.com/lite-xl/lite-xl-plugins)||
 |editor,lite-xl|cache|[Lite XL](https://github.com/lite-xl/lite-xl)||
-|editor,markdown|cache|[Asciidoc FX](https://asciidocfx.com)||
-|editor,markdown|cache|[MarkText](https://github.com/marktext/marktext)||
-|editor,markdown|cache|[QOwnNotes](https://qownnotes.org)||
-|editor,markdown|cache|[VNote](https://vnotex.github.io/vnote)||
 |editor,notepad|cache|[Notepad Next](https://github.com/dail8859/NotepadNext)||
 |editor,notepad|cache|[Notepad++](https://github.com/notepad-plus-plus)||
 |editor,office|cache|[Office Tool Plus](https://github.com/YerongAI/Office-Tool)||
 |editor,office|cache|[OpenOffice](https://openoffice.org)||
-|editor,office|mark|[LibreOffice](https://libreoffice.org)|download|
 |editor,qownnotes,extension|cache|[QOwnNotes Web Companion](https://github.com/qownnotes/web-companion)||
 |editor,quarto|cache|[quarto-site-template](https://github.com/Openscapes/quarto-website-tutorial)||
 |editor,quarto|cache|[Quarto](https://quarto.org)||
@@ -596,12 +713,10 @@
 |editor,tabular|cache|[Tad](https://github.com/antonycourtney/tad)||
 |editor,text|cache|[BabelPad](https://babelstone.co.uk/Software/BabelPad.html)||
 |editor,tui|cache|[micro](https://github.com/zyedidia/micro)||
-|editor|mark|[Neovide](https://github.com/neovide/neovide)||
 |email,cli|cache|[Himalaya](https://github.com/pimalaya/himalaya)||
 |email,cli|cache|[PingMe CLI](https://github.com/kha7iq/pingme)||
 |email,tui|cache|[mutt](http://www.mutt.org/)||
 |email|cache|[SeaMonkey](https://seamonkey-project.org)||
-|email|mark|[Thunderbird](https://thunderbird.net)|download|
 |emulator,bios|extra|[Retro BIOSes](https://github.com/Abdess/retroarch_system)||
 |emulator,data,neo|cache|[FinalBurn Neo](https://github.com/libretro/FBNeo)||
 |emulator,database|cache|[Arcade Database](https://adb.arcadeitalia.net/default.php)||
@@ -623,7 +738,6 @@
 |emulator,retroarch|extra|[RetroArch asset server](https://github.com/NickHeap2/retroarch-asset-server)||
 |emulator,rom,database|cache|[RetroArch Database](https://github.com/libretro/libretro-database)||
 |emulator,rom|cache|[igir](https://github.com/emmercm/igir)||
-|emulator|mark|[RetroArch](https://retroarch.com)|download|
 |epub,2md|cache|[epub2MD](https://github.com/ChandlerVer5/epub2MD)||
 |epub,editor|cache|[Sigil-plugins](https://mobileread.com/forums/showthread.php?t=247431)||
 |epub,editor|later|[Sigil](https://github.com/Sigil-Ebook/Sigil)|release|
@@ -633,12 +747,9 @@
 |epub,reader|cache|[pubReader](https://github.com/vers-one/EpubReader)||
 |epub,txt|cache|[epub2txt](https://github.com/kevinxiong/epub2txt)||
 |everything|cache|[EverythingToolbar](https://github.com/srwi/EverythingToolbar)|release|
-|everything|mark|[Everything](https://voidtools.com)|download|
 |explorer,context-menu|cache|[SendTo Menu Editor](https://sordum.org/10830/sendto-menu-editor-v1-3)||
 |explorer,context-menu|cancel|[EasyShell](https://github.com/anb0s/EasyShell)||
-|explorer,context-menu|mark|[Shell-X](https://github.com/oleg-shilo/shell-x)|release|
 |explorer,copy|cache|[Copy Dialog Lunar Lander](https://github.com/Sanakan8472/copy-dialog-lunar-lande)||
-|explorer,decompress|mark|[SmartZip](https://github.com/vvyoko/SmartZip)|release|
 |explorer,editor|cache|[Resource Hacker](https://angusj.com/resourcehacker)|download|
 |explorer,exe|cache|[OpenArk](https://openark.blackint3.com)||
 |explorer,folder|cache|[Folder Painter](https://sordum.org/10124/folder-painter-v1-3)||
@@ -650,28 +761,22 @@
 |explorer,link,shortcut|cache|[go-windows-shortcut](https://github.com/nyaosorg/go-windows-shortcut)||
 |explorer,link|cache|[mklink](https://github.com/kkysen/mklink)||
 |explorer,link|cache|[Move Links](https://github.com/Adoliin/move-links)||
-|explorer,link|mark|[Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html)|download|
 |explorer,mount|cache|[WinCDEmu](https://wincdemu.sysprogs.org)||
 |explorer,preview,quicklook|cache|[Available Plugins](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins)||
 |explorer,preview,quicklook|cache|[QuickLook](https://github.com/QL-Win/QuickLook)||
 |explorer,preview|cache|[MOSViewer](https://github.com/mrfearless/MOSViewer)||
-|explorer,restart|mark|[Restart Explorer](https://sordum.org/9192/restart-explorer-v1-7)|download|
-|explorer,svg|mark|[SVG Shell Extensions](https://github.com/EtheaDev/SVGShellExtensions)|release|
 |explorer,switch|cache|[Listary](https://listary.com)||
 |explorer,thumbnail,stl|extra|[stl-thumb](https://github.com/unlimitedbacon/stl-thumb)|release|
 |explorer,thumbnail,svg|extra|[SVG Viewer Extension for Windows Explorer](https://github.com/tibold/svg-explorer-extension)|release|
 |explorer,thumbnail|cache|[Icaros](https://majorgeeks.com/files/details/icaros.html)||
-|explorer,unlock|mark|[LockHunter](https://lockhunter.com/index.htm)|download|
 |explorer|cache|[Camelot](https://github.com/IngvarX/Camelot)||
 |explorer|cache|[Files](https://github.com/files-community/Files)||
 |explorer|cache|[Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manage)||
 |explorer|cache|[Spacedrive](https://spacedrive.com/)||
 |explorer|cache|[superfile](https://github.com/yorukot/superfile)|release|
 |explorer|cache|[Total Commander](https://ghisler.com/)||
-|file-share|mark|[LocalSend](https://github.com/localsend/localsend)|release|
 |filterpipe,pinyin,api|cache|[pinyin-pro](https://github.com/zh-lx/pinyin-pro)||
 |font,2png|cache|[ttf2png](https://github.com/regulad/ttf2png)||
-|font,2woff|mark|[ttf2woff2](https://github.com/nfroidure/ttf2woff2)||
 |font,edit|cache|[FontForge](https://fontforge.org)||
 |font,edit|cache|[YosemiForge](https://github.com/fontforge/YosemiForge)||
 |font,manage|cache|[FontBase](https://fontba.se)||
@@ -759,33 +864,21 @@
 |git,data|cache|[Qri](https://qri.io)||
 |git,dotfiles,sync|cache|[rcm](https://github.com/thoughtbot/rcm)||
 |git,gist|cache|[snpt](https://github.com/mike182uk/snpt)||
-|git,github|mark|[GitHub Desktop](https://desktop.github.com)|download|
-|git,issue|mark|[pro](https://github.com/Wowu/pro)|release|
 |git,mercurial|cache|[Mercurial](https://mercurial-scm.org)||
 |git,notify|cache|[Gitify](https://github.com/gitify-app/gitify)|release|
 |git,seach|cache|[RepoZ](https://github.com/awaescher/RepoZ)||
 |git,status|extra|[mgitstatus](https://github.com/fboender/multi-git-status)||
-|git,sync|mark|[git-sync](https://github.com/simonthum/git-sync)||
 |git,tui|cache|[git-bug](https://github.com/MichaelMure/git-bug)||
 |git,tui|cache|[GitUI](https://github.com/extrawurst/gitui)||
 |git,tui|cache|[Lazygit](https://github.com/jesseduffield/lazygit)||
 |git,user|cache|[Git Profile Switcher](https://github.com/TheYkk/git-switcher)||
-|github,action,markdown|cache|[Markdown autodocs](https://github.com/dineshsonachalam/markdown-autodocs)||
-|github,action,mkdocs|mark|[Publishing your site](https://squidfunk.github.io/mkdocs-material/publishing-your-site)||
-|github,action,pdf|cache|[Markdown to PDF](https://github.com/BaileyJM02/markdown-to-pdf)||
 |github,action|cache|[Gitee Pages Action](https://github.com/yanglbme/gitee-pages-action)||
 |github,action|cache|[Tencent Cloud COS and CDN action](https://github.com/sylingd/tencent-cos-and-cdn-action)||
 |github,action|cancel|[Mediawiki to GitHub Flavoured Markdown](https://github.com/outofcontrol/mediawiki-to-gfm)||
 |github,action|extra|[Torrent Webseed Creator](https://github.com/AnimMouse/torrent-webseed-creator)||
 |github,backup|cache|[gitbackup](https://github.com/amitsaha/gitbackup)|release|
-|github,css|cache|[github-markdown-css](https://github.com/sindresorhus/github-markdown-css)||
-|github,css|cache|[Markdown to GitHub style web](https://github.com/KrauseFx/markdown-to-html-github-style)||
-|github,js|cache|[gh-md-toc](https://github.com/ekalinin/github-markdown-toc)||
 |git|extra|[degit](https://github.com/Rich-Harris/degit)||
-|git|mark|[Git for Windows](https://github.com/git-for-windows/git)|release|
-|git|mark|[Git](https://git-scm.com)|download|
 |godot|later|[Godot](https://github.com/godotengine/godot)|release|
-|grammar|mark|[LanguageTool](https://github.com/languagetool-org/languagetool)|download|
 |grammer,comment|cache|[languagetool-code-comments](https://github.com/dustinblackman/languagetool-code-comments)|release|
 |graph,edit|cache|[Graphite](https://github.com/GraphiteEditor/Graphite)|release|
 |graphic,3d|cache|[Instant Neural Graphics Primitives](https://github.com/NVlabs/instant-ngp)||
@@ -877,14 +970,12 @@
 |gui,git|cache|[Fork](https://git-fork.com/)|download|
 |gui,git|cache|[Git Extensions](https://github.com/gitextensions/gitextensions)|release|
 |gui,rename|cache|[ReNamer](https://den4b.com/products/renamer)||
-|gui,rename|mark|[Advanced Renamer](https://advancedrenamer.com)|download|
 |gui,thumbnail|extra|[qmtn](https://gitlab.com/movie_thumbnailer/qmtn)|release|
 |hardware,archivist|cache|[Archivist](https://diybookscanner.org/archivist/index.html)||
 |hardware,archivist|cache|[Pi Scan](https://github.com/Tenrec-Builders/pi-scan)||
 |hardware,audio|cache|[audio-limiter](https://github.com/dylagit/audio-limiter)||
 |hardware,audio|cache|[AudioRelay](https://audiorelay.net)||
 |hardware,audio|cache|[REAL](https://github.com/miniant-git/REAL)||
-|hardware,audio|mark|[EarTrumpet](https://github.com/File-New-Project/EarTrumpet)|download|
 |hardware,controller|cache|[GP2040](https://gp2040.info)||
 |hardware,disk|cache|[Macrium Reflect](https://macrium.com/reflectfree)||
 |hardware,disk|cache|[TreeSize](https://jam-software.com/treesize_free)||
@@ -911,7 +1002,6 @@
 |hardware,keyboard|cancel|[MacroKeyboardV2](https://github.com/retrobuiltRyan/MacroKeyboardV2)||
 |hardware,knob|cache|[SmartKnob](https://github.com/scottbez1/smartknob)||
 |hardware,knob|cache|[X-Knob](https://github.com/SmallPond/X-Knob)||
-|hardware,memory|mark|[Reduce Memory](https://sordum.org/9197/reduce-memory-v1-6/)|download|
 |hardware,monitor,disk|cache|[CrystalDiskInfo](https://osdn.net/projects/crystaldiskinfo)||
 |hardware,monitor,disk|cache|[smartmontools](https://smartmontools.org)||
 |hardware,monitor|cache|[Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)||
@@ -961,11 +1051,9 @@
 |image,color|cache|[Paletter](https://github.com/Baldomo/paletter)|release|
 |image,color|cache|[posterust](https://github.com/okaneco/posterust)||
 |image,convert|cache|[NConvert](https://xnview.com/en/nconvert)||
-|image,convert|mark|[XnConvert](https://xnview.com/en/xnconvert)|download|
 |image,darktable,lut|later|[Fujifilm Auto Settings for Darktable](https://github.com/bastibe/Fujifilm-Auto-Settings-for-Darktable)||
 |image,darktable,lut|later|[Street Monochrome](https://github.com/sfi0zy/street-monochrome)||
 |image,darktable,lut|later|[t3mujinpack](https://github.com/t3mujin/t3mujinpack)||
-|image,darktable|mark|[darktable](https://github.com/darktable-org/darktable)|release|
 |image,exif|cache|[ExifToolGUI](https://exiftool.org/gui)||
 |image,exif|cache|[jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI)||
 |image,exif|extra|[ExifCleaner](https://github.com/szTheory/exifcleaner)|release|
@@ -980,7 +1068,6 @@
 |image,gif|cache|[Gifsicle](https://lcdf.org/gifsicle)||
 |image,gif|cache|[Gifski](https://gif.ski)||
 |image,library|cache|[G'MIC](https://gmic.eu)|download|
-|image,library|mark|[ImageMagick](https://imagemagick.org)|download|
 |image,optimize,batch|cache|[Compress-images](https://github.com/Yuriy-Svetlov/compress-images)||
 |image,optimize,batch|cache|[Smally](https://github.com/xinlin-z/smally)||
 |image,optimize,png|cache|[optiPNG](https://optipng.sourceforge.net)||
@@ -1006,7 +1093,6 @@
 |image,tag,ai|cache|[TagGUI](https://github.com/jhc13/taggui)||
 |image,tag|cache|[Hydrus](https://github.com/hydrusnetwork/hydrus)|release|
 |image,tag|cancel|[Tsuki-tag](https://github.com/ngelsi/tsuki-tag-native)||
-|image,tool,background|mark|[Rembg](https://github.com/danielgatis/rembg)||
 |image,tool,border|cache|[black_borders](https://github.com/westsmith-open/black_borders)||
 |image,tool,crop|cache|[autocrop](https://github.com/leblancfg/autocrop)||
 |image,tool,cut|cache|[PosteRazor](https://posterazor.sourceforge.io)||
@@ -1023,18 +1109,13 @@
 |image,viewer|extra|[qimgv](https://github.com/easymodo/qimgv)|release|
 |image,viewer|extra|[qView](https://github.com/jurplel/qView)|release|
 |image,viewer|extra|[vimg](https://github.com/alexheretic/vimg)|release|
-|image,viewer|mark|[JPEGView](https://github.com/sylikc/jpegview)|release|
 |imager|extra|[Raspberry Pi Imager](https://www.raspberrypi.com/software)|download|
 |imager|extra|[Rufus](https://github.com/pbatard/rufus)|release|
-|imager|mark|[Etcher](https://github.com/balena-io/etcher)|download|
-|imager|mark|[Ventoy](https://github.com/ventoy/Ventoy)|release|
 |ime,character|cache|[Keyferret](https://keyferret.com)||
 |img,os|cache|[Fido](https://github.com/pbatard/Fido)||
 |img,os|cache|[Hiren’s BootCD PE](https://hirensbootcd.org)||
 |img,playbook|cache|[AtlasOS](https://atlasos.net)||
 |img,playbook|cache|[ReviOS](https://revi.cc)||
-|img,playbook|mark|[AME Wizard](https://ameliorated.io)|download|
-|img,tool|mark|[SDCardFormatter](https://sdcard.org/downloads/formatter)|download|
 |img,ventoy|cache|[Boo for GRUB](https://github.com/PROxZIMA/boo-grub)||
 |ink,lua|cache|[Narrator](https://github.com/astrochili/narrator)||
 |ink|cache|[ink](https://github.com/inkle/ink)||
@@ -1071,7 +1152,6 @@
 |js,hidden|cache|[Headroom.js](https://wicky.nillia.ms/headroom.js)||
 |js,hidden|cache|[Shave](https://dollarshaveclub.github.io/shave)||
 |js,highlight|cache|[Bold Highlighter](https://github.com/acciojob/bold-highlighter-Ankitakamthe153)||
-|js,highlight|cache|[mark.js](https://markjs.io)||
 |js,highlight|cache|[starry-night](https://github.com/wooorm/starry-night)||
 |js,image,caption|cache|[caption.js](https://captionjs.com)||
 |js,image,example|cache|[dummyimage](https://dummyimage.com)||
@@ -1094,8 +1174,6 @@
 |js,intro|cache|[TourGuide JS](https://tourguidejs.com)||
 |js,loader|cache|[Live.js](https://livejs.com)||
 |js,loader|cache|[RequireJS](https://requirejs.org)||
-|js,markdown|cache|[markdown-it-attrs](https://github.com/arve0/markdown-it-attrs)||
-|js,markdown|cache|[markdown-it-cjk-breaks](https://github.com/markdown-it/markdown-it-cjk-breaks)||
 |js,mdxjs|cache|[MDX](https://mdxjs.com)||
 |js,modal|cache|[tingle.js](https://tingle.robinparisi.com)||
 |js,mouse|cache|[Cotton.JS](https://cotton123236.github.io/CottonJS)||
@@ -1138,8 +1216,6 @@
 |keyboard|cache|[Uncap](https://github.com/susam/uncap)||
 |keyboard|extra|[SharpKeys](https://github.com/randyrants/sharpkeys)|release|
 |keyboard|extra|[VIA](https://caniusevia.com)||
-|keyboard|mark|[VIA - releases](https://github.com/the-via/releases)|release|
-|keypirinha|mark|[Keypirinha](https://github.com/Keypirinha/Keypirinha)|release|
 |kvm|extra|[Barrier](https://github.com/debauchee/barrier)|release|
 |latex,bibtex|cache|[JabRef Bibliography Management](https://github.com/jabref/jabref/)||
 |latex,check|cache|[TeXtidote](https://github.com/sylvainhalle/textidote)|release|
@@ -1147,31 +1223,19 @@
 |latex,excel2|cache|[Excel2LaTeX](https://github.com/ivankokan/Excel2LaTeX)||
 |latex,luatex|cache|[lua-tinyyaml](https://github.com/api7/lua-tinyyaml)||
 |library,cargo|cache|[Cargo B(inary)Install](https://github.com/cargo-bins/cargo-binstall)||
-|library,cargo|mark|[rustup](https://rustup.rs)|download|
 |library,cli|cache|[Bubble Tea](https://github.com/charmbracelet/bubbletea)||
 |library,go|cache|[gofind](https://github.com/fzipp/gofind)||
 |library,go|cache|[gopicker](https://github.com/edifierx666/gopicker)||
-|library,go|mark|[go](https://go.dev)||
-|library,go|mark|[gvm](https://github.com/danielkermode/gvm)||
 |library,lua|cache|[lua](https://lua.org)||
 |library,lua|cache|[luarocks](https://luarocks.org)||
-|library,lua|mark|[hererocks](https://github.com/luarocks/hererocks)||
 |library,npm|cache|[npm](https://nodejs.org/en)||
 |library,npm|cache|[nrm](https://github.com/Pana/nrm)||
 |library,npm|cache|[yarn](https://yarnpkg.com)||
 |library,npm|cache|[yrm](https://github.com/i5ting/yrm)||
-|library,npm|mark|[npms-cli](https://github.com/npms-io/npms-cli)||
-|library,npm|mark|[NVM for Windows](https://github.com/coreybutler/nvm-windows)|release|
-|library,npm|mark|[pnpm](https://pnpm.io)||
 |library,python|cache|[portable-python-maker](https://github.com/dreamsavior/portable-python-maker)||
 |library,python|cache|[Rye](https://github.com/mitsuhiko/rye)||
-|library,python|mark|[pip_search](https://github.com/victorgarric/pip_search)||
-|library,python|mark|[pyenv for Windows](https://github.com/pyenv-win/pyenv-win)|release|
-|library,python|mark|[Python](https://python.org)|download|
 |library,ruby|cache|[frum](https://github.com/TaKO8Ki/frum)||
 |library,ruby|cache|[RubyInstaller](https://rubyinstaller.org)||
-|library,ruby|mark|[rbenv for Windows](https://github.com/ccmywish/rbenv-for-windows)||
-|library,ruby|mark|[rvm](https://github.com/rvm/rvm)||
 |library,tui|cache|[Typer](https://github.com/tiangolo/typer)||
 |library,yomichan|extra|[Jitendex](https://github.com/stephenmk/Jitendex)||
 |logseq|cache|[Logseq](https://github.com/logseq/logseq)|release|
@@ -1179,7 +1243,6 @@
 |lua|cache|[Amulet](https://github.com/ianmaclarty/amulet)||
 |lua|cache|[batteries](https://github.com/1bardesign/batteries)||
 |lua|cache|[Lyte2D](https://github.com/morew4rd/lyte2d++000)||
-|lyric|mark|[LRCGET](https://github.com/tranxuanthang/lrcget)||
 |manga,2epub|cache|[KCC](https://github.com/ciromattia/kcc)||
 |manga,api|cache|[MangaDB API](https://github.com/g3ru1a/mangadb-api)||
 |manga,archive|cache|[mex](https://github.com/FooSoft/mex)||
@@ -1237,12 +1300,10 @@
 |mpd,client|cache|[MMC4W - Minimal MPD Client for Windows](https://github.com/drgerg/mmc4w)||
 |mpd,client|cache|[mpq](https://github.com/codesoap/mpq)||
 |mpd|cache|[Music Player Daemon](https://github.com/MusicPlayerDaemon/MPD)||
-|mpv|mark|[mpv](https://mpv.io)||
 |msys2,tmux|cache|[Tmux Configuration](https://github.com/samoshkin/tmux-config)||
 |msys2|cache|[MSYS2 Installer](https://github.com/msys2/msys2-installer)|release|
 |msys2|extra|[MSYS2](https://msys2.org)||
 |music,cmus|cache|[Extensions](https://github.com/cmus/cmus/wiki/#extensions--useful-scripts)||
-|music,cmus|mark|[cmus](https://cmus.github.io/)||
 |music,manage|cache|[beets](https://github.com/beetbox/beets)||
 |music,player,tui|cache|[termusic](https://github.com/tramhao/termusic)||
 |music,player|cache|[ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)||
@@ -1251,21 +1312,17 @@
 |music,tui|cache|[Gomu](https://github.com/issadarkthing/gomu)||
 |music,tui|cache|[grump](https://github.com/dhulihan/grump)||
 |music,tui|cache|[musikcube](https://musikcube.com)||
-|neovim|mark|[Neovim](https://github.com/neovim/neovim)|release|
 |network,dns|cache|[CoreDNS](https://coredns.io)||
-|network,dns|cache|[DNS Benchmark](https://grc.com/dns/benchmark.htmS)||
 |network,dns|cache|[dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)||
 |network,dns|cache|[sslip.io](https://github.com/cunnie/sslip.i)||
 |network,firewall|cache|[simplewall](https://henrypp.org/product/simplewall)||
 |network,firewall|cache|[Windows Firewall Control](https://binisoft.org/wfc.php)||
 |network,hosts|cache|[HOSTS](https://github.com/StevenBlack/hosts)||
 |network,hosts|cache|[SwitchHosts](https://github.com/oldj/SwitchHosts)||
-|network,host|mark|[HostsFileEditor](https://github.com/scottlerch/HostsFileEditor)|release|
 |network,lan|cache|[NetBird](https://netbird.io)||
 |network,lan|cache|[Network scanner & notification framework](https://github.com/jokob-sk/NetAlertX)||
 |network,lan|cache|[Tailscale](https://tailscale.com)||
 |network,zerotier|cache|[ztncui](https://github.com/key-networks/ztncui)||
-|network,zerotier|mark|[ZeroTier](https://zerotier.com)|download|
 |network|cache|[GlassWire](https://glasswire.com)||
 |network|cache|[NetAdapter Repair](https://github.com/ConnerBernhard/netadapter-repair)||
 |network|cache|[NETworkManager](https://github.com/BornToBeRoot/NETworkManager)||
@@ -1279,7 +1336,6 @@
 |obs-studio,microphone|cache|[MicMute](https://github.com/SaifAqqad/AHK_MicMute)||
 |obs-studio,status|cache|[OBS-HUD](https://cobaltdragon.itch.io/obs-hud)||
 |obs-studio,tool|cache|[Rulka](https://amanwaf.itch.io/rulka)||
-|obs-studio|mark|[OBS Studio](https://github.com/obsproject/obs-studio)|release|
 |obsidian|cache|[Obsidian](https://obsidian.md)||
 |ocr,latex|cache|[pix2tex - LaTeX OCR](https://github.com/lukas-blecher/LaTeX-OCR)||
 |ocr|cache|[gImageReader](https://github.com/manisandro/gImageReader)||
@@ -1290,7 +1346,6 @@
 |ocr|cache|[Vis2](https://github.com/iseahound/Vis2)||
 |ocr|cache|[WindowTextExtractor](https://github.com/AlexanderPro/WindowTextExtractor)|release|
 |ocr|cache|[白描桌面版](https://github.com/baimiaoapp/baimiao-desktop)||
-|ocr|mark|[Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)|release|
 |ollama,cli|cache|[Ollama Shell Helper](https://github.com/charyan/osh)||
 |ollama,cli|cache|[translate](https://github.com/xyproto/translate)||
 |opt,snapshot|cache|[Kopia](https://github.com/kopia/kopia)||
@@ -1307,8 +1362,6 @@
 |package-manage|cache|[Chocolatey](https://community.chocolatey.org)||
 |package-manage|cache|[Ketarin](https://github.com/canneverbe/Ketarin)||
 |password,keepass,extension|cache|[KeePassHttp](https://github.com/pfn/keepasshttp)||
-|password,keepassxc,extension|mark|[KeePassXC-Browser](https://github.com/keepassxreboot/keepassxc-browser)||
-|password,keepassxc|mark|[KeepassXC](https://github.com/keepassxreboot/keepassxc)|release|
 |password,keepass|cache|[KeePass](https://keepass.info)||
 |password,qtpass|cache|[QtPass](https://github.com/IJHack/QtPass)||
 |paste,cross|cache|[CrossPaste](https://github.com/CrossPaste/crosspaste-desktop)||
@@ -1341,12 +1394,10 @@
 |pdf,reader|cache|[Sumatra PDF](https://github.com/sumatrapdfreader/sumatrapdf)|download|
 |pdf,reader|cache|[Thorium](https://github.com/edrlab/thorium-reader)|release|
 |pdf,reader|cache|[XpdfReader](https://xpdfreader.com/download.html)||
-|pdf,reader|mark|[Foxit PDF Reader](https://www.foxit.com/pdf-reader/)|download|
 |pdf,serve|cache|[dir2opds](https://github.com/dubyte/dir2opds)||
 |pdf,serve|cache|[ZombieLib2](https://github.com/patexoid/ZombieLib2)||
 |pdf,signature,pdf|cache|[BatchPDFSign](https://github.com/jmarxuach/BatchPDFSign)||
 |pdf,signature|cache|[GnuPG](https://gnupg.org/)||
-|pdf,signature|cache|[markpdf](https://github.com/ajaxray/markpdf)||
 |pdf,signature|cache|[Minisign](https://jedisct1.github.io/minisign/)||
 |pdf,signature|cache|[mkcert](https://github.com/FiloSottile/mkcert)||
 |pdf,signature|cache|[open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign)||
@@ -1363,17 +1414,12 @@
 |protocol,ftp|cache|[Core FTP](https://coreftp.com)||
 |protocol,ftp|cache|[lftp](https://nwgat.ninja/lftp-for-windows)||
 |protocol,ftp|cache|[Termscp](https://github.com/veeso/termscp)||
-|protocol,ftp|mark|[WinSCP](https://github.com/winscp/winscp)|download|
-|protocol,fuse|mark|[WinFsp](https://github.com/winfsp/winfsp)|release|
 |protocol,ssh,multi|cache|[cl](https://github.com/andrewpillar/cl)||
 |protocol,ssh,multi|cache|[emplace](https://github.com/tversteeg/emplace)||
 |protocol,sshfs|cache|[SiriKali](https://github.com/mhogomchungu/sirikali)||
-|protocol,sshfs|mark|[SSHFS-Win Manager](https://github.com/evsar3/sshfs-win-manager)|release|
-|protocol,sshfs|mark|[SSHFS-Win](https://github.com/winfsp/sshfs-win)|release|
 |protocol,ssh|cache|[electerm](https://electerm.github.io/electerm)||
 |protocol,ssh|cache|[MobaXterm](https://mobaxterm.mobatek.net)||
 |protocol,ssh|cache|[WindTerm](https://github.com/kingToolbox/WindTerm)||
-|protocol,ssh|mark|[WinSSHTerm](https://winsshterm.blogspot.com)||
 |protocol,vnc|cache|[TightVNC](https://www.tightvnc.com/)|download|
 |python,dictionary|cache|[soup2dict](https://github.com/thomasborgen/soup2dict)||
 |python,library,anki|cache|[genanki](https://github.com/kerrickstaley/genanki)||
@@ -1381,18 +1427,14 @@
 |python,library,debug|cache|[pretty-errors](https://github.com/onelivesleft/PrettyErrors)||
 |python,library,returns|cache|[returns](https://github.com/dry-python/returns)||
 |python,notebook|cache|[marimo](https://github.com/marimo-team/marimo)||
-|python|mark|[uv](https://github.com/astral-sh/uv)|release|
 |read-later,wallabag,extension|cache|[Wallabagger](https://github.com/wallabag/wallabagger)||
 |read-later,wallabag,obsidian|cache|[\-](https://github.com/huseyz/obsidian-wallabag)||
 |read-later,wallabag|cache|[sako](https://sr.ht/~sbinet/sako)||
 |read-later,wallabag|cache|[wallabag](https://github.com/wallabag/wallabag)||
 |reader,sutta|cache|[Simsapa Dhamma Reader](https://github.com/simsapa/simsapa)||
-|rename|mark|[Bulk Rename Utility](https://www.bulkrenameutility.co.uk)|download|
 |renpy|cache|[Awesome RenPy](https://github.com/methanoliver/awesome-renpy)||
 |renpy|cache|[Ren'Py](https://www.renpy.org)||
 |rgb|cache|[OpenRGB](https://github.com/CalcProgrammer1/OpenRGB)|download|
-|rime,ime|mark|[Rime](https://github.com/rime/weasel)|release|
-|rofi|mark|[Rofi](https://github.com/davatorium/rofi)||
 |rpi,boot|cache|[PINN](https://github.com/procount/pinn)||
 |rpi,display,device|later|[3.5inch RPi Display](https://lcdwiki.com/zh/3.5inch_RPi_Display)||
 |rpi,pico,development|cache|[Raspberry Pi Pico SDK](https://github.com/raspberrypi/pico-sdk)||
@@ -1407,20 +1449,15 @@
 |rss,feed|cache|[F-Droid_Newapps_RSS](https://github.com/yzqzss/f-Droid_Newapps_RSS)||
 |rss,feed|cache|[Hacker News RSS](https://github.com/hnrss/hnrss)||
 |rss,feed|extra|[github-search-rss](https://github.com/azu/github-search-rss)||
-|rss,newsboat|mark|[Newsboat](https://github.com/newsboat/newsboat)||
 |rss,reader,tui|cache|[goread](https://github.com/TypicalAM/goread)||
 |rss,reader,tui|cache|[russ](https://github.com/ckampfe/russ)||
 |rss,reader|cache|[Follow](https://github.com/RSSNext/Follow)|release|
 |rss,serve|cache|[diffengine](https://github.com/DocNow/diffengine)||
-|rss,serve|mark|[Miniflux 2](https://github.com/miniflux/v2)||
 |rss,tool|cache|[Huginn](https://github.com/huginn/huginn)||
 |rss|cache|[Fluent Reader](https://github.com/yang991178/fluent-reader)|release|
 |rss|cache|[RSS Guard](https://github.com/martinrotter/rssguard)||
 |rss|cache|[yarr](https://github.com/nkanaev/yarr)||
-|rss|mark|[QuiteRSS](https://quiterss.org)|download|
-|scoop|mark|[Scoop](https://scoop.sh)||
 |screenshot,snipaste,script|cache|[pastejpeg](https://github.com/foone/pastejpeg)||
-|screenshot,snipaste|mark|[Snipaste](https://snipaste.com)|download|
 |screenshot,web|cache|[capture-website-cli](https://github.com/sindresorhus/capture-website-cli)||
 |screenshot,web|cache|[pageres-cli](https://github.com/sindresorhus/pageres-cli)||
 |screenshot,web|cache|[Scroll Capture](https://github.com/danielgjackson/scrollcapture)||
@@ -1429,7 +1466,6 @@
 |screenshot|cache|[Greenshot](https://getgreenshot.org)||
 |screenshot|cache|[ShareX](https://getsharex.com)||
 |sd-webui|later|[Kohya's GUI](https://github.com/bmaltais/kohya_ss)||
-|sd-webui|mark|[Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)||
 |security,encrypt|cache|[Cryptomator](https://cryptomator.org/)||
 |security,encrypt|cache|[Cryptomator](https://cryptomator.org/)||
 |security,encrypt|cache|[File Injector](https://github.com/carlospuenteg/File-Injector)||
@@ -1444,19 +1480,15 @@
 |security,hash|cache|[QuickSFV](https://quicksfv.org/)|download|
 |security,hash|cache|[RapidCRC Unicode](https://ov2.eu/programs/rapidcrc-unicode)||
 |security,hash|extra|[Gethash](https://github.com/xymy/gethash)||
-|security,hash|mark|[OpenHashTab](https://github.com/namazso/OpenHashTab)|release|
 |shell,cygwin|extra|[Cygwin](https://cygwin.com)|download|
 |shell,docker,tui|cache|[lazydocker](https://github.com/jesseduffield/lazydocker)||
 |shell,docker,tui|cache|[podman-tui](https://github.com/containers/podman-tui)||
-|shell,environment：-|mark|[Rapid Environment Editor](https://rapidee.com/en/about)|download|
 |shell,font|cache|[getNF](https://github.com/ronniedroid/getnf)||
-|shell,init|mark|[RefrEnv](https://github.com/badrelmers/RefrEnv)|release|
 |shell,powershell,record|cache|[PowerSession](https://github.com/Watfaq/PowerSession-rs)||
 |shell,powershell|cache|[inshellisense](https://github.com/microsoft/inshellisense)||
 |shell,powershell|cache|[posh-git](https://github.com/dahlbyk/posh-git)||
 |shell,powershell|extra|[PowerShell](https://github.com/PowerShell/PowerShell)|release|
 |shell,powershell|extra|[Terminal-Icons](https://github.com/devblackops/Terminal-Icons)||
-|shell,prompt|mark|[Starship](https://github.com/starship/starship)|release|
 |shell,startup|cache|[Autoruns](https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns)||
 |ShellExView|cache|[shell](https://www.nirsoft.net/utils/shexview.html)|download|
 |shell|cache|[Nushell](https://nushell.sh)||
@@ -1469,18 +1501,14 @@
 |stream|cache|[Streamlink](https://streamlink.github.io)||
 |stream|cache|[Syncplay](https://syncplay.pl)||
 |stt|cache|[RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)||
-|sublime-text|mark|[Sublime Text](https://sublimetext.com)|download|
 |subtitle,clear|extra|[Subtitles Cleaner](https://github.com/yuvalsol/SubtitlesCleaner)|release|
 |subtitle,database|cache|[字幕共享计划](https://github.com/foxofice/sub_share)||
-|subtitle,download|mark|[subliminal](https://github.com/Diaoul/subliminal)||
 |subtitle,editor|cache|[Sbubby](https://github.com/kokseen1/Sbubby)||
 |subtitle,editor|extra|[Aegisub](https://github.com/arch1t3cht/Aegisub)|release|
-|subtitle,editor|mark|[Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit)|release|
 |subtitle,merge|cache|[merge-srt-subtitles](https://github.com/malfroid/merge-srt-subtitles)||
 |subtitle,ocr|cache|[Video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor)||
 |subtitle|cache|[BDSup2Sub++](https://github.com/amichaelt/BDSup2SubPlusPlus)|download|
 |subtitle|extra|[Video Sub Finder](https://sourceforge.net/projects/videosubfinder/)|download|
-|sudo|mark|[gsudo - a sudo for Windows](https://github.com/gerardog/gsudo)|release|
 |switch,archive|cache|[NSZ](https://github.com/nicoboss/nsz)||
 |switch,dev,os|cache|[Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)||
 |switch,mpv,jellyfin|cache|[Switchfin](https://github.com/dragonflylee/switchfin)||
@@ -1490,20 +1518,15 @@
 |sync,syncthing|cache|[Syncthing](https://syncthing.net)||
 |sync,syncthing|extra|[Syncthing Tray](https://github.com/Martchus/syncthingtray)|release|
 |sync|cache|[sync-directory](https://github.com/hoperyy/sync-directory)||
-|sync|mark|[MEGAsync](https://mega.io/desktop)|download|
 |tabby,terminal|extra|[Tabby](https://github.com/Eugeny/tabby)|release|
 |terminal,alacritty,setting|cache|[Alacritty Settings](https://github.com/jwu/alacritty-settings)||
-|terminal,alacritty|mark|[Alacritty Theme](https://github.com/alacritty/alacritty-theme)||
-|terminal,alacritty|mark|[Alacritty](https://github.com/alacritty/alacritty)|release|
 |terminal,asciinema,fake|cache|[demo-magic](https://github.com/paxtonhare/demo-magic)||
-|terminal,asciinema,gif|mark|[agg](https://github.com/asciinema/agg)|release|
 |terminal,asciinema,konsole|cache|[asciifx](https://github.com/apparebit/asciifx)||
 |terminal,asciinema,movie|cache|[ASCII art movie Telnet player](https://github.com/nitram509/ascii-telnet-server)||
 |terminal,asciinema,movie|cache|[asciicast2movie](https://github.com/opcode-eu-org-libs/asciicast2movie)||
 |terminal,asciinema|cache|[asciinema-automation](https://github.com/PierreMarchand20/asciinema_automation)||
 |terminal,asciinema|cache|[asciinema-edit](https://github.com/cirocosta/asciinema-edit)||
 |terminal,asciinema|extra|[autocast](https://github.com/k9withabone/autocast)|release|
-|terminal,asciinema|mark|[asciinema](https://github.com/asciinema/asciinema)||
 |terminal,terminal|cache|[Clink Setup](https://github.com/narnaud/clink-terminal)||
 |terminal,wezterm|cache|[Wez's Terminal](https://github.com/wez/wezterm)||
 |terminal|cache|[Termo](https://termo.rajnandan.com/)||
@@ -1514,15 +1537,12 @@
 |text,analyze|cache|[pipdeptree](https://github.com/naiquevin/pipdeptree)||
 |text,analyze|cache|[x64dbg](https://github.com/x64dbg/x64dbg)||
 |text,diff|cache|[Diffinity](https://truehumandesign.se/s_diffinity.php)||
-|text,diff|mark|[WinMerge](https://github.com/WinMerge/winmerge)|release|
-|text-expander|mark|[Espanso](https://github.com/espanso/espanso)|release|
 |theme,cursor,edit|cache|[AniFX Portable](https://portableapps.com/apps/graphics_pictures/anifx_portable)||
 |theme,cursor|cache|[Cosmica](https://toumeya.itch.io/cosmica-v1-cursor-pack)||
 |theme,cursor|cache|[DOT M Cursors](https://deviantart.com/alexgal23/art/DOT-M-Cursors-817793310)||
 |theme,cursor|cache|[Grey Tango Cursor little](https://deviantart.com/vicing/art/Grey-Tango-Cursor-little-115920099)||
 |theme,cursor|cache|[Grey Tango Cursor](https://deviantart.com/vicing/art/Grey-Tango-Cursor-115807611)||
 |theme,cursor|cache|[Simplify Dot 2](https://deviantart.com/dpcdpc11/art/Simplify-Dot-2-Windows-Cursors-897619865)||
-|thumbnail|mark|[DarkThumbs](https://github.com/fire-eggs/DarkThumbs)|release|
 |tmux|cache|[tmux](https://github.com/tmux/tmux)||
 |tool,calculate|cache|[Calculator.NET](https://github.com/loresoft/Calculator)||
 |tool,calculate|cache|[eva](https://github.com/nerdypepper/eva)||
@@ -1547,8 +1567,6 @@
 |tool,windows|extra|[Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)|release|
 |tool|cache|[Adobe-URL-Block-List](https://github.com/Ruddernation-Designs/Adobe-URL-Block-List)||
 |tool|extra|[SomeRuler](https://github.com/ZhujinLi/SomeRuler)||
-|torrent|mark|[qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition)|release|
-|track,activitywatch,extension|mark|[ActivityWatch Web Watcher](https://github.com/ActivityWatch/aw-watcher-web)||
 |translate,deepl,deeplx|cache|[DeepLX Vercel](https://github.com/bropines/Deeplx-vercel)||
 |translate,deepl,deeplx|cache|[DeepLX](https://github.com/OwO-Network/DeepLX)||
 |translate|cache|[deep-translator](https://github.com/nidhaloff/deep-translator)||
@@ -1578,28 +1596,22 @@
 |video,av1|cache|[Av1an](https://github.com/master-of-zen/Av1an)||
 |video,convert|cache|[FFmpeg Batch AV Converter](https://github.com/eibol/ffmpeg_batch)|release|
 |video,cut|cache|[VidCutter](https://github.com/ozmartian/vidcutter)||
-|video,cut|mark|[LosslessCut](https://github.com/mifi/lossless-cut)|release|
 |video,diff|extra|[video-compare](https://github.com/pixop/video-compare)|release|
 |video,duplicate|extra|[Video Duplicate Finder](https://github.com/0x90d/videoduplicatefinder)|release|
 |video,edit,python|cache|[MoviePy](https://github.com/Zulko/moviepy)||
 |video,editor|cache|[WebmGenerator](https://github.com/dfaker/WebmGenerator)||
-|video,editor|mark|[Kdenlive](https://kdenlive.org)|download|
 |video,edit|cache|[Editly](https://github.com/mifi/editly)||
 |video,edit|cache|[MoviePy](https://github.com/Zulko/moviepy)||
 |video,encode,automate|cache|[SMA Conversion/Tagging Automation Script](https://github.com/mdhiggins/sickbeard_mp4_automator)||
 |video,encode,handbrake|cache|[Handbrake Watcher](https://github.com/shannah/handbrake-watcher)||
 |video,encode,handbrake|cache|[handbrake](https://github.com/tahsinature/hardbrake)||
-|video,encode,handbrake|mark|[HandBrake](https://handbrake.fr)|download|
 |video,encode|cache|[FastFlix](https://github.com/cdgriffith/FastFlix)|release|
 |video,encode|cache|[NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes)||
-|video,encode|mark|[StaxRip](https://github.com/staxrip/staxrip)|release|
 |video,interpolate|cache|[Flowframes](https://github.com/n00mkrad/flowframes)||
 |video,library,track|cache|[Norfair](https://github.com/tryolabs/norfair)||
 |video,library|cache|[VidGear](https://github.com/abhiTronix/vidgear)||
-|video,library|mark|[FFmpeg](https://ffmpeg.org)|download|
 |video,loop|cache|[loopi](https://github.com/zebradots/loopi)||
 |video,metadata|cache|[MediaInfo.NET](https://github.com/stax76/MediaInfo.NET)||
-|video,metadata|mark|[MediaInfo](https://mediaarea.net/en/MediaInfo)|download|
 |video,mkv|cache|[MakeMKV](https://www.makemkv.com)||
 |video,mkv|extra|[MKV Muxing Batch GUI](https://github.com/yaser01/mkv-muxing-batch-gui)|release|
 |video,mkv|extra|[MKVToolNix Batch Tool](https://github.com/iPzard/mkvtoolnix-batch-tool)|release|
@@ -1624,7 +1636,6 @@
 |video,record|cache|[ScreenToGif](https://screentogif.com)||
 |video,record|cache|[streamlit-webrtc](https://github.com/whitphx/streamlit-webrtc)||
 |video,record|extra|[wcap](https://github.com/mmozeiko/wcap)|download|
-|video,rename|mark|[sub-batch](https://github.com/kl/sub-batch)|release|
 |video,resize|cache|[Video2X](https://github.com/k4yt3x/video2x)||
 |video,stabilize|extra|[VidStab GUI](https://github.com/hlorand/vidstabgui)|release|
 |video,synchronize|cache|[subaligner](https://github.com/baxtree/subaligner)||
@@ -1634,21 +1645,16 @@
 |video,thumbnail|extra|[FFmpegThumbnails](https://github.com/megakraken/FFmpegThumbnails)|release|
 |video,transcript|cache|[AutoSub](https://github.com/abhirooptalasila/AutoSub)||
 |video,transcript|cache|[Autosub](https://github.com/jiaox99/autosub)||
-|video,translate|mark|[Tern](https://github.com/1c7/Translate-Subtitle-File)|release|
 |video,twitch|cache|[Chatterino 2](https://github.com/Chatterino/chatterino2)||
 |video,twitch|cache|[Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui)||
 |video|cache|[Shotcut](https://github.com/mltframework/shotcut)|release|
 |vim|cache|[Vim](https://github.com/vim/vim)|release|
-|vim|extra|[Vim](https://vim.org)||
 |virtual|cache|[VirtualBox](https://www.virtualbox.org/)|download|
 |vscode|cache|[Visual Studio Code](https://code.visualstudio.com)|download|
 |vscode|extra|[VSCodium](https://github.com/VSCodium/vscodium)|release|
-|web,preview|extra|[Markserv](https://github.com/markserv/markserv)||
 |webfont|extra|[Webify](https://github.com/ananthakumaran/webify)|release|
 |wiki|cache|[Trilium Notes](https://github.com/zadam/trilium)|release|
 |window,resize|extra|[Sizer](https://brianapps.net/sizer)||
-|window,resize|mark|[resizer2](https://github.com/alvesvaren/resizer2)|release|
-|window,switch|mark|[AltBacktick](https://github.com/akiver/AltBacktick)||
 |window,tool|cache|[NiftyWindows](https://github.com/ahkscript/NiftyWindows)|release|
 |window,tool|cache|[Window Switcher](https://github.com/sigoden/windows-switcher)||
 |window,tool|cache|[WinScroll](https://github.com/Petethegoat/WinScroll)||
@@ -1657,14 +1663,4 @@
 |window,tool|extra|[DeskPins](https://efotinis.neocities.org/deskpins)|download|
 |window,virtual-desktop|cache|[SylphyHorn](https://github.com/Grabacr07/SylphyHorn)||
 |windows,screen,share|cache|[Bananas Screen Sharing](https://github.com/mistweaverco/bananas)||
-|windows,window|cache|[zVirtualDesktop](https://github.com/mzomparelli/zVirtualDesktop)||
-|windows,window|mark|[virgo](https://github.com/henkman/virgo)|release|
-|window|cache|[GlazeWM](https://github.com/glzr-io/glazewm)||
-|window|cache|[GridMove](https://github.com/mirtlecn/GridMove)||
-|window|cache|[komorebi](https://github.com/LGUG2Z/komorebi)||
-|window|cache|[Simple Dynamic Window Manager for Windows](https://github.com/ahrm/SDWM)||
-|window|cache|[WinWM](https://github.com/McYoloSwagHam/win3wm)||
-|window|mark|[RectangleWin](https://github.com/ahmetb/RectangleWin)|release|
-|window|mark|[Virtual Display Driver](https://github.com/VirtualDisplay/Virtual-Display-Driver)|release|
-|youtube|extra|[yt-dlp](https://github.com/yt-dlp/yt-dlp)|release|
-|zsh|mark|[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)||
+

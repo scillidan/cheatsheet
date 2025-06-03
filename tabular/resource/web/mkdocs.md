@@ -3,8 +3,8 @@
 |tag|link|
 |:-|:-| 
 |mkdocs,theme|[Material for MkDocs](https://squidfunk.github.io/mkdocs-material)|
-[Breakless Lists Markdown Extension](https://github.com/adamb70/mdx-breakless-lists)
-[Mdx Truly Sane Lists](https://github.com/radude/mdx_truly_sane_lists)
+|mkdocs|[Breakless Lists Markdown Extension](https://github.com/adamb70/mdx-breakless-lists)|
+|mkdocs|[Mdx Truly Sane Lists](https://github.com/radude/mdx_truly_sane_lists)|
 |mkdocs,audio|[MkDocs Audio](https://github.com/jfcmontmorency/mkdocs-audio)|
 |mkdocs,image|[MkDocs GLightbox](https://github.com/blueswen/mkdocs-glightbox)|
 |mkdocs,index|[File exclude plugin for mkdocs](https://github.com/apenwarr/mkdocs-exclude)|

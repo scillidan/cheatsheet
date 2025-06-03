@@ -1,10 +1,12 @@
+## Mark
+
 |tag|link|
 |:-|:-|
 |web,hugo|[hugo-shortcode-gallery](https://github.com/mfg92/hugo-shortcode-gallery)
 |web,hugo|[hugo-book](https://github.com/alex-shpak/hugo-book)
 |web,hugo|[Hugo picture optimization](https://github.com/b-m-f/hugo-picture-optimization)
 |web,vivliostyle|[Vivliostyle](https://vivliostyle.org)
-|web|[fonts(fork)](https://github.com/scillidan/fonts)
+|web,cdn|[fonts(fork)](https://github.com/scillidan/fonts)
 
 ## Later
 
@@ -71,7 +73,6 @@
 |web,slide|[remark](https://github.com/gnab/remark)
 |web,vivliostyle|[hugo-theme-vivliocli](https://github.com/mochimochiki/hugo-theme-vivliocli)
 |web,vivliostyle|[kaigainotabi1](https://github.com/MurakamiShinyu/kaigainotabi1)
-|web,vivliostyle|[Vivliostyle.js Releases](https://vivliostyle.github.io)
 |web,webfont|[Fontsource](https://github.com/fontsource/fontsource)
 |web,wiki|[Amusewiki](https://github.com/melmothx/amusewiki)
 |web,wiki|[TiddlyWiki](https://tiddlywiki.com)

@@ -3,7 +3,6 @@
 |tag|vault|link|
 |:-|:-|:-|
 |obsidian|global|[Actions URI](https://github.com/czottmann/obsidian-actions-uri)|
-|obsidian|global|[Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title)|
 |obsidian|global|[Autofit Tabs](https://github.com/bwya77/autofit-tabs)|
 |obsidian|global|[Better Export PDF](https://github.com/l1xnan/obsidian-better-export-pdf)|
 |obsidian|global|[BRAT](https://github.com/TfTHacker/obsidian42-brat)|
@@ -70,6 +69,7 @@
 |obsidian|[Annotator](https://github.com/elias-sundqvist/obsidian-annotator)|
 |obsidian|[Another Quick Switcher](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)|
 |obsidian|[Auto Archive Plugin for Obsidian](https://github.com/shanedonburke/obsidian-auto-archive)|
+|obsidian|[Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title)|
 |obsidian|[Automatic Table](https://github.com/BrMacCath/Table-of-Contents)|
 |obsidian|[Better File Link](https://github.com/marcjulianschwarz/obsidian-file-link)|
 |obsidian|[Better Reading Mode](https://github.com/Quorafind/Obsidian-Better-Reading-Mode)|
@@ -173,7 +173,7 @@
 |obsidian|[obsidian-pagescroll-plugin](https://github.com/chenshutian9610/obsidian-pagescroll-plugin)|
 |obsidian|[Obsidian-Pseudocode](https://github.com/ytliu74/obsidian-pseudocode)|
 |obsidian|[obsidian-publish-css](https://github.com/chad-bennett/obsidian-publish-css)|
-|obsidian|[obsidian.nvim](https://github.com/epwalsh/obsidian.nvim)|
+|obsidian|[Opener: New Tab by Default](https://github.com/lukemt/obsidian-opener)|
 |obsidian|[Outliner](https://github.com/vslinko/obsidian-outliner)|
 |obsidian|[Ozan's Image in Editor Plugin](https://github.com/ozntel/oz-image-in-editor-obsidian)|
 |obsidian|[Pandoc](https://github.com/OliverBalfour/obsidian-pandoc)|

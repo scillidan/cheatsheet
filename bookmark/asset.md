@@ -1,5 +1,5 @@
 |tag|site|
-|:-------|:--------------------------------------------|
+|:-|:-|
 |design|[Behance](https://www.behance.net)|
 |design|[Dribbble](https://dribbble.com)|
 |design|[Pinterest](https://www.pinterest.com)|
@@ -9,7 +9,7 @@
 |news|[News Now](https://newsnow.busiyi.world)|
 
 |tag|site|
-|:---------------------|:-----------------------------------------|
+|:-|:-|
 |3d|[Sketchfab](https://sketchfab.com/feed)|
 |3dprint|[Autodesk](https://www.instructables.com)|
 |3dprint|[MakerWorld](https://makerworld.com/en)|

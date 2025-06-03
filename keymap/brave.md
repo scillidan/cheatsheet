@@ -35,6 +35,8 @@
 |Brave|Image downloader - Imageye|A-S-i|Activate the extension|
 |Brave|Immersive Translate - Translate Web & PDF|A-S-t|Activate the extension|
 |Brave|Immersive Translate - Translate Web & PDF|A-S-z|Translate Webpage/Show Original Text|
+|Brave|Linkclump|mbtn_left-a|Opened as New Tabs|
+|Brave|Linkclump|mbtn_right-a|Copied to clipboard|
 |Brave|MarkDownload - Markdown Web Clipper|A-S-m|Activate the extension|
 |Brave|Monica: ChatGPT AI Assistant|A-S-m|Activate the extension|
 |Brave|Open Multiple URLs:|A-o|Activate the extension|
