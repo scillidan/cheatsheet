@@ -1,3 +1,3 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|DeskPins|C-F12|Toggle Pin Window|
+|DeskPins|Toggle Pin Window|C-F12|

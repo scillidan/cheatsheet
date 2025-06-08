@@ -1,3 +1,3 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|Zeal|C-A-z|Open Zeal|
+|Zeal|Open Zeal|C-A-z|

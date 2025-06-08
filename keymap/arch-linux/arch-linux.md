@@ -1,3 +1,3 @@
-|os|shortcut|command|
+|os|command|shortcut|
 |:-|:-|:-|
-|Arch Linux|C-A-F2|Open Console|
+|Arch Linux|Open Console|C-A-F2|

@@ -1,7 +1,15 @@
+## Mark
+
+|tag|link|
+|:-|:-|
+|optweb|[Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|
+|optweb|[github-search-rss](https://github.com/azu/github-search-rss)|
+
 ## Cache
 
 |tag|link|
 |:-|:-|
+|optweb|[Kohya's GUI](https://github.com/bmaltais/kohya_ss)|
 |optweb|[DGM.js](https://github.com/dgmjs/dgmjs)|
 |optweb|[Excalibur](https://github.com/camelot-dev/excalibur)|
 |optweb|[Frappe Books](https://github.com/frappe/books)|
@@ -15,3 +23,4 @@
 |optweb|[Torrents.csv](https://github.com/emtee40/torrents-csv-server)|
 |optweb|[Web-Check](https://github.com/Lissy93/web-check)|
 |optweb|[Zeal User Contributions & Cheat Sheets](https://github.com/xantiagoma/zealusercontributions)|
+|optweb,translate|[ChatGPT API SRT Subtitle Translator](https://github.com/Cerlancism/chatgpt-subtitle-translator)|

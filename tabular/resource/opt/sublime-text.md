@@ -48,11 +48,13 @@
 |sublime-text|[ScopeHunter](https://github.com/facelessuser/ScopeHunter/)|
 |sublime-text|[Terminal](https://github.com/wbond/sublime_terminal)|
 |sublime-text|[WakaTime](https://github.com/wakatime/sublime-wakatime)|
+|sublime-text,editorconfig|[EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)|
 
 ## Later
 
 |tag|link|
 |:-|:-|
+|sublime-text|[LanguageTool](https://github.com/gtarawneh/languagetool-sublime)|
 |sublime-text,lsp|[LSP](https://github.com/sublimelsp/LSP)|
 |sublime-text,lsp|[LSP-html](https://github.com/sublimelsp/LSP-html)|
 |sublime-text,lsp|[LSP-css](https://github.com/sublimelsp/LSP-css)|
@@ -78,7 +80,6 @@
 |sublime-text,complete|[ST-BootstrapAutocomplete](https://github.com/jfcherng-sublime/ST-BootstrapAutocomplete)|
 |sublime-text,config|[ChineseLocalizations](https://github.com/rexdf/ChineseLocalization)|
 |sublime-text,config|[ConvertToUTF8](https://github.com/seanliang/ConvertToUTF8)|
-|sublime-text,config|[editorconfig](https://editorconfig.org)|
 |sublime-text,config|[EditorConfigSnippets](https://github.com/mfuentesg/EditorConfigSnippets)|
 |sublime-text,config|[WindowsContextMenu](https://github.com/jfcherng-sublime/ST-WindowsContextMenu)|
 |sublime-text,config|[Working with AutoHotKey in Sublime Text](https://gist.github.com/AWMooreCO/d0308bab265cc8c5e122)|

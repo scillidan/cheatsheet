@@ -5,7 +5,7 @@
 |Vim|R|Enter Peplace Mode|
 |Vim|`:`|Enter Command-line Mode|
 |Vim|`:w`|Save|
-|Vim|`:wq`/x/ZZ|Save And Quit|
+|Vim|`:wq` / x / ZZ|Save And Quit|
 |Vim|d|Delete Selection|
 |Vim|dw|Delete To Next Word|
 |Vim|dd|Delete Line(Cut)|
@@ -24,7 +24,7 @@
 |Vim|$|End Of line|
 |Vim|gg|First Line|
 |Vim|G|Last Line|
-|Vim|`:3`/3G|Go To Line 3|
+|Vim|`:3` / 3G|Go To Line 3|
 |Vim|0|Start Of line|
 |Vim|ge|Previous End Of Line|
 |Vim|e|Next End Of Line|

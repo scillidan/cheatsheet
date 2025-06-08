@@ -1,8 +1,12 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|ImageGlass|k|Color picker|
-|ImageGlass|c|Crop image|
-|ImageGlass|x|ExifGlass|
-|ImageGlass|p|Frame navigation|
-|ImageGlass|A-c|Magick.NET Lossless Compression|
-|ImageGlass|A-r|Resize iamge|
+|ImageGlass|Zoom in/out|Scroll|
+|ImageGlass|Pan up/down|C-scroll|
+|ImageGlass|Pan left/right|S-scroll|
+|ImageGlass|View next/previous Image|A-scroll|
+|ImageGlass|Color picker|k|
+|ImageGlass|Crop image|c|
+|ImageGlass|ExifGlass|x|
+|ImageGlass|Frame navigation|p|
+|ImageGlass|Magick.NET Lossless Compression|A-c|
+|ImageGlass|Resize iamge|A-r|

@@ -1,4 +1,4 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|dnGrep|A-r|Restore dnGrep window|
-|dnGrep|C-Etr|Search|
+|dnGrep|Restore dnGrep window|A-r|
+|dnGrep|Search|C-Etr|

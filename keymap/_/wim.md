@@ -1,4 +1,4 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|Wim|Maps|Show Keymap|
-|Wim|C-Left/Right|Switch Tab|
+|Wim|Show Keymap|Maps|
+|Wim|Switch Tab|C-Left/Right|

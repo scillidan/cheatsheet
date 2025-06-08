@@ -1,3 +1,3 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|RBTray|C-A-Down|Minimized to system tray|
+|RBTray|Minimized to system tray|C-A-Down|

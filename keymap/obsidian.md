@@ -38,6 +38,8 @@
 |global|Bookmarks: Borkmarks ...|A-b|
 |global|Bookmarks: Remove bookmark for the current file|A-S-b|
 |global|Command palette: Open command palette|C-S-p|
+|global|Search current file|C-f|
+|global|Search: Search in all files |C-A-f|
 |global|Split down|C-S-Down|
 |global|Split right|C-S-Right|
 |global|Toggle Live Preview/Source mode|A-S-l|
@@ -52,8 +54,8 @@
 |global|MatchSyntax|Clear match highlights|C-S-m|
 |global|Mode manager|Switch to edit|C-S-e|
 |global|Mode manager|Switch to reading|C-S-r|
-|global|Omnisearch|In-file search|C-f|
-|global|Omnisearch|Vault search|C-S-f|
+|global|Omnisearch|In-file search|A-f|
+|global|Omnisearch|Vault search|A-S-f|
 |global|Open with|Open file with Sublime Text|C-e|
 |global|Regex Line Filter|Toggle|C-r|
 |global|Scroll to Top|Scroll to Top|A-Up|

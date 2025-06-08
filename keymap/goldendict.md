@@ -1,9 +1,9 @@
-|opt|part|shortcut|command|
+|opt|part|command|shortcut|
 |:-|:-|:-|:-|
-|GoldenDict|build-in|C-l|focus|
-|GoldenDict|build-in|C-S-f|Full Text Search|
-|GoldenDict|build-in|A-g|Pick Dictionary|
-|GoldenDict|build-in|A-Left/Right|Show Previous/Next Founded Results|
-|GoldenDict|build-in|A-S-g|Toggle GoldenDict|
-|GoldenDict|build-in|A-z|Translate Pasteboard|
-|GoldenDict|GoldenDictOCR|C-A-g|Toggle Scan Popup|
+|GoldenDict|build-in|focus|C-l|
+|GoldenDict|build-in|Full Text Search|C-S-f|
+|GoldenDict|build-in|Pick Dictionary|A-g|
+|GoldenDict|build-in|Show Previous/Next Founded Results|A-Left/Right|
+|GoldenDict|build-in|Toggle GoldenDict|A-S-g|
+|GoldenDict|build-in|Translate Pasteboard|A-z|
+|GoldenDict|GoldenDictOCR|Toggle Scan Popup|C-A-g|

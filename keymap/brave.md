@@ -18,36 +18,36 @@
 
 ## Build-in shortcut
 
-|opt|part|shortcut|comment|
+|opt|part|command|shortcut|
 |:-|:-|:-|:-|
-|Brave|Build-in|C-l|Search|
-|Brave|Build-in|C-S-b|Toggle Bookmark Bar|
+|Brave|Build-in|Search|C-l|
+|Brave|Build-in|Toggle Bookmark Bar|C-S-b|
 
 ## Extension shortcut
 
-|opt|extension|shortcut|comment|
+|opt|extension|command|shortcut|
 |:-|:-|:-|:-|
-|Brave|AI Grammar Checker & Paraphraser – LanguageTool|A-S-c|Activate the extension|
-|Brave|Kokoro TTS Reader|A-S-k|Activate the extension|
-|Brave|cat-catch|A-S-c|Activate the extension|
-|Brave|Chikamichi - Quickly find a page -|A-f|Activate the extension|
-|Brave|GoFullPage - Full Page Screen Capture|A-S-p|Activate the extension|
-|Brave|Image downloader - Imageye|A-S-i|Activate the extension|
-|Brave|Immersive Translate - Translate Web & PDF|A-S-t|Activate the extension|
-|Brave|Immersive Translate - Translate Web & PDF|A-S-z|Translate Webpage/Show Original Text|
-|Brave|Linkclump|mbtn_left-a|Opened as New Tabs|
-|Brave|Linkclump|mbtn_right-a|Copied to clipboard|
-|Brave|MarkDownload - Markdown Web Clipper|A-S-m|Activate the extension|
-|Brave|Monica: ChatGPT AI Assistant|A-S-m|Activate the extension|
-|Brave|Open Multiple URLs:|A-o|Activate the extension|
-|Brave|Read Later|A-S|Activate the extension|
-|Brave|Screen Ruler - Measure The Web|A-S-r|Activate the extension|
-|Brave|Screenshot Capture|A-s|Activate the extension|
-|Brave|Smart TOC|A-t|Activate the extension|
-|Brave|Superb Copy|A-S-c|Activate the extension|
-|Brave|Tab to Window/Popup|A-p|Keyboard Shortcut: Window|
-|Brave|Tab to Window/Popup|A-x|Keyboard Shortcut: Popup|
-|Brave|Yomitan Popup Dictionary|A-S-y|Activate the extension|
+|Brave|AI Grammar Checker & Paraphraser – LanguageTool|Activate the extension|A-S-c|
+|Brave|Kokoro TTS Reader|Activate the extension|A-S-k|
+|Brave|cat-catch|Activate the extension|A-S-c|
+|Brave|Chikamichi - Quickly find a page -|Activate the extension|A-f|
+|Brave|GoFullPage - Full Page Screen Capture|Activate the extension|A-S-p|
+|Brave|Image downloader - Imageye|Activate the extension|A-S-i|
+|Brave|Immersive Translate - Translate Web & PDF|Activate the extension|A-S-t|
+|Brave|Immersive Translate - Translate Web & PDF|Translate Webpage/Show Original Text|A-S-z|
+|Brave|Linkclump|Opened as New Tabs|mbtn_left-a|
+|Brave|Linkclump|Copied to clipboard|mbtn_right-a|
+|Brave|MarkDownload - Markdown Web Clipper|Activate the extension|A-S-m|
+|Brave|Monica: ChatGPT AI Assistant|Activate the extension|A-S-m|
+|Brave|Open Multiple URLs:|Activate the extension|A-o|
+|Brave|Read Later|Activate the extension|A-S|
+|Brave|Screen Ruler - Measure The Web|Activate the extension|A-S-r|
+|Brave|Screenshot Capture|Activate the extension|A-s|
+|Brave|Smart TOC|Activate the extension|A-t|
+|Brave|Superb Copy|Activate the extension|A-S-c|
+|Brave|Tab to Window/Popup|Keyboard Shortcut: Window|A-p|
+|Brave|Tab to Window/Popup|Keyboard Shortcut: Popup|A-x|
+|Brave|Yomitan Popup Dictionary|Activate the extension|A-S-y|
 
 ## Context menu
 
@@ -55,12 +55,12 @@
 |:-|:-|:-|
 |Brave|Block Site|(Un)Block this Page|
 |Brave|uBlock Origin|Block element...|
-|Brave|Cookie AutoDelete||
+|Brave|Cookie AutoDelete|/|
 |Brave|DanTagCopy|DanTagCopy:tags to clipboard|
 |Brave|GitZip for github|GitZip Download|
-|Brave|MarkDownload - Markdown Web Clipper||
+|Brave|MarkDownload - Markdown Web Clipper|/|
 |Brave|Read Later|Save to Read later|
 |Brave|Screen Ruler - Measure The Web|Screen Ruler|
-|Brave|SingleFile||
+|Brave|SingleFile|/|
 |Brave|Immersive Translate - Translate Web & PDF|Translate to Simplified Chinese(Alt+Shift+Z)|
 |Brave|Monica: ChatGPT AI Assistant|Translate webpage/Display original text|

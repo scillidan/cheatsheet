@@ -36,3 +36,12 @@ ffmpeg -i $1 -map 0:a:0 -c:a copy _vid2_.mp3
 ffmpeg -i $1 -map_metadata -1 -c:a libvorbis -b:a 64k -compression_level 10 -vn _aud2_.ogg
 ```
 
+```sh
+# for voice recording
+ffmpeg -i $1 -c:a libvorbis -ar 44100 -b:a 128k -maxrate 192k -minrate 64k -bufsize 192k _aud2_.ogg
+```
+
+```sh
+# for music
+ffmpeg -i $1 -c:a libvorbis -ar 44100 -b:a 256k -maxrate 320k -minrate 128k -bufsize 320k _aud2_.ogg
+```

@@ -1,4 +1,4 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|Lintalist|W-A-l|Toggle Main Window|
-|Lintalist|S-Etr|Paste Part 2|
+|Lintalist|Toggle Main Window|Win-A-l|
+|Lintalist|Paste Part 2|S-Etr|

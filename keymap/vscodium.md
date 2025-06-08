@@ -1,23 +1,23 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|VScodium|C-b|Primary Side Bar|
-|VScodium|C-S-b|Secondary Side Side Bar|
-|VScodium|C-S-e|Explorer|
-|VScodium|C-S-f|Search|
-|VScodium|C-S-g|Source Control|
-|VScodium|C-S-d|Run and Debug|
-|VScodium|C-S-x|Extensions|
-|VScodium|A-o|Open|
-|VScodium|C-k,C-s|Keyboard Shortcuts|
-|VScodium|C-k,C-\|View: Split Editor Down|
-|VScodium|C-\|View: Split Editor|
+|VScodium|Primary Side Bar|C-b|
+|VScodium|Secondary Side Side Bar|C-S-b|
+|VScodium|Explorer|C-S-e|
+|VScodium|Search|C-S-f|
+|VScodium|Source Control|C-S-g|
+|VScodium|Run and Debug|C-S-d|
+|VScodium|Extensions|C-S-x|
+|VScodium|Open|A-o|
+|VScodium|Keyboard Shortcuts|C-k,C-s|
+|VScodium|View: Split Editor Down|C-k,C-\\|
+|VScodium|View: Split Editor|C-\\|
 
-|opt|extension|shortcut|command|
+|opt|extension|command|shortcut|
 |:-|:-|:-|:-|
-|VScodium|Better Align|A-a|Align|
-|VScodium|Hungry Delete|Bksp|Smart Backspace|
-|VScodium|Hungry Delete|C-Bksp|Hungry Delete|
-|VScodium|Project Manager|A-S-p|Project Manager|
+|VScodium|Better Align|Align|A-a|
+|VScodium|Hungry Delete|Smart Backspace|Bksp|
+|VScodium|Hungry Delete|Hungry Delete|C-Bksp|
+|VScodium|Project Manager|Project Manager|A-S-p|
 
 |opt|extension|command|
 |:-|:-|:-|

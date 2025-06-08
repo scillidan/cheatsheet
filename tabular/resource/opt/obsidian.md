@@ -26,6 +26,7 @@
 |obsidian|global|[Scroll to Top](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin)|
 |obsidian|global|[Settings profiles](https://github.com/4Source/settings-profiles-obsidian-plugin)|
 |obsidian|global|[Show Whitespace](https://github.com/ebullient/obsidian-show-whitespace-cm6)|
+|obsidian|global|[Simple Tab Indent](https://github.com/hoomersinpsom/simple-tab-indent)|
 |obsidian|global|[Sort & Permute lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines)|
 |obsidian|global|[Status Bar Organizer](https://github.com/Opisek/obsidian-statusbar-organizer)|
 |obsidian|global|[Templater](https://github.com/SilentVoid13/Templater)|
@@ -58,6 +59,13 @@
 |obsidian|log|[Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)|
 |obsidian|log|[Novel Word Count](https://github.com/isaaclyman/novel-word-count-obsidian)|
 
+## Later
+
+|tag|vault|link|
+|:-|:-|:-|
+|obsidian|live|[Citations](https://github.com/hans/obsidian-citation-plugin)|
+|obsidian|live|[Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration)|
+
 ## Cache
 
 |tag|link|
@@ -80,7 +88,6 @@
 |obsidian|[Card Links](https://github.com/ormai/obsidian-card-links)|
 |obsidian|[CardBoard](https://github.com/roovo/obsidian-card-board)|
 |obsidian|[Checkbox Sorter](https://github.com/mattang687/obsidian-checkbox-sort)|
-|obsidian|[Citations](https://github.com/hans/obsidian-citation-plugin)|
 |obsidian|[Cloze](https://github.com/DearVikki/obsidian-cloze-plugin)|
 |obsidian|[cMenu](https://github.com/chetachiezikeuzor/cMenu-Plugin)|
 |obsidian|[Code Editor Shortcuts](https://github.com/timhor/obsidian-editor-shortcuts)|

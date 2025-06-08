@@ -1,4 +1,4 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|Xfce|A-F3|xfce4-appfinder|
-|Xfce|C-F1|Workspace 1|
+|Xfce|xfce4-appfinder|A-F3|
+|Xfce|Workspace 1|C-F1|

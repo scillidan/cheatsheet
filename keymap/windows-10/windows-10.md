@@ -1,6 +1,6 @@
-|os|shortcut|command|
+|os|command|shortcut|
 |:-|:-|:-|
-|Windows 10|A-Tab|Switch To Recent Window|
-|Windows 10|A(Hold)-Tab|Swith To Previous Window|
-|Windows 10|C-Tab|Switch To Next Tab|
-|Windows 10|C-S-Tab|Switch To PreviousNext Tab|
+|Windows 10|Switch To Recent Window|A-Tab|
+|Windows 10|Swith To Previous Window|A(Hold), Tab|
+|Windows 10|Switch To Next Tab|C-Tab|
+|Windows 10|Switch To PreviousNext Tab|C-S-Tab|

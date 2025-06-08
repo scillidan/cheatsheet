@@ -1,6 +1,6 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|cmus|c|Pause Playback|
-|cmus|v|Stop Playback|
-|cmus|-/+|Reduce/Increase The Volume|
-|cmus|/|Search|
+|cmus|Pause Playback|c|
+|cmus|Stop Playback|v|
+|cmus|Reduce/Increase The Volume|-/+|
+|cmus|Search|/|

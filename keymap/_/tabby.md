@@ -1,5 +1,5 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|Tabby|C-S-Arrows|New_Window|
-|Tabby|C-S-w|Close_Window|
-|Tabby|C-S-r|quick-restart|
+|Tabby|New_Window|C-S-Up/Down/Left/Right|
+|Tabby|Close_Window|C-S-w|
+|Tabby|quick-restart|C-S-r|

@@ -1,6 +1,6 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|sreadium|m|Pause|
-|sreadium|y|Previous audio phrase|
-|sreadium|u|Next audio phrase|
-|sreadium|Spc|Enable touch-to-play|
+|sreadium|Pause|m|
+|sreadium|Previous audio phrase|y|
+|sreadium|Next audio phrase|u|
+|sreadium|Enable touch-to-play|Spc|

@@ -1,4 +1,4 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|RenPy|R|Autoreload|
-|RenPy|F4|Image Load Log|
+|RenPy|Autoreload|R|
+|RenPy|Image Load Log|F4|

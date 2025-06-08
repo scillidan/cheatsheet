@@ -1,4 +1,4 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|Fluent Reader|b|Open In Browser|
-|Fluent Reader|h|Hide This Post|
+|Fluent Reader|Open In Browser|b|
+|Fluent Reader|Hide This Post|h|

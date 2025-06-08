@@ -1,7 +1,7 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|OmegaT|C-u|Next Untranslated Segment|
-|OmegaT|C-f|Search|
-|OmegaT|C-Spc|Insert Tag|
-|OmegaT|C-i|Insert Match Pane|
-|OmegaT|C-s|Create Alternative Translation|
+|OmegaT|Next Untranslated Segment|C-u|
+|OmegaT|Search|C-f|
+|OmegaT|Insert Tag|C-Spc|
+|OmegaT|Insert Match Pane|C-i|
+|OmegaT|Create Alternative Translation|C-s|

@@ -1,11 +1,11 @@
-|opt|part|shortcut|command|
+|opt|part|command|shortcut|
 |:-|:-|:-|:-|
-|Cmder|clink|A-h|Help|
-|Cmder|clink|Tab|Complete|
-|Cmder|clink-fzf|C-Spc|Complete|
-|Cmder|clink-fzf|C-r|History|
-|Cmder|clink-fzf|A-c|Subdirectory|
-|Cmder|clink-fzf|C-t|File|
-|Cmder|clink-gizmos|C-PgUP|z_dir_popup.lua|
-|Cmder|clink-gizmos|C-A-PgUp|cwdhistory.lua|
-|Cmder|clink-gizmos|i <dir> <cmd>|i.lua|
+|Cmder|clink|Help|A-h|
+|Cmder|clink|Complete|Tab|
+|Cmder|clink-fzf|Complete|C-Spc|
+|Cmder|clink-fzf|History|C-r|
+|Cmder|clink-fzf|Subdirectory|A-c|
+|Cmder|clink-fzf|File|C-t|
+|Cmder|clink-gizmos|z_dir_popup.lua|C-PgUP|
+|Cmder|clink-gizmos|cwdhistory.lua|C-A-PgUp|
+|Cmder|clink-gizmos|i.lua|i `<dir>` `<cmd>`|

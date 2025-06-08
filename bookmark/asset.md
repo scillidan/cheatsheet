@@ -21,6 +21,7 @@
 |design|[Creative Market](https://creativemarket.com)|
 |editor,asset|[Joplin - Plugins](https://joplinapp.org/plugins)|
 |editor,asset|[neovimcraft](https://neovimcraft.com)|
+|editor,hub|[Obsidian Hub](https://github.com/obsidian-community/obsidian-hub)|
 |game|[BGG](https://boardgamegeek.com)|
 |game|[itch](https://itch.io/games)|
 |game|[Kickstarter](https://www.kickstarter.com/discover/categories/games)|
@@ -30,7 +31,9 @@
 |game,asset|[Kenney](https://kenney.nl)|
 |game,asset|[OpenGameArt.org - 2D Art](https://opengameart.org/art-search-advanced?title=&field_art_tags_tid_op=or&field_art_tags_tid=&name=&field_art_type_tid%5B%5D=9&field_art_licenses_tid%5B%5D=2&field_art_licenses_tid%5B%5D=10310&field_art_licenses_tid%5B%5D=31772&field_art_licenses_tid%5B%5D=17981&field_art_licenses_tid%5B%5D=4&field_art_licenses_tid%5B%5D=17982&field_art_licenses_tid%5B%5D=3&sort_by=created&sort_order=DESC&items_per_page=144&Collection=)|
 |game,asset|[OpenGameArt.org - Music](https://opengameart.org/art-search-advanced?title=&field_art_tags_tid_op=or&field_art_tags_tid=&name=&field_art_type_tid%5B%5D=12&field_art_licenses_tid%5B%5D=2&field_art_licenses_tid%5B%5D=10310&field_art_licenses_tid%5B%5D=31772&field_art_licenses_tid%5B%5D=17981&field_art_licenses_tid%5B%5D=4&field_art_licenses_tid%5B%5D=17982&field_art_licenses_tid%5B%5D=3&sort_by=created&sort_order=DESC&items_per_page=144&Collection=)|
+|game,bios|[Retro BIOSes](https://github.com/Abdess/retroarch_system)|
 |game,news|[indienove](https://indienova.com/u/game)|
+|game,torrent|[Releases](https://github.com/jc141x/releases-feed)|
 |icon|[CSS ICON](https://cssicon.space)|
 |icon|[Feather](https://feathericons.com)|
 |icon|[GLYPHS.](https://x.withseismic.com/glyphs)|

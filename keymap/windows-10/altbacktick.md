@@ -1,3 +1,3 @@
 |opt|shortcut|command|
 |:-|:-|:-|
-|AltBacktick|A-Backquote|Switch Between Windows Of The Same Program|
+|AltBacktick|A-Bksp|Switch Between Windows Of The Same Program|

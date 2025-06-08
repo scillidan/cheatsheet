@@ -26,8 +26,6 @@
 |Photo Gradient|https://photogradient.com|
 |PNG or JPG to SVG|https://www.pngtosvg.com|
 |PNG to SVG|https://png2svg.com|
-|qrframe|https://qrframe.kylezhe.ng|
-|QuickPic|https://quickpic-alpha.vercel.app|
 |Spotify Downloader|https://spotidownloader.com|
 |TableConvert|https://tableconvert.com|
 |texdoc online documentation|https://texdoc.org/index.html|
@@ -71,6 +69,7 @@
 |jsetymology|https://gm-jsetymology.vercel.app|
 |JSON Crack|https://gm-jsoncrack-com.vercel.app|
 |Kiwix JS|https://gm-kiwix-js-pwa.vercel.app/www/index.html|
+|Lobe Chat|https://gm-lobe-chat.vercel.app|
 |Localpdf.tech|https://gm-localpdfmerger.vercel.app|
 |Look Scanned|https://gm-lookscanned-io.vercel.app|
 |markdownlint|https://gm-markdownlint.vercel.app/default.htm|
@@ -90,7 +89,9 @@
 |Project AI Summarizer App|https://gm-project-ai-summarizer-app.vercel.app|
 |Prompt Optimizer|https://gm-prompt-optimizer.vercel.app|
 |QR code designer|https://scillidan.github.io/qr-designer|
+|qrframe|https://gm-qrframe.vercel.app|
 |Query QPT|https://gm-query-gpt.vercel.app|
+|QuickPic|https://quickpic-alpha.vercel.app|
 |quiver|https://scillidan.github.io/quiver|
 |readium-js-viewer|https://scillidan.github.io/readium-js-viewer|
 |REAFLOW|https://scillidan.github.io/reaflow|
@@ -116,6 +117,7 @@
 |Transformer Explainer|https://scillidan.github.io/transformer-explainer|
 |URL-encoder for SVG|https://scillidan.github.io/url-encoder|
 |Yomi-Reader|https://yomi-reader-git-gh-pages-goblin-market.vercel.app|
+|VIA Web Application|https://gm-via-web.vercel.app|
 |Villain|https://gm-villain.vercel.app|
 |visionmagic|https://gm-visionmagic.vercel.app|
 |Vivliostyle Viewer|https://gm-vivliostyle-js.vercel.app|

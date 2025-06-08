@@ -3,10 +3,12 @@
 |tag|link|
 |:-|:-|
 |srv,activitywatch|[ActivityWatch](https://github.com/ActivityWatch/activitywatch)|
-|srv,jackett|[jackett.md](https://gist.github.com/wilmardo/cffb41d694edd069c28d585d2e20e0fc)|
+|srv,github-action,mkdocs|[Publishing your site](https://squidfunk.github.io/mkdocs-material/publishing-your-site)|
 |srv,jackett|[Jackett](https://github.com/Jackett/Jackett)|
-|srv,manage|[PM2](https://pm2.keymetrics.io/)|
-|srv,manga|[Komga](https://github.com/gotson/komga)|
+|srv,learn|[anki-sync-server](https://github.com/yangchuansheng/anki-sync-server)|
+|srv,manga|[Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server)|
+|srv,grammar|[LanguageTool](https://github.com/languagetool-org/languagetool)|
+|srv,database|[Datasette](https://github.com/simonw/datasette)|
 
 ## Later
 
@@ -16,20 +18,40 @@
 |srv,automation|[Ansible](https://github.com/ansible/ansible)|
 |srv,backup|[restic](https://github.com/restic/restic)|
 |srv,chat|[Chatwoot](https://github.com/chatwoot/chatwoot)|
-|srv,git|[jj](https://github.com/jj-vcs/jj)|
+|srv,github-action,markdown|[Markdown autodocs](https://github.com/dineshsonachalam/markdown-autodocs)|
+|srv,latex|[VS Code LaTeX Devcontainer](https://github.com/a-nau/latex-devcontainer)|
+|srv,lsp,reason|[Reason Language Server](https://github.com/jaredly/reason-language-server)|
 |srv,monitor,drive|[scrutiny](https://github.com/AnalogJ/scrutiny)|
 |srv,monitor|[Healthchecks](https://github.com/healthchecks/healthchecks)|
-|srv,monitor|[Netdata](https://github.com/netdata/netdata)|
 |srv,network|[NetBox](https://github.com/netbox-community/netbox)|
-|srv,pay|[Hyperswitch](https://github.com/juspay/hyperswitch)|
+|srv,sync|[Resilio-sync](https://github.com/linuxserver/docker-resilio-sync)|
+|srv,sync|[Syncthing](https://github.com/linuxserver/docker-syncthing)|
 |srv,wireles|[Unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application)|
+
+## Extra
+
+|tag|link|
+|:-|:-|
+|srv,github-action|[GitLab Sync - GitHub Action](https://github.com/kujov/gitlab-sync)|
+|srv,github-action|[Torrent Webseed Creator](https://github.com/AnimMouse/torrent-webseed-creator)|
+|srv,jackett|[jackett.md](https://gist.github.com/wilmardo/cffb41d694edd069c28d585d2e20e0fc)|
+|srv,jellyfin|[Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim)|
+|srv,jellyfin|[Jellyfin OpenSubtitles Plugin](https://github.com/jellyfin/jellyfin-plugin-opensubtitles)|
+|srv,jellyfin|[Jellyfin](https://jellyfin.org/)|
+|srv,manga|[Komga](https://github.com/gotson/komga)|
+|srv,markdown|[Markserv](https://github.com/markserv/markserv)|
+|srv,monitor|[Netdata](https://github.com/netdata/netdata)|
+|srv,npm|[PM2](https://pm2.keymetrics.io/)|
+|srv,paper|[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|
+|srv,plex|[MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim)|
+|srv,plex|[Plex](https://plex.tv/)|
+|srv,rss|[Miniflux 2](https://github.com/miniflux/v2)|
+|srv,torrent|[Qbittorrent](https://github.com/linuxserver/docker-qbittorrent)|
 
 ## Cache
 
 |tag|link|
 |:-|:-|
-|srv,activitywatch|[aw-watcher-input](https://github.com/ActivityWatch/aw-watcher-input)|
-|srv,activitywatch|[aw-watcher-utilization](https://github.com/Alwinator/aw-watcher-utilization)|
 |srv,alert|[Keep](https://github.com/keephq/keep)|
 |srv,archive|[ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)|
 |srv,arr|[Bazarr](https://github.com/morpheus65535/bazarr)|
@@ -39,6 +61,7 @@
 |srv,audio|[Lidarr](https://lidarr.audio)|
 |srv,backup|[rsnapshot](https://github.com/linuxserver/docker-rsnapshot)|
 |srv,book|[LinguaCafe](https://github.com/simjanos-dev/LinguaCafe)|
+|srv,buku|[bukuserver](https://github.com/jarun/buku/tree/master/bukuserver)|
 |srv,clipboard|[SyncClipboard](https://github.com/Jeric-X/SyncClipboard)|
 |srv,cloud,message|[gotify](https://github.com/gotify/server)|
 |srv,cloud,proxy|[Traefik](https://github.com/traefik/traefik)|
@@ -66,6 +89,7 @@
 |srv,firewall|[pfSense](https://github.com/pfsense/pfsense)|
 |srv,gist|[Drift](https://github.com/MaxLeiter/Drift)|
 |srv,gist|[Opengist](https://github.com/thomiceli/opengist)|
+|srv,github-action,pdf|[Markdown to PDF](https://github.com/BaileyJM02/markdown-to-pdf)|
 |srv,git|[git-sync](https://github.com/kubernetes/git-sync)|
 |srv,git|[Gogs](https://github.com/gogs/gogs)|
 |srv,home-assistant|[Home Assistant](https://github.com/home-assistant/core)|
@@ -77,22 +101,15 @@
 |srv,image|[dive](https://github.com/wagoodman/dive)|
 |srv,ims|[Grocy](https://grocy.info)|
 |srv,ims|[InvenTree](https://github.com/inventree/inventree)|
-|srv,jellyfin,plugin|[3rd-Party Plugins](https://jellyfin.org/docs/general/server/plugins/index.html#3rd-party-plugin-repositories)|
-|srv,jellyfin,plugin|[Jellyfin OpenSubtitles Plugin](https://github.com/jellyfin/jellyfin-plugin-opensubtitles)|
-|srv,jellyfin|[Jellyfin MPV Shim](https://github.com/jellyfin/jellyfin-mpv-shim)|
-|srv,jellyfin|[Jellyfin](https://jellyfin.org/)|
 |srv,jira|[Plane](https://github.com/makeplane/plane)|
 |srv,karaok|[Karaoke Mugen Server](https://github.com/karaokemugen/karaokemugen-server)|
 |srv,kubernete|[K9s](https://github.com/derailed/k9s)|
 |srv,kubernete|[Viddy](https://github.com/sachaos/viddy)|
-|srv,latex|[VS Code LaTeX Devcontainer](https://github.com/a-nau/latex-devcontainer)|
-|srv,learn|[anki-sync-server](https://github.com/yangchuansheng/anki-sync-server)|
-|srv,lsp,reason|[Reason Language Server](https://github.com/jaredly/reason-language-server)|
+|srv,linkding,singlefile|[Linkding Archiver](https://github.com/sebw/linkding-archiver)|
 |srv,mail|[Maddy Mail Server](https://github.com/foxcpp/maddy)|
 |srv,mail|[Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox)|
 |srv,manga|[Kavita](https://github.com/Kareadita/Kavita)|
 |srv,manga|[Stump](https://github.com/stumpapp/stump)|
-|srv,manga|[Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server)|
 |srv,monitor|[Beszel](https://github.com/henrygd/beszel)|
 |srv,monitor|[Glance](https://github.com/glanceapp/glance)|
 |srv,monitor|[Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker)|
@@ -108,23 +125,18 @@
 |srv,os|[Puter](https://github.com/HeyPuter/puter)|
 |srv,os|[SerenityOS](https://github.com/SerenityOS/serenity)|
 |srv,os|[Windows](https://github.com/dockur/windows)|
-|srv,paper|[Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|
+|srv,pay|[Hyperswitch](https://github.com/juspay/hyperswitch)|
 |srv,photo|[HomeGallery](https://github.com/xemle/home-gallery)|
 |srv,photo|[Immich](https://github.com/immich-app/immich)|
-|srv,plex|[MPV Shim for Plex](https://github.com/iwalton3/plex-mpv-shim)|
-|srv,plex|[Plex](https://plex.tv/)|
 |srv,podcast|[Podgrab](https://github.com/akhilrex/podgrab)|
 |srv,prod|[PostHog](https://github.com/PostHog/posthog)|
 |srv,qa|[Answer](https://github.com/apache/incubator-answer)|
 |srv,search|[Manticore Search](https://manticoresearch.com)|
 |srv,search|[Meilisearch](https://github.com/meilisearch/MeiliSearch)|
 |srv,serve|[辞書](https://github.com/denonia/jisho)|
-|srv,sync|[Resilio-sync](https://github.com/linuxserver/docker-resilio-sync)|
-|srv,sync|[Syncthing](https://github.com/linuxserver/docker-syncthing)|
 |srv,tag|[FeatBit](https://github.com/featbit/featbit)|
 |srv,telephony|[fonoster](https://github.com/fonoster/fonoster)|
 |srv,torrent|[Magnetissimo](https://github.com/sergiotapia/magnetissimo)|
-|srv,torrent|[Qbittorrent](https://github.com/linuxserver/docker-qbittorrent)|
 |srv,torrent|[Torrentinim](https://github.com/sergiotapia/torrentinim)|
 |srv,track|[solidtime](https://github.com/solidtime-io/solidtime)|
 |srv,translate|[Pontoon](https://github.com/mozilla/pontoon)|
@@ -136,6 +148,8 @@
 |srv,web-security|[BunkerWeb](https://github.com/bunkerity/bunkerweb)|
 |srv,webdav|[webdav](https://github.com/hacdias/webdav)|
 |srv,write|[HedgeDoc](https://github.com/linuxserver/docker-hedgedoc)|
+|srv,retroarch|[RetroArch asset server](https://github.com/NickHeap2/retroarch-asset-server)|
+|srv,translate|[DeepLX](https://github.com/OwO-Network/DeepLX)|
 
 ## Cancel
 

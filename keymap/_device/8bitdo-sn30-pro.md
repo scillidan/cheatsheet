@@ -1,8 +1,8 @@
-|device|shortcut|command|
+|device|command|shortcut|
 |:-|:-|:-|
-|8BitDo SN30 Pro|start|Recent used mode|
-|8BitDo SN30 Pro|start(3s)|Shutdown|
-|8BitDo SN30 Pro|start-x, pair|Windows mode|
-|8BitDo SN30 Pro|start-b, pair|Bluetooth mode|
-|8BitDo SN30 Pro|start-y, pair|Switch mode|
-|8BitDo SN30 Pro|start-a, pair|macOS mode|
+|8BitDo SN30 Pro|Recent used mode|start|
+|8BitDo SN30 Pro|Shutdown|start(3s)|
+|8BitDo SN30 Pro|Windows mode|start-x, pair|
+|8BitDo SN30 Pro|Bluetooth mode|start-b, pair|
+|8BitDo SN30 Pro|Switch mode|start-y, pair|
+|8BitDo SN30 Pro|macOS mode|start-a, pair|

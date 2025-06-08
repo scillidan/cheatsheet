@@ -1,3 +1,3 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|Sizer2|Btn_Right|Resize Window|
+|Sizer2|Resize Window|Right_Drag|

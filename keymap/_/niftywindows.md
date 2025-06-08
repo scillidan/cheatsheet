@@ -1,3 +1,3 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|NiftyWindows|W-Esc|Toggle NiftyWindows|
+|NiftyWindows|Toggle NiftyWindows|Win-Esc|

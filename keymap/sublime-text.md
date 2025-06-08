@@ -1,38 +1,38 @@
 ## Shortcut
 
-|opt|shortcut|command|
+|opt|comment|shortcut|
 |:-|:-|:-|
-|Sublime Text|C-S-p|Open Console|
-|Sublime Text|C-Del|Delete Next Word|
-|Sublime Text|C-Bksp|Delete Rrew Word|
-|Sublime Text|C-S-j|Delete Break|
-|Sublime Text|C-f|Find|
-|Sublime Text|C-f, A-f|Toggle In Seletion|
-|Sublime Text|C-f, A-r|Toggle Regular Expression|
-|Sublime Text|A-S-p|Switch Project|
+|Sublime Text|Open Console|C-S-p|
+|Sublime Text|Delete Next Word|C-Del|
+|Sublime Text|Delete Rrew Word|C-Bksp|
+|Sublime Text|Delete Break|C-S-j|
+|Sublime Text|Find|C-f|
+|Sublime Text|Toggle In Seletion|C-f, A-f|
+|Sublime Text|Toggle Regular Expression|C-f, A-r|
+|Sublime Text|Switch Project|A-S-p|
+|Sublime Text|Layout to Columns:1/2/3/4|A-S-1/2/3/4|
+|Sublime Text|Layout to Rows:2/3|A-S-8/9|
 
-## [[resource/sublime-text|Package]]
-
-## Package shortcut
+## [[resource/opt/sublime-text|Package]] shortcut
 
 |opt|package|shortcut|comment|
 |:-|:-|:-|:-|
 |Sublime Text|InsertNums|C-S-a-n, `1:1~02`|For example|
-|Sublime Text|Origami|C-k, C-Arrows/C-S-Arrows||
+|Sublime Text|Origami|C-k, C-Up/Down/Left/Right|Create Pane|
+|Sublime Text|Origami|C-k, C-S-Up/Down/Left/Right|Destroy Pane|
 |Sublime Text|Simple Fuzzy|C-k, C-p|Search Project|
 |Sublime Text|StickySearch|C-A-8|Clear all highlight|
 |Sublime Text|StickySearch|C-S-8|Highlight more text|
 |Sublime Text|Text Marker|A-Spc|Toggle Select Highlight|
-|Sublime Text|UnicodeMath|\<character>||
-|Sublime Text|UnicodeMath|\<emoji>||
-|Sublime Text|UnicodeMath|\<math>||
+|Sublime Text|UnicodeMath|\\|Insert Unicode|
 
 ## Key binding
 
-|opt|package|key_binding|command|
+|opt|package|command|key_binding|
 |:-|:-|:-|:-|
-|Sublime Text|Data Wizard|A-\|datawizardjustifycolumns|
-|Sublime Text|Data Wizard|A-S-\|datawizardcollapsecolumns|
+|Sublime Text|Data Wizard|datawizardjustifycolumns|A-\\|
+|Sublime Text|Data Wizard|datawizardcollapsecolumns|A-S-\\|
+
 
 ## Command palette
 

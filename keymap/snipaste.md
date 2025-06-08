@@ -1,13 +1,13 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|Snipaste|F1|Snip|
-|Snipaste|F3|Paste|
-|Snipaste|C-c|Copy the image|
-|Snipaste|C-p|leselectthecurrentshaneifineoetmode|
-|Snipaste|C-t|Paste the screenshot to the screen directl|
-|Snipaste|c|Copy the color value if the magnifier is visible|
-|Snipaste|Shift|Toggle the color formats if the magnifier is visible|
-|Snipaste PRO|5|Toggle grayscale conversion|
-|Snipaste PRO|6|Toggle color inversion|
-|Snipaste PRO|A-F1|command `toggle-hotkeys`|
-|Snipaste PRO|C-S-A-q|command `barcode-scan`|
+|Snipaste|Snip|F1|
+|Snipaste|Paste|F3|
+|Snipaste|Copy the image|C-c|
+|Snipaste|leselectthecurrentshaneifineoetmode|C-p|
+|Snipaste|Paste the screenshot to the screen directl|C-t|
+|Snipaste|Copy the color value if the magnifier is visible|c|
+|Snipaste|Toggle the color formats if the magnifier is visible|Shift|
+|Snipaste PRO|Toggle grayscale conversion|5|
+|Snipaste PRO|Toggle color inversion|6|
+|Snipaste PRO|command `toggle-hotkeys`|A-F1|
+|Snipaste PRO|command `barcode-scan`|C-S-A-q|

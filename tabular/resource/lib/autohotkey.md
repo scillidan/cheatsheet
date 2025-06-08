@@ -11,6 +11,7 @@
 |windows10,autohotkey,ocr|[GoldenDictOCR](https://github.com/VimWei/GoldenDictOCR)|
 |windows10,autohotkey|[QuickSwitch](https://github.com/fenchai23/QuickSwitch)|
 |windows10,autohotkey|[ShortScript](https://github.com/RichKMLS/ShortScript)|
+|windows10,autohotkey|[vxdesktops.ahk](https://github.com/cpbotha/vxdesktops.ahk)|
 
 ## Cache
 

@@ -1,3 +1,3 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|RectangleWin|W-A-Arrows|Snap Window|
+|RectangleWin|Snap Window|Win-A-Up/Down/Left/Right|

@@ -1,9 +1,9 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|Broot|F2,:e|edit|
-|Broot|C-e|Edit_with_Sublime_Text|
-|Broot|c/<text>|Filter|
-|Broot|C-o,:ol|open|
-|Broot|C-o|Open_with_Directory_Opus|
-|Broot|C-t|Terminal|
-|Broot|C-p|toggle_preview|
+|Broot|edit|F2 / `:e`|
+|Broot|Edit_with_Sublime_Text|C-e|
+|Broot|Filter|c/`<text>`|
+|Broot|open|C-o / `:ol`|
+|Broot|Open_with_Directory_Opus|C-o|
+|Broot|Terminal|C-t|
+|Broot|toggle_preview|C-p|

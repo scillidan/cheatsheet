@@ -83,6 +83,10 @@
 
 |tag|link|
 |:-|:-|
+|brave,linkding|[linkding injector](https://github.com/fivefold/linkding-injector)|
+|brave,linkding|[linkding extension](https://github.com/sissbruecker/linkding-extension)|
+|brave,buku|[bukubrow-webext](https://github.com/SamHH/bukubrow-webext)|
+|brave,buku|[bukubrow-host](https://github.com/samhh/bukubrow-host)|
 |brave|[Allow CORS](https://mybrowseraddon.com/access-control-allow-origin.html)|
 |brave|[Allow Right Click](https://webextension.org/listing/allow-right-click.html)|
 |brave|[Aria2 Explorer](https://aria2e.com)|

@@ -1,4 +1,4 @@
 |opt|shortcut|command|
 |:-|:-|:-|
-|Atuin|enter|Execute selected item|
-|Atuin|tab|Select item and edit|
+|Atuin|Etr|Execute selected item|
+|Atuin|Tab|Select item and edit|

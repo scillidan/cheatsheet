@@ -1,3 +1,3 @@
-|opt|shortcut|command|
+|opt|command|shortcut|
 |:-|:-|:-|
-|QuiteRSS|C-o|Open In Browser|
+|QuiteRSS|Open In Browser|C-o|

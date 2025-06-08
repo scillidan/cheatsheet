@@ -18,6 +18,7 @@
 
 |tag|link|
 |:-|:-|
+|web,mkdocs|[MkDocs](https://mkdocs.org)|
 |web,document,api|[LDoc](https://github.com/lunarmodules/ldoc)
 |web,document,api|[pdoc](https://pdoc3.github.io/pdoc)
 |web,document,api|[TypeDoc](https://github.com/TypeStrong/typedoc)
