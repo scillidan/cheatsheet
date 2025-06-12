@@ -210,6 +210,7 @@
 |obsidian|[Starlight Starter Kit: Basics](https://github.com/mProjectsCode/obsidian-meta-bind-plugin-docs)|
 |obsidian|[Style Settings](https://github.com/mgmeyers/obsidian-style-settings)|
 |obsidian|[Syncthing integration](https://github.com/LBF38/obsidian-syncthing-integration)|
+|obsidian|[Tab Panels](https://github.com/GnoxNahte/obsidian-tab-panels)|
 |obsidian|[Table Collapse Plugin](https://github.com/PandaNocturne/obsidian-collapse-table-plugin)|
 |obsidian|[Tag Flow for Obsidian](https://github.com/Taialt97/Tag-Flow)|
 |obsidian|[Tag Navigator](https://github.com/alexobenauer/obsidian-tag-navigator)|

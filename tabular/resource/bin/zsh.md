@@ -89,3 +89,4 @@
 |linux,zsh|[org-hopper](https://github.com/hjdarnel/org-hopper)
 |linux,zsh|[Pycalc Oh My Zsh Plugin](https://github.com/alalik/pycalc)|
 |linux,zsh|[Smart Files Plugin for Zsh](https://github.com/vxfemboy/zsh-smart-files)
+|linux,zsh|[zsh-journal](https://github.com/onurhanak/zsh-journal)|

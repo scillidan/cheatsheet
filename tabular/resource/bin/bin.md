@@ -2,6 +2,7 @@
 
 |tag|link|
 |:-|:-|
+|bin,abbreviate|[abbreviate](https://github.com/dnnrly/abbreviate)|
 |bin,archive|[Gzip for Windows](https://gnuwin32.sourceforge.net/packages/gzip.htm)|
 |bin,archive|[To CBZ](https://github.com/italomaia/to-cbz)|
 |bin,archive|[UnRar for Windows](https://gnuwin32.sourceforge.net/packages/unrar.htm)|
@@ -15,9 +16,10 @@
 |bin,csv|[csview](https://github.com/wfxr/csview)|
 |bin,csv|[mdtable2csv](https://github.com/515hikaru/mdtable2csv)|
 |bin,csv|[Tidy Viewer](https://github.com/alexhallam/tv)|
+|bin,csv|[xan](https://github.com/medialab/xan)|
 |bin,curl|[Curl](https://github.com/curl/curl)|
-|bin,data|[xsv](https://github.com/BurntSushi/xsv)|
 |bin,dig|[doggo](https://github.com/mr-karan/doggo)|
+|bin,docker|[lazydocker](https://github.com/jesseduffield/lazydocker)|
 |bin,dotfiles|[chezmoi](https://github.com/twpayne/chezmoi)|
 |bin,download|[yt-dlp](https://github.com/yt-dlp/yt-dlp)|
 |bin,du|[duf](https://github.com/muesli/duf)|
@@ -26,6 +28,8 @@
 |bin,env|[RefrEnv](https://github.com/badrelmers/RefrEnv)|
 |bin,exif|[ExifTool](https://exiftool.org)|
 |bin,explorer|[Broot](https://github.com/Canop/broot)|
+|bin,filterpipe|[COOK](https://github.com/glitchedgitz/cook)|
+|bin,filterpipe|[Go OpenCC](https://github.com/razonyang/gopencc)|
 |bin,find|[fd](https://github.com/sharkdp/fd)|
 |bin,find|[television](https://github.com/alexpasmantier/television)|
 |bin,font|[ttf2woff2](https://github.com/nfroidure/ttf2woff2)|
@@ -48,11 +52,13 @@
 |bin,issue|[pro](https://github.com/Wowu/pro)|
 |bin,jq|[jq](https://jqlang.github.io)|
 |bin,jump|[zoxide](https://github.com/ajeetdsouza/zoxide)|
+|bin,keyboard|[daktilo](https://github.com/orhun/daktilo)|
 |bin,llm|[Repomix](https://github.com/yamadashy/repomix)|
 |bin,ls|[lsd](https://github.com/lsd-rs/lsd)|
 |bin,manga|[Komga Cover Extractor](https://github.com/zachstultz/komga-cover-extractor)|
 |bin,markdown|[Glow](https://github.com/charmbracelet/glow)|
 |bin,mkdir|[Mkdirs](https://github.com/dolanor/mkdirs)|
+|bin,music|[BeatPrints](https://github.com/TrueMyst/BeatPrints)|
 |bin,neovim|[Neovim](https://github.com/neovim/neovim)|
 |bin,prompt|[Starship](https://github.com/starship/starship)|
 |bin,regex|[grex](https://github.com/pemistahl/grex)|
@@ -91,7 +97,7 @@
 |windows10,bin,scoop|[Scoop](https://scoop.sh)|
 |windows10,bin,sed|[sed-windows](https://github.com/mbuilov/sed-windows)|
 |windows10,bin,shell|[PowerShell](https://github.com/PowerShell/PowerShell)|
-|windows10,bin,spellcheck|[spell-win32](https://github.com/adamyg/aspell-win32)|
+|windows10,bin,spellcheck|[aspell-win32](https://github.com/adamyg/aspell-win32)|
 |windows10,bin,sshfs|[SSHFS-Win](https://github.com/winfsp/sshfs-win)|
 |windows10,bin,sudo|[gsudo - a sudo for Windows](https://github.com/gerardog/gsudo)|
 |windows10,bin,top|[NTop](https://github.com/gsass1/NTop)|
@@ -102,25 +108,19 @@
 
 |tag|link|
 |:-|:-|
-|bin,abbreviate|[abbreviate](https://github.com/dnnrly/abbreviate)|
 |bin,cheat|[kb](https://github.com/gnebbia/kb)|
-|bin,csv|[xan](https://github.com/medialab/xan)|
 |bin,database|[sq](https://github.com/neilotoole/sq)|
 |bin,database|[trdsql](https://github.com/noborus/trdsql)|
 |bin,data|[Mille](https://github.com/johnkerl/miller)|
-|bin,docker|[lazydocker](https://github.com/jesseduffield/lazydocker)|
-|bin,filterpipe|[COOK](https://github.com/glitchedgitz/cook)|
-|bin,filterpipe|[Go OpenCC](https://github.com/razonyang/gopencc)|
 |bin,font|[autosubset](https://github.com/MarcelWaldvogel/autosubset)|
 |bin,font|[fontbm](https://github.com/vladimirgamalyan/fontbm)|
 |bin,git|[jj](https://github.com/jj-vcs/jj)|
-|bin,keyboard|[daktilo](https://github.com/orhun/daktilo)|
-|bin,loop|[loop](https://github.com/Miserlou/Loop)|
 |bin,pdf|[markpdf](https://github.com/ajaxray/markpdf)|
 |bin,pdf|[open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign)|
 |bin,pdf|[PDF ToC](https://github.com/HareInWeed/pdf-toc)|
 |bin,pdf|[pdf.tocgen](https://github.com/Krasjet/pdf.tocgen)|
 |bin,pdf|[pdfjuicer](https://github.com/dmikhr/pdfjuicer)|
+|bin,search|[Magna](https://github.com/yousef-rafat/Magna)|
 |bin,subtitle|[subaligner](https://github.com/baxtree/subaligner)|
 |bin,tree|[Untree](https://github.com/codeinred/untree)|
 |linux,bin,man|[rose-pine-man](https://github.com/const-void/rose-pine-man)|
@@ -178,6 +178,7 @@
 |bin,csv|[clr](https://github.com/furuhama/clr)|
 |bin,csv|[csvu](https://github.com/hachi8833/csvu)|
 |bin,csv|[json2csv](https://github.com/jehiah/json2csv)|
+|bin,csv|[xsv](https://github.com/BurntSushi/xsv)|
 |bin,curl|[Curlie](https://github.com/rs/curlie)|
 |bin,curl|[httpstat](https://github.com/davecheney/httpstat)|
 |bin,currency|[gocash](https://github.com/basebandit/gocash)|
@@ -331,6 +332,7 @@
 |bin,linkding|[linkding-cli](https://github.com/bachya/linkding-cli)|
 |bin,llm,translate|[translate](https://github.com/xyproto/translate)|
 |bin,llm|[Ollama Shell Helper](https://github.com/charyan/osh)|
+|bin,llm|[Open Codex CLI](https://github.com/ymichael/open-codex)|
 |bin,log|[humanlog](https://github.com/aybabtme/humanlog)|
 |bin,log|[l'oGGo](https://github.com/aurc/loggo)|
 |bin,log|[Nerdlog](https://github.com/dimonomid/nerdlog)|
@@ -379,6 +381,7 @@
 |bin,process|[Sampler](https://github.com/sqshq/sampler)|
 |bin,python|[portable-python-maker](https://github.com/dreamsavior/portable-python-maker)|
 |bin,qbittorrent|[QbtManager](https://github.com/Webreaper/QbtManager)|
+|bin,record|[asak](https://github.com/chaosprint/asak)|
 |bin,record|[Screen Recorder](https://github.com/MiniCube11/screen-recorder)|
 |bin,rename|[F2](https://github.com/ayoisaiah/f2)|
 |bin,rename|[lcNrD](https://github.com/Jabrils/lcNrD)|
@@ -533,6 +536,7 @@
 |linux,bin|[Caps-Log](https://github.com/NikolaDucak/caps-log)|
 |linux,bin|[clipscreen](https://github.com/splitbrain/clipscreen)|
 |linux,bin|[getNF](https://github.com/ronniedroid/getnf)|
+|linux,bin|[loop](https://github.com/Miserlou/Loop)|
 |linux,bin|[ranger](https://github.com/ranger/ranger)|
 |linux,bin|[The Fuck](https://github.com/nvbn/thefuck)|
 |linux,bin|[TOME Playbooks](https://github.com/laktak/tome)|

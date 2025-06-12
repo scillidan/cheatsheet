@@ -4,19 +4,17 @@
 |:-|:-|
 |gh,branch|[Tidy](https://github.com/HaywardMorihara/gh-tidy)|
 |gh,download|[gh-download](https://github.com/yuler/gh-download)|
-|gh,pr|[gh-combine-prs](https://github.com/rnorth/gh-combine-prs)|
-|gh,release|[gh bump](https://github.com/johnmanjiro13/gh-bump)|
-|gh,release|[gh describe](https://github.com/proudust/gh-describe)|
-|gh,repo|[gh-f](https://github.com/gennaro-tedesco/gh-f)|
-|gh|[gh-ls](https://github.com/wuwe1/gh-ls)|
 
 ## Later
 
 |tag|link|
 |:-|:-|
-|gh,branch|[poi](https://github.com/seachicken/gh-poi)|
 |gh,download|[gh-install](https://github.com/redraw/gh-install)|
-|gh,release|[gh-semver](https://github.com/koozz/gh-semver)|
+|gh,pr|[gh-combine-prs](https://github.com/rnorth/gh-combine-prs)|
+|gh,release|[gh bump](https://github.com/johnmanjiro13/gh-bump)|
+|gh,repo|[gh-f](https://github.com/gennaro-tedesco/gh-f)|
+|gh|[gh describe](https://github.com/proudust/gh-describe)|
+|gh|[gh-ls](https://github.com/wuwe1/gh-ls)|
 
 ## Cache
 
@@ -27,6 +25,7 @@
 |gh,branch|[Clean Branches](https://github.com/davidraviv/gh-clean-branches)|
 |gh,branch|[gh branch](https://github.com/mislav/gh-branch)|
 |gh,branch|[gh-home](https://github.com/norwd/gh-home)|
+|gh,branch|[poi](https://github.com/seachicken/gh-poi)|
 |gh,brower|[gh repo-explore](https://github.com/samcoe/gh-repo-explore)|
 |gh,changelog|[gh-cl](https://github.com/tmkx/gh-cl)|
 |gh,chat|[gh chat](https://github.com/vilmibm/gh-chat)|
@@ -73,5 +72,6 @@
 |gh|[gh-grep](https://github.com/k1LoW/gh-grep)|
 |gh|[gh-look](https://github.com/LangLangBart/gh-look)|
 |gh|[gh-oblique](https://github.com/vilmibm/gh-oblique)|
+|gh|[gh-semver](https://github.com/koozz/gh-semver)|
 |gh|[gh-screensaver](https://github.com/vilmibm/gh-screensaver)|
 |gh|[gh-sql](https://github.com/KOBA789/gh-sql)|

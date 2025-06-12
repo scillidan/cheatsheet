@@ -22,6 +22,7 @@
 |js,copy|[Copy Image Clipboard](https://github.com/LuanEdCosta/copy-image-clipboard)|
 |js,count|[Countdown.js](https://countdownjs.org)|
 |js,detect|[Feature.js](https://featurejs.com)|
+|js,download|[小说下载器](https://github.com/404-novel-project/novel-downloader)|
 |js,editor|[Editor.js](https://editorjs.io)|
 |js,editor|[MediumEditor](https://github.com/yabwe/medium-editor)|
 |js,email|[EmailJS](https://emailjs.com)|

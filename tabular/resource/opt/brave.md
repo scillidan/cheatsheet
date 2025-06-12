@@ -19,7 +19,6 @@
 |brave|Active|[Dark Reader](https://darkreader.org)|
 |brave|Active|[Earth View from Google Earth](https://earthview.withgoogle.com)|
 |brave|Active|[Extension Sync](https://chromewebstore.google.com/detail/extension-sync/kimbiihomiiklblgkdllffbakadjgako)|
-|brave|Active|[Feedbro](https://nodetics.com/feedbro)|
 |brave|Active|[floccus bookmarks sync](https://github.com/floccusAddon)|
 |brave|Active|[Get cookies.txt LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY)|
 |brave|Active|[GIF Scrubber](https://github.com/0ui/gif-scrubber)|
@@ -47,7 +46,7 @@
 |brave|Active|[Read Later](https://github.com/willbchang/chrome-read-later)|
 |brave|Active|[RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar)|
 |brave|Active|[Scramble](https://github.com/zlwaterfield/scramble)|
-|brave|Active|[Screen Ruler - Measure The Web(https://chromewebstore.google.com/detail/screen-ruler-measure-the/jfbbgijjljfbolelfkopkhbfjajjampm)|
+|brave|Active|[Screen Ruler - Measure The Web](https://chromewebstore.google.com/detail/screen-ruler-measure-the/jfbbgijjljfbolelfkopkhbfjajjampm)|
 |brave|Active|[Screenshot Capture](https://github.com/simov/screenshot-capture)|
 |brave|Active|[SingleFile](https://github.com/gildas-lormeau/SingleFile)|
 |brave|Active|[Smart TOC](https://github.com/FallenMax/smart-toc)|
@@ -118,6 +117,7 @@
 |brave|[EpubPress](https://epub.press)|
 |brave|[Extension Exporter](https://chromewebstore.google.com/detail/extension-sync/kimbiihomiiklblgkdllffbakadjgakoS)|
 |brave|[Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/nddeiknmamlpagmnabfdlljlikeoanch)|
+|brave|[Feedbro](https://nodetics.com/feedbro)|
 |brave|[feeder](https://feeder.co)|
 |brave|[ff2mpv](https://github.com/woodruffw/ff2mpv)|
 |brave|[Firenvim](https://github.com/glacambre/firenvim)|

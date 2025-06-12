@@ -14,22 +14,13 @@
 
 |tag|link|
 |:-|:-|
-|srv,analytic|[Matomo](https://github.com/matomo-org/matomo)|
-|srv,automation|[Ansible](https://github.com/ansible/ansible)|
-|srv,backup|[restic](https://github.com/restic/restic)|
-|srv,chat|[Chatwoot](https://github.com/chatwoot/chatwoot)|
 |srv,github-action,markdown|[Markdown autodocs](https://github.com/dineshsonachalam/markdown-autodocs)|
 |srv,github-action|[Howto Deploy LaTeX Documents](https://github.com/SimonWaldherr/HowTo-Deploy-LaTeX-Documents)|
 |srv,latex|[VS Code LaTeX Devcontainer](https://github.com/a-nau/latex-devcontainer)|
 |srv,lsp,reason|[Reason Language Server](https://github.com/jaredly/reason-language-server)|
-|srv,monitor,drive|[scrutiny](https://github.com/AnalogJ/scrutiny)|
-|srv,monitor|[Healthchecks](https://github.com/healthchecks/healthchecks)|
-|srv,network|[NetBox](https://github.com/netbox-community/netbox)|
 |srv,read-later|[wallabag](https://github.com/wallabag/wallabag)|
-|srv,stream|[MediaMTX](https://github.com/bluenviron/mediamtx)|
 |srv,sync|[Resilio-sync](https://github.com/linuxserver/docker-resilio-sync)|
 |srv,sync|[Syncthing](https://github.com/linuxserver/docker-syncthing)|
-|srv,wireles|[Unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application)|
 |srv,yomitan|[Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)|
 |srv,yomitan|[yomichan_audio_server](https://github.com/aramrw/yomichan_audio_server)|
 
@@ -59,15 +50,19 @@
 |tag|link|
 |:-|:-|
 |srv,alert|[Keep](https://github.com/keephq/keep)|
+|srv,analytic|[Matomo](https://github.com/matomo-org/matomo)|
 |srv,archive|[ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)|
 |srv,arr|[Bazarr](https://github.com/morpheus65535/bazarr)|
 |srv,arr|[Prowlarr](https://github.com/Prowlarr/Prowlarr)|
 |srv,arr|[Raddrr](https://github.com/linuxserver/docker-radarr)|
 |srv,arr|[Sonarr](https://github.com/Sonarr/Sonarr)|
 |srv,audio|[Lidarr](https://lidarr.audio)|
+|srv,automation|[Ansible](https://github.com/ansible/ansible)|
+|srv,backup|[restic](https://github.com/restic/restic)|
 |srv,backup|[rsnapshot](https://github.com/linuxserver/docker-rsnapshot)|
 |srv,book|[LinguaCafe](https://github.com/simjanos-dev/LinguaCafe)|
 |srv,buku|[bukuserver](https://github.com/jarun/buku/tree/master/bukuserver)|
+|srv,chat|[Chatwoot](https://github.com/chatwoot/chatwoot)|
 |srv,clipboard|[SyncClipboard](https://github.com/Jeric-X/SyncClipboard)|
 |srv,cloud,message|[gotify](https://github.com/gotify/server)|
 |srv,cloud,proxy|[Traefik](https://github.com/traefik/traefik)|
@@ -134,8 +129,10 @@
 |srv,manga|[MangaDB API](https://github.com/g3ru1a/mangadb-api)|
 |srv,manga|[Mylar3](https://github.com/mylar3/mylar3)|
 |srv,manga|[Stump](https://github.com/stumpapp/stump)|
+|srv,monitor,drive|[scrutiny](https://github.com/AnalogJ/scrutiny)|
 |srv,monitor|[Beszel](https://github.com/henrygd/beszel)|
 |srv,monitor|[Glance](https://github.com/glanceapp/glance)|
+|srv,monitor|[Healthchecks](https://github.com/healthchecks/healthchecks)|
 |srv,monitor|[Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker)|
 |srv,monitor|[Uptime Kuma](https://github.com/louislam/uptime-kuma)|
 |srv,mpv|[Mpv Shelf](https://github.com/aramrw/mpv-shelf)|
@@ -143,6 +140,7 @@
 |srv,music|[mpd](https://github.com/MusicPlayerDaemon/MPD)|
 |srv,music|[Navidrome](https://github.com/navidrome/navidrome)|
 |srv,music|[TS3AudioBot](https://github.com/Splamy/TS3AudioBot)|
+|srv,network|[NetBox](https://github.com/netbox-community/netbox)|
 |srv,novel|[Atsumeru](https://github.com/AtsumeruDev/Atsumeru)|
 |srv,oms|[HOMS](https://github.com/hydra-billing/homs)|
 |srv,oms|[Medusa](https://github.com/medusajs/medusa)|
@@ -166,6 +164,7 @@
 |srv,serve|[辞書](https://github.com/denonia/jisho)|
 |srv,steam|[Steam Comment Bot](https://github.com/HerrEurobeat/steam-comment-service-bot)|
 |srv,stream|[go2rtc](https://github.com/AlexxIT/go2rtc)|
+|srv,stream|[MediaMTX](https://github.com/bluenviron/mediamtx)|
 |srv,stream|[Sunshine](https://github.com/LizardByte/Sunshine)|
 |srv,stream|[Syncplay](https://github.com/Syncplay/syncplay)|
 |srv,tag|[FeatBit](https://github.com/featbit/featbit)|
@@ -188,6 +187,7 @@
 |srv,weather|[wttr.in](https://github.com/chubin/wttr.in)|
 |srv,web-security|[BunkerWeb](https://github.com/bunkerity/bunkerweb)|
 |srv,webdav|[webdav](https://github.com/hacdias/webdav)|
+|srv,wireles|[Unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application)|
 |srv,write|[HedgeDoc](https://github.com/linuxserver/docker-hedgedoc)|
 
 ## Cancel

@@ -18,8 +18,10 @@
 |:-|:-|
 |sphinx|[autoclasstoc](https://autoclasstoc.readthedocs.io/en/latest/)|
 |sphinx|[Read the Docs Sphinx Theme](https://github.com/readthedocs/sphinx_rtd_theme)|
+|sphinx|[Sphinx Combine](https://github.com/adamtheturtle/sphinx-combine)
 |sphinx|[Sphinx Comments](https://github.com/executablebooks/sphinx-comments)|
 |sphinx|[Sphinx DataTables](https://sharm294.github.io/sphinx-datatables/)|
+|sphinx|[Sphinx Prompt](https://github.com/sbrunner/sphinx-prompt)
 |sphinx|[Sphinx Sitemap Generator Extension](https://github.com/jdillard/sphinx-sitemap)|
 |sphinx|[sphinx-mdinclude](https://github.com/omnilib/sphinx-mdinclude)|
 |sphinx|[sphinx-needs](https://github.com/useblocks/sphinx-needs)|
@@ -30,3 +32,6 @@
 |sphinx|[sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid)|
 |sphinx|[sphinxcontrib-programoutput](https://github.com/OpenNTI/sphinxcontrib-programoutput)|
 |sphinx|[sphinxcontrib.autoprogram](https://pythonhosted.org/sphinxcontrib-autoprogram/)|
+|sphinx|[sphinxcontrib.external-links](https://github.com/finleyfamily/sphinxcontrib.external-links)|
+|sphinx|[Sphinx Substitution Extensions](https://github.com/adamtheturtle/sphinx-substitution-extensions)|
+|sphinx|[DOCtor-RST](https://github.com/OskarStark/doctor-rst)|

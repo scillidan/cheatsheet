@@ -3,7 +3,6 @@
 |tag|link|
 |:-|:-|
 |windows10,keypirinha|[keypirinha-theme-builder](https://github.com/Fuhrmann/keypirinha-theme-builder)|
-|windows10,keypirinha|[ueffel's Package Repository](https://ue.spdns.de/packagecontrol/)
 
 ## Later
 

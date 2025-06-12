@@ -171,11 +171,11 @@
 |linux,opt,shortcut|[Pins](https://github.com/fabrialberio/Pins)|
 |linux,opt,viewer|[Gwenview](https://invent.kde.org/graphics/gwenview)|
 |linux,opt,windows|[Bottles](https://github.com/bottlesdevs/Bottles)|
+|linux,opt|[Loopers](https://github.com/mwylde/loopers)|
 |opt,3d|[Blender](https://github.com/blender/blender)|
 |opt,adb|[AYA](https://github.com/liriliri/aya)|
 |opt,graphic|[FreeCAD](https://github.com/FreeCAD/FreeCAD)|
 |opt,graphic|[Inkscape](https://inkscape.org)|
-|opt,graphic|[KiCad](https://kicad.org)|
 |opt,graphic|[Krita](https://github.com/KDE/krita)|
 |opt,pcb|[KiCad](https://gitlab.com/kicad/code/kicad)|
 |opt,pcb|[LibrePCB](https://github.com/LibrePCB/LibrePCB)|

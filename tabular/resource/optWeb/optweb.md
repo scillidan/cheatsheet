@@ -28,6 +28,7 @@
 |optweb,image|[Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything)|
 |optweb,image|[img2img-turbo](https://github.com/GaParmar/img2img-turbo)|
 |optweb,image|[Kaleido Pic](https://nyoroko.itch.io/kaleido-pic)|
+|optweb,image|[bited](https://github.com/molarmanful/bited)|
 |optweb,ink|[Calico](https://github.com/elliotherriman/calico)|
 |optweb,llm|[Ollama Grid Search](https://github.com/dezoito/ollama-grid-search)|
 |optweb,llm|[Text generation web UI](https://github.com/oobabooga/text-generation-webui)|
@@ -47,6 +48,7 @@
 |optweb,record|[streamlit-webrtc](https://github.com/whitphx/streamlit-webrtc)|
 |optweb,repository|[DeepWiki-Open](https://github.com/AsyncFuncAI/deepwiki-open)|
 |optweb,sdk|[Next.js AI Chatbot](https://github.com/vercel/ai-chatbot)|
+|optweb,subtitle|[SmartSub](https://github.com/buxuku/SmartSub)|
 |optweb,terminal|[Termo](https://github.com/rajnandan1/termo)|
 |optweb,translate|[ChatGPT API SRT Subtitle Translator](https://github.com/Cerlancism/chatgpt-subtitle-translator)|
 |optweb,translate|[DeepLX Vercel](https://github.com/bropines/Deeplx-vercel)|
@@ -56,11 +58,12 @@
 |optweb,video|[LivePortrait](https://github.com/KwaiVGI/LivePortrait)|
 |optweb,video|[MagicAnimate](https://github.com/magic-research/magic-animate)|
 |optweb,video|[Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video)|
+|optweb,video|[ToonCrafter](https://github.com/sdbds/ToonCrafter-for-windows)|
 |optweb,video|[VideoReTalking](https://github.com/OpenTalker/video-retalking)|
-|optweb,vision|[ToonCrafter](https://github.com/sdbds/ToonCrafter-for-windows)|
 |optweb,voice|[Audiblez](https://github.com/santinic/audiblez)|
 |optweb,voice|[Dia](https://github.com/nari-labs/dia)|
 |optweb,voice|[faster-whisper-GUI](https://github.com/CheshireCC/faster-whisper-GUI)|
+|optweb|[Cosmos Keyboards](https://github.com/rianadon/Cosmos-Keyboards)|
 |optweb|[DGM.js](https://github.com/dgmjs/dgmjs)|
 |optweb|[Excalibur](https://github.com/camelot-dev/excalibur)|
 |optweb|[Frappe Books](https://github.com/frappe/books)|

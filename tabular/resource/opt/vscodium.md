@@ -93,7 +93,7 @@
 |vscodium,table|[Rainbow CSV](https://github.com/mechatroner/vscode_rainbow_csv.git)|
 |vscodium,tool|[Prettier](https://github.com/prettier/prettier-vscode)|
 
-## Later
+## Extra
 
 |tag|link|
 |:-|:-|

@@ -21,15 +21,6 @@
 |windows10,lib,npm|[NVM for Windows](https://github.com/coreybutler/nvm-windows)|
 |windows10,lib,python|[pyenv for Windows](https://github.com/pyenv-win/pyenv-win)|
 
-## Later
-
-|tag|link|
-|:-|:-|
-|lib,lua|[Narrator](https://github.com/astrochili/narrator)|
-|lib,slide|[Slides](https://github.com/maaslalani/slides)|
-|lib,video|[Editly](https://github.com/mifi/editly)|
-|lib,video|[MoviePy](https://github.com/Zulko/moviepy)|
-
 ## Cache
 
 |tag|link|
@@ -48,7 +39,7 @@
 |lib,cad|[PartCAD](https://github.com/partcad/partcad)|
 |lib,command|[Bubble Tea](https://github.com/charmbracelet/bubbletea)|
 |lib,command|[Typer](https://github.com/tiangolo/typer)|
-|lib,download|[小说下载器](https://github.com/404-novel-project/novel-downloader)|
+|lib,furniture|[Hyperwood](https://github.com/jo/hyperwood)|
 |lib,game,gamemaker|[non_repeating_hextiling](https://github.com/Gizmo199/non_repeating_hextiling)|
 |lib,game|[ink](https://github.com/inkle/ink)|
 |lib,game|[inky](https://inklestudios.com/ink)|
@@ -63,6 +54,7 @@
 |lib,image|[SVGO](https://github.com/svg/svgo)|
 |lib,llm|[Agno](https://github.com/agno-agi/agno)|
 |lib,llm|[Letta](https://github.com/letta-ai/letta)|
+|lib,llm|[RLAMA](https://github.com/DonTizi/rlama)|
 |lib,llm|[TinyTroupe](https://github.com/microsoft/TinyTroupe)|
 |lib,lua|[Amulet](https://github.com/ianmaclarty/amulet)|
 |lib,lua|[batteries](https://github.com/1bardesign/batteries)|
@@ -70,6 +62,7 @@
 |lib,lua|[luarocks](https://luarocks.org)|
 |lib,lua|[Lyte2D](https://github.com/morew4rd/lyte2d)|
 |lib,lua|[LÖVE](https://love2d.org)|
+|lib,lua|[Narrator](https://github.com/astrochili/narrator)|
 |lib,music|[alda](https://github.com/alda-lang/alda)|
 |lib,music|[ChucK](https://chuck.stanford.edu)|
 |lib,music|[Hum Synthesizer](https://github.com/crbulakites/hum)|
@@ -89,10 +82,13 @@
 |lib,ruby|[frum](https://github.com/TaKO8Ki/frum)|
 |lib,ruby|[RubyInstaller](https://rubyinstaller.org)|
 |lib,rule|[Sigma](https://github.com/SigmaHQ/sigma)|
+|lib,slide|[Slides](https://github.com/maaslalani/slides)|
 |lib,steamdesk|[EmuDeck](https://github.com/dragoonDorise/EmuDeck)|
 |lib,steamdesk|[RetroDECK](https://github.com/XargonWan/RetroDECK)|
 |lib,stt|[RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)|
 |lib,switch|[Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)|
+|lib,video|[Editly](https://github.com/mifi/editly)|
+|lib,video|[MoviePy](https://github.com/Zulko/moviepy)|
 |lib,video|[Norfair](https://github.com/tryolabs/norfair)|
 |lib,video|[VidGear](https://github.com/abhiTronix/vidgear)|
 |lib,war3|[GoWarcraft3](https://github.com/nielsAD/gowarcraft3)|

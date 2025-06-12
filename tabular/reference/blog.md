@@ -1,6 +1,6 @@
 |tag|link|
 |:-|:-|
-|blog,|[The Offshoring of Thought and Memory](https://www.multiverses.xyz/facts/the-offshoring-of-thought-and-memory/)|
+|blog|[The Offshoring of Thought and Memory](https://www.multiverses.xyz/facts/the-offshoring-of-thought-and-memory/)|
 |blog,29.97fps|[Why on earth do we have 29.97fps? What madness is this?](https://old.reddit.com/r/finalcutpro/comments/mm58qp/why_on_earth_do_we_have_2997fps_what_madness_is/)|
 |blog,after-making|[40 Life Lessons I Know at 40 (That I Wish I Knew at 20)](https://markmanson.medium.com/40-life-lessons-i-know-at-40-that-i-wish-i-knew-at-20-6fa878ce49c1)|
 |blog,bicycle|[A letter to open-source maintainers](https://xuanwo.io/2024/10-a-letter-to-open-source-maintainers/)|
