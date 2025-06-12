@@ -33,13 +33,13 @@
 |obsidian|global|[Various Complements](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin)|
 |obsidian|global|[Wakatime / Wakapi](https://github.com/Kovah/obsidian-wakatime)|
 |obsidian|global|[Wheel Tab Switcher](https://github.com/22-2/wheel-tab-switcher)|
-|obsidian|cheatsheet|[GDScript Syntax Highlighting](https://github.com/RobTheFiveNine/obsidian-gdscript)|
-|obsidian|cheatsheet|[LanguageTool Integration](https://github.com/Clemens-E/obsidian-languagetool-plugin)|
-|obsidian|cheatsheet|[Media Companion](https://github.com/Nick-de-Bruin/obsidian-media-companion)|
-|obsidian|cheatsheet|[Media Slider](https://github.com/amatya-aditya/obsidian-media-slider)|
-|obsidian|cheatsheet|[Text Extractor](https://github.com/scambier/obsidian-text-extractor)|
-|obsidian|cheatsheet|[Tag Wrangler](https://github.com/pjeby/tag-wrangler)|
-|obsidian|cheatsheet|[TagFolder](https://github.com/vrtmrz/obsidian-tagfolder)|
+|obsidian|cheat|[GDScript Syntax Highlighting](https://github.com/RobTheFiveNine/obsidian-gdscript)|
+|obsidian|cheat|[LanguageTool Integration](https://github.com/Clemens-E/obsidian-languagetool-plugin)|
+|obsidian|cheat|[Media Companion](https://github.com/Nick-de-Bruin/obsidian-media-companion)|
+|obsidian|cheat|[Media Slider](https://github.com/amatya-aditya/obsidian-media-slider)|
+|obsidian|cheat|[Text Extractor](https://github.com/scambier/obsidian-text-extractor)|
+|obsidian|cheat|[Tag Wrangler](https://github.com/pjeby/tag-wrangler)|
+|obsidian|cheat|[TagFolder](https://github.com/vrtmrz/obsidian-tagfolder)|
 |obsidian|live|[Calibre](https://github.com/caronchen/obsidian-calibre-plugin)|
 |obsidian|live|[Force note view mode](https://github.com/bwydoogh/obsidian-force-view-mode-of-note)|
 |obsidian|live|[Note Definitions](https://github.com/dominiclet/obsidian-note-definitions)|
@@ -65,6 +65,7 @@
 |:-|:-|:-|
 |obsidian|live|[Citations](https://github.com/hans/obsidian-citation-plugin)|
 |obsidian|live|[Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration)|
+|obsidian|cheat|[Obsidian Wallabag Plugin](https://github.com/huseyz/obsidian-wallabag)|
 
 ## Cache
 

@@ -5,9 +5,15 @@ late Old English _flotian_ "to rest on the surface of water" (intransitive; clas
 Meaning "drift about, hover passively" is from c. 1300. Transitive sense of "to lift up, cause to _float_" (of water, etc.) is from c. 1600; that of "set (something) afloat" is from 1778 (originally of financial operations). Of motion through air, from 1630s. Meaning "hover dimly before the eyes" is from 1775. Related: _Floated_; _floating_. A _**floating rib**_ (by 1802) is so called because the anterior ends are not connected to the rest.
 
 ```md
-晚期古英语 _flotian_ (浮动) 意为“在水面上停留”（不及物动词；二类强动词；过去式 _fleat_，过去分词 _floten_），来自原始日耳曼语 _\*flotan_ (漂浮)（该词源也包括古诺尔斯语 _flota_，中世纪荷兰语 _vloten_，古高地德语 _flozzan_，德语 _flößen_），进一步源于原始印欧语 _\*plud-_，是词根 [\*pleu-](https://www.etymonline.com/word/*pleu- "词源、含义及定义") 的扩展形式，意思是“流动”。
+古英语晚期，动词 **float** 源自古英语 _flotian_，意为“漂浮于水面”（不及物动词，强变化动词Ⅱ类，过去式为 _fleat_，过去分词为 _floten_），其来源是原始日耳曼语 _*flotan_，该词亦为古诺尔斯语 _flota_、中古荷兰语 _vloten_、古高地德语 _flozzan_ 以及现代德语 _flössen_ 的共同词源，进一步源自原始印欧语 _*plud-_，这是词根 [*pleu-](https://www.etymonline.com/word/*pleu- "Etymology, meaning and definition of *pleu-")“流动”的延展形式。
 
-“漂浮、被动悬浮”的含义大约出现在1300年。及物意义“抬起，导致（如水等）漂浮”出现于1600年左右；而“使（某物）漂浮”的意思在1778年首次出现（最初指的是金融操作）。关于空气中的运动，词义出现在1630年代。至于“在眼前隐约悬浮”的意思则始于1775年。相关词：_Floated_ (漂浮过)、_floating_ (正在漂浮)。一种 _**floating rib**_ (浮肋，约于1802年) 之所以这样称呼，是因为其前端未与其余部分相连。
+其义项“漂泊、被动地悬浮”始于约1300年；及物用法“托起，使漂浮”（多指水体）始于约1600年；及物用法“使某物漂浮”起源于1778年，最初用于金融操作。空气中运动意义始于1630年代；“在眼前朦胧飘动”的含义始于1775年。相关词形包括 _floated_（漂浮过的）与 _floating_（漂浮的）。“漂浮肋骨”（_floating rib_，1802年左右称呼）因其前端不与其他肋骨相连而得名。
+
+- float 漂浮  
+- flotian 漂浮（水面）  
+- *flotan 漂浮（日耳曼语）  
+- *plud- 流动（原始印欧语）  
+- *pleu- 流动
 ```
 
 ## float (n.)
@@ -19,9 +25,17 @@ apparently an early Middle English merger of three related Old English nouns, _f
 > Few soda water dispensers know what is meant by a "Float Ice Cream Soda." This is not strange since the term is a coined one. By a "float ice cream soda" is meant a soda with the ice cream floating on top, thus making a most inviting appearance and impressing the customer that you are liberal with your ice cream, when you are not really giving any more than the fellow that mixes his ice cream "out of sight." \[The Spatula, Boston, July, 1908\]
 
 ```md
-显然，这是早期中英语融合了三个相关的古英语名词：_flota_ (船，舰队) 、_flote_ (军队，群体) 、_flot_ (水体，海洋)；这些词均来源于词根 [_float_](https://www.etymonline.com/word/float#etymonline_v_8899 "词源、含义及定义")（动词）。早期的意义与古英语中多已过时的词义相关：“漂浮的状态”（12世纪初），“游泳”（13世纪中期）；“舰队，军队”（约1300年）；“溪，河”（14世纪初）。约1300年，它被引申为鱼线或网的浮力附件；14世纪初用作“筏”。“用于游行等展示的带轮平台”的含义出现在1888年，可能源于早期“平底船”（1550年代）的意义。作为一种饮料类型，约在1915年出现。
+名词 **float** 显然是早期中古英语时期三个相关古英语名词的融合：_flota_（船，舰队）、_flote_（军队，群体）、_flot_（水体，海洋）；这些词皆源自动词 [_float_](https://www.etymonline.com/word/float#etymonline_v_8899 "Etymology, meaning and definition of float") 的词根。其早期意义多为古英语词汇中现已大多过时的：如“漂浮状态”（12世纪初）、“游泳”（13世纪中期）、“舰队；队伍”（约1300年），“溪流，河流”（14世纪初）。自约1300年开始，指鱼线或渔网上的浮标；14世纪初，也指“筏”。1888年起，意指游行等中的“轮式花车”，可能源于1550年代“平底船”的早期用法。作为一种饮料，指1915年出现的“漂浮饮”。
 
-> _Float_ (浮饮) — 一种饮料，顶部漂浮着一层葡萄汁、姜汁啤酒，或在某些情况下是水果冰沙或冰淇淋的圆球。在后者情况下，它被称为“冰沙 _float_ ”或“冰淇淋 _float_ ”。[《饮品配方大全：或苏打水指南》，纽约，1915年]
+引用例句：
+- "_Float_.—一种顶上漂浮着葡萄汁、姜汁汽水或有时一勺果味雪葩或冰淇淋的饮料。后一种被称为“雪葩漂浮”或“冰淇淋漂浮。”"（《饮料供应配方手册：汽水指南》，纽约，1915年）
+- “很少有汽水售卖机了解‘漂浮冰淇淋汽水’的含义，这并不奇怪，因为这是个新造词。‘漂浮冰淇淋汽水’指的是冰淇淋漂浮在顶部的汽水，外观诱人，让顾客觉得你慷慨地放了很多冰淇淋，实际上并没有比那些把冰淇淋‘藏起来’的同行多给多少。”（《The Spatula》，波士顿，1908年7月）
 
-> 很少有苏打水调配师了解“浮冰淇淋苏打”是什么意思。这并不奇怪，因为这个术语是一个创造出来的词。“浮冰淇淋苏打”是指一种在顶部漂浮着冰淇淋的苏打，从而呈现出最诱人的外观，让顾客印象深刻，认为你在冰淇淋上很慷慨，而实际上你给的并不比那些在“视线之外”调配冰淇淋的人多。[《刮刀》，波士顿，1908年7月]
+- float 漂浮，浮体，舰队  
+- flota 舰队，船  
+- flote 军队，群体  
+- flot 水体，海洋  
+- sherbet float 雪葩漂浮饮  
+- ice-cream float 冰淇淋漂浮饮  
+- float (parade) 游行花车，轮式花车
 ```

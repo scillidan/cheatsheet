@@ -7,9 +7,63 @@ It might form all or part of: [alfalfa](https://www.etymonline.com/word/alfalfa 
 It might also be the source of: Sanskrit _admi_ "I eat;" Avestan _ad-_ "to eat;" Greek _edo_ "I eat;" Latin _edere_ "to eat;" Lithuanian _ėdu_ "I eat," _ėdžioti_ "to devour, bite;" Hittite _edmi_ "I eat," _adanna_ "food;" Armenian _utem_ "I eat;" Old Church Slavonic _jasti_ "to eat," Russian _jest_ "to eat;" Old Irish _ithim_ "I eat;" Gothic _itan_, Old Swedish and Old English _etan_, Old High German _essan_ "to eat."
 
 ```md
-原始印欧语根意为“吃”，最初为“咬”。 
+**\*ed-**  
+原始印欧语词根，意为“吃”，最初含义为“咬”。
 
-它可能构成以下词汇的全部或部分来源：[苜蓿](alfalfa) (alfalfa)；[止痛药](anodyne) (anodyne)；[粉刺](comedo) (comedo)；[可食用的](comestible) (comestible)；[吃](eat) (eat)；[贪吃的](edacious) (edacious)；[可食用的](edible) (edible)；[羊肚菜](escarole) (escarole)；[可食的](esculent) (esculent)；[饥饿的](esurient) (esurient)；[蚀刻](etch) (etch)；[巨人](ettin) (ettin)；[烦恼](fret) (fret) (动词)；[昆虫粪便](frass) (frass)；[巨人](jotun) (jotun)；[肥胖](obese) (obese)；[肥胖症](obesity) (obesity)；[剩饭](ort) (ort)；[餐后](postprandial) (postprandial)；[餐饮](prandial) (prandial)。
+该词根可能构成以下词汇的全部或部分词源：  
+- alfalfa 蜡瓣花  
+- anodyne 止痛剂  
+- comedo 粉刺  
+- comestible 食品，可吃的  
+- eat 吃  
+- edacious 贪食的  
+- edible 可食用的  
+- escarole 菊苣的一种  
+- esculent 可食用的  
+- esurient 饥饿的  
+- etch 蚀刻  
+- ettin 巨人  
+- fret 侵蚀，消磨（动词）  
+- frass 昆虫的排泄物  
+- jotun 巨人  
+- obese 肥胖的  
+- obesity 肥胖症  
+- ort 食物残渣  
+- postprandial 饭后的  
+- prandial 进餐的  
 
-它也可能是以下词汇的来源：梵语 _admi_ 意为“我吃”；阿维斯塔语 _ad-_ 意为“吃”；希腊语 _edo_ 意为“我吃”；拉丁语 _edere_ 意为“吃”；立陶宛语 _ėdu_ 意为“我吃”， _ėdžioti_ 意为“吞噬，咬”；赫梯语 _edmi_ 意为“我吃”， _adanna_ 意为“食物”；亚美尼亚语 _utem_ 意为“我吃”；古教会斯拉夫语 _jasti_ 意为“吃”，俄语 _jest_ 意为“吃”；古爱尔兰语 _ithim_ 意为“我吃”；哥特语 _itan_，古瑞典语和古英语 _etan_，古高地德语 _essan_ 意为“吃”。
+该词根也可能是以下语言中“吃”的词语来源：  
+- 梵语 _admi_（我吃）  
+- 阿维斯陀语 _ad-_（吃）  
+- 希腊语 _edo_（我吃）  
+- 拉丁语 _edere_（吃）  
+- 立陶宛语 _ėdu_（我吃），_ėdžioti_（吞食，咬）  
+- 赫梯语 _edmi_（我吃），_adanna_（食物）  
+- 亚美尼亚语 _utem_（我吃）  
+- 古教会斯拉夫语 _jasti_（吃）  
+- 俄语 _jest_（吃）  
+- 古爱尔兰语 _ithim_（我吃）  
+- 哥特语 _itan_，古瑞典语和古英语 _etan_，古高地德语 _essan_（吃）
+
+- *ed- 吃，咬  
+- alfalfa 蜡瓣花  
+- anodyne 止痛剂  
+- comedo 粉刺  
+- comestible 食物  
+- eat 吃  
+- edacious 贪食  
+- edible 可食用  
+- escarole 菊苣  
+- esculent 可食的  
+- esurient 饥饿的  
+- etch 蚀刻  
+- ettin 巨人  
+- fret 侵蚀  
+- frass 昆虫排泄物  
+- jotun 巨人  
+- obese 肥胖的  
+- obesity 肥胖症  
+- ort 食物残渣  
+- postprandial 饭后  
+- prandial 进餐的
 ```

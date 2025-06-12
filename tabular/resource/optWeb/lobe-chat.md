@@ -2,17 +2,18 @@
 
 |tag|group|category|link|_zh_|
 |:-|:-|:-|:-|:-|
-|lobe-chat,assistant|develop|Games|[Godot Guru](https://lobechat.com/discover/assistant/godot-guru)|||
+|lobe-chat,assistant|develop|Games|[Godot Guru](https://lobechat.com/discover/assistant/godot-guru)||
 |lobe-chat,assistant|develop|General|[LobeChat Test Engineer](https://lobechat.com/discover/assistant/lobe-chat-unit-test-dev)|LobeChat 测试工程师|
 |lobe-chat,assistant|develop|General|[Prompt Keywords](https://lobechat.com/discover/assistant/prompt-ts)|Prompt提示词|
-|lobe-chat,assistant|develop|General|[PromptGPT](https://lobechat.com/discover/assistant/prompt-gpt)|||
+|lobe-chat,assistant|develop|General|[PromptGPT](https://lobechat.com/discover/assistant/prompt-gpt)||
 |lobe-chat,assistant|develop|Office|[Excel Formula Master](https://lobechat.com/discover/assistant/excel-formula-master)|Excel公式大师|
-|lobe-chat,assistant|develop|Programming|[Allinone](https://lobechat.com/discover/assistant/allinone-v-1)|||
+|lobe-chat,assistant|develop|Programming|[Allinone](https://lobechat.com/discover/assistant/allinone-v-1)||
 |lobe-chat,assistant|develop|Programming|[Database Expert](https://lobechat.com/discover/assistant/dba)|数据库专家|
 |lobe-chat,assistant|develop|Programming|[Deployment Specialist Agent](https://lobechat.com/discover/assistant/deployment-agent)|部署专家代理|
 |lobe-chat,assistant|develop|Programming|[Full Stack Engineer - F](https://lobechat.com/discover/assistant/full-stack-enginner-f)|全栈工程师 - F|
 |lobe-chat,assistant|develop|Programming|[HTTP Request Master](https://lobechat.com/discover/assistant/http-request-master)|HTTP 请求大师|
 |lobe-chat,assistant|develop|Programming|[LobeChat Function Maestro](https://lobechat.com/discover/assistant/lobe-chat-function-maestro)|LobeChat功能大师|
+|lobe-chat,assistant|develop|Programming|[Programming Development Assistant](https://lobechat.com/discover/assistant/coder-assistant)|编程开发助手|
 |lobe-chat,assistant|develop|Programming|[Python Development Master](https://lobechat.com/discover/assistant/py-master-id)|Python开发大师|
 |lobe-chat,assistant|develop|Programming|[Python Genius](https://lobechat.com/discover/assistant/python-genius)|Python 天才|
 |lobe-chat,assistant|develop|Programming|[Shell Script Development Assistant](https://lobechat.com/discover/assistant/linux-shell-assistant)|Shell 脚本开发助手|
@@ -20,7 +21,7 @@
 |lobe-chat,assistant|profess|Academic|[Academic Revision Specialist](https://lobechat.com/discover/assistant/academic-revision-specialist)|学术修订专家|
 |lobe-chat,assistant|profess|Academic|[Civil Law Consultant](https://lobechat.com/discover/assistant/law)|民法顾问|
 |lobe-chat,assistant|profess|Academic|[Criminal Defense Expert](https://lobechat.com/discover/assistant/yundaodev-1)|刑辩专家|
-|lobe-chat,assistant|profess|Academic|[Omnipedia](https://lobechat.com/discover/assistant/omnipedia)|||
+|lobe-chat,assistant|profess|Academic|[Omnipedia](https://lobechat.com/discover/assistant/omnipedia)||
 |lobe-chat,assistant|profess|Academic|[Socioeconomic Analyst](https://lobechat.com/discover/assistant/finance-news-analyser)|社会经济分析师|
 |lobe-chat,assistant|profess|Career|[AI Import/Export Advisor](https://lobechat.com/discover/assistant/import-and-export-advisor)|AI进出口顾问|
 |lobe-chat,assistant|profess|Career|[Business Guru](https://lobechat.com/discover/assistant/business-guru)|商业顾问|
@@ -44,7 +45,9 @@
 |lobe-chat,assistant|profess|General|[Principled Problem Solver](https://lobechat.com/discover/assistant/general-chain-of-thought)|原则性问题解决者|
 |lobe-chat,assistant|profess|General|[Reasoning assistant](https://lobechat.com/discover/assistant/cheaper-reasoning)|推理助手|
 |lobe-chat,assistant|profess|General|[The Great Biggus Dickus](https://lobechat.com/discover/assistant/all-knowing)|伟大的比古斯·迪克斯|
+|lobe-chat,assistant|profess|Life|[Green Plant Keeper: Xiao Zhi Green Uncle](https://lobechat.com/discover/assistant/xiao-zhi-greenie)|绿植管家：小智绿叔|
 |lobe-chat,assistant|profess|Life|[Healthy Recipe Recommender](https://lobechat.com/discover/assistant/healthy-recipe-recommender)|健康食谱推荐师|
+|lobe-chat,assistant|profess|Life|[SmartTrip](https://lobechat.com/discover/assistant/xiao-zhi-travel-go)|小智行程|
 |lobe-chat,assistant|profess|Life|[Traditional Chinese Medicine Practitioner](https://lobechat.com/discover/assistant/claude-national-medical-master)|老中医|
 |lobe-chat,assistant|profess|Life|[Wise Mentor](https://lobechat.com/discover/assistant/wise-mentor)|智慧导师|
 |lobe-chat,assistant|profess|Marketing|[Brand Pioneer](https://lobechat.com/discover/assistant/brand-pioneer)|品牌先锋|
@@ -56,10 +59,11 @@
 |lobe-chat,assistant|profess|Programming|[IT Systems Architect](https://lobechat.com/discover/assistant/it-system-architect)|IT系统架构师|
 |lobe-chat,assistant|profess|Translation|[Game Text Translator](https://lobechat.com/discover/assistant/translation-tutor-prompt)|游戏文本翻译师|
 |lobe-chat,assistant|profess|Translation|[Translation of Novels: English to Chinese](https://lobechat.com/discover/assistant/noveltranslation)|小说翻译 英译中|
+|lobe-chat,assistant|tool|Academic|[Academic](https://lobechat.com/discover/assistant/paper-understanding)|学术论文阅读导师|
 |lobe-chat,assistant|tool|Academic|[Book Summary Expert](https://lobechat.com/discover/assistant/book-summary-expert-philo)|书籍总结专家|
 |lobe-chat,assistant|tool|Academic|[LaTeX Academic Paper Summary Assistant](https://lobechat.com/discover/assistant/latex-summarizer)|LaTeX学术论文总结助手|
 |lobe-chat,assistant|tool|Academic|[Short Book](https://lobechat.com/discover/assistant/book-summary-agent)|书籍摘要|
-|lobe-chat,assistant|tool|Academic|[Summsi](https://lobechat.com/discover/assistant/summsi)|||
+|lobe-chat,assistant|tool|Academic|[Summsi](https://lobechat.com/discover/assistant/summsi)||
 |lobe-chat,assistant|tool|Copywriting|[100% Human Writing](https://lobechat.com/discover/assistant/xhb-111)|100%人类写作|
 |lobe-chat,assistant|tool|Copywriting|[Chinese Text Refinement Master](https://lobechat.com/discover/assistant/chinese-touch-ups)|中文润色大师|
 |lobe-chat,assistant|tool|Copywriting|[Contract Clause Refiner v1.0](https://lobechat.com/discover/assistant/business-contract)|合同条款精炼师|
@@ -76,15 +80,18 @@
 |lobe-chat,assistant|tool|Design|[Stable Diffusion Prompt Expert](https://lobechat.com/discover/assistant/stable-diffusion-prompt)|Stable Diffusion 提示词专家|
 |lobe-chat,assistant|tool|Design|[Stable Diffusion Prompts Crafter](https://lobechat.com/discover/assistant/stable-diffusion)|Stable Diffusion 手艺家|
 |lobe-chat,assistant|tool|Education|[Flashcard Maker](https://lobechat.com/discover/assistant/flashcard)|抽认卡制作师|
-|lobe-chat,assistant|tool|Education|[Mistaker](https://lobechat.com/discover/assistant/english)|||
+|lobe-chat,assistant|tool|Education|[Mistaker](https://lobechat.com/discover/assistant/english)||
 |lobe-chat,assistant|tool|Education|[Nutrition Analyzer](https://lobechat.com/discover/assistant/nutrition-analyzer)|营养分析器|
+|lobe-chat,assistant|tool|Game|[YouTube Summarizer Pro](https://lobechat.com/discover/assistant/youtube-summarizer-pro)|YouTube 摘要专家|
 |lobe-chat,assistant|tool|General|[Search](https://lobechat.com/discover/assistant/search)|搜一搜|
 |lobe-chat,assistant|tool|General|[Web Content Summarization Expert](https://lobechat.com/discover/assistant/url-summary)|网页内容总结专家|
+|lobe-chat,assistant|tool|Life|[Nutritionist](https://lobechat.com/discover/assistant/nutritionist)|营养顾问|
+|lobe-chat,assistant|tool|Life|[Recipe Assistant](https://lobechat.com/discover/assistant/recipe-assistant-cn)|菜谱小助手|
 |lobe-chat,assistant|tool|Life|[Recipe Generator](https://lobechat.com/discover/assistant/recipe-generator)|食谱生成器|
 |lobe-chat,assistant|tool|Office|[Weekly Report Assistant](https://lobechat.com/discover/assistant/write-report-assistant-development)|周报助手|
 |lobe-chat,assistant|tool|Programming|[Convert Docker to Docker Compose](https://lobechat.com/discover/assistant/onekr-docker-2-compose)|Docker 转 DockerCompose|
 |lobe-chat,assistant|tool|Programming|[Cron Expression Assistant](https://lobechat.com/discover/assistant/crontab-generate)|Cron 表达式助手|
-|lobe-chat,assistant|tool|Programming|[GitHub Finder](https://lobechat.com/discover/assistant/github-finder)|||
+|lobe-chat,assistant|tool|Programming|[GitHub Finder](https://lobechat.com/discover/assistant/github-finder)||
 |lobe-chat,assistant|tool|Programming|[GitHub Project Analyst](https://lobechat.com/discover/assistant/web-github-analyze)|GitHub项目分析师|
 |lobe-chat,assistant|tool|Programming|[Minimal Artifact Architect](https://lobechat.com/discover/assistant/minimal-artifact-architect)|最小化的工件架构师|
 |lobe-chat,assistant|tool|Translation|[English Technology Article Reading Assistant](https://lobechat.com/discover/assistant/encn-fy)|英文科技文章阅读助手|
@@ -104,10 +111,10 @@
 |lobe-chat,assistant|write|Education|[Master of Structured Expression](https://lobechat.com/discover/assistant/structured-expression)|结构化表达大师|
 |lobe-chat,assistant|write|Education|[New Interpretations of Chinese](https://lobechat.com/discover/assistant/hanyuxinjie)|汉语新解|
 |lobe-chat,assistant|write|Games|[Steam Game Reviews](https://lobechat.com/discover/assistant/steam-agent)|Steam 游戏评测|
-|lobe-chat,plugin|/|Gaming & Entertainment|[Steam](https://lobechat.com/discover/plugin/steam)|||
+|lobe-chat,plugin|/|Gaming & Entertainment|[Steam](https://lobechat.com/discover/plugin/steam)||
 |lobe-chat,plugin|/|Utility Tools|[Access Google Sheet](https://lobechat.com/discover/plugin/access_google_sheets)|访问Google表格|
-|lobe-chat,plugin|/|Utility Tools|[Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)|||
-|lobe-chat,plugin|/|Utility Tools|[SEO](https://lobechat.com/discover/plugin/SEO)|||
+|lobe-chat,plugin|/|Utility Tools|[Git OSS Stats](https://lobechat.com/discover/plugin/gitUserRepoStats)||
+|lobe-chat,plugin|/|Utility Tools|[SEO](https://lobechat.com/discover/plugin/SEO)||
 |lobe-chat,plugin|/|Utility Tools|[Website Crawler](https://lobechat.com/discover/plugin/website-crawler)|网站爬虫|
 |lobe-chat,plugin|/|Web Search|[Bilibili](https://lobechat.com/discover/plugin/bilibili)|哔哩哔哩|
 |lobe-chat,plugin|/|Web Search|[Bing_websearch](https://lobechat.com/discover/plugin/Bingsearch-identifier)|必应网页搜索|

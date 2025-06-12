@@ -5,9 +5,14 @@
 > Here he teches þe Craft how þou schalt know, whan þou hast subtrayd, wheþer þou hast wel ydo or no. \["Craft of Numbering," c. 1425\]
 
 ```md
-1530年代，“撤回，保留，拿走”（及物动词），是一个派生词，源于 [subtraction](https://www.etymonline.com/word/subtraction "Etymology, meaning and definition of subtraction ")（参见该词）。或者直接源自拉丁语 _subtractus_，即动词 _subtrahere_ 的过去分词“拿走，抽走”。相关词：_Subtracted_（被减去的）；_subtracting_（减去）。
+动词 **subtract** 出现于1530年代，意为“撤回、扣除、拿走”（及物动词），为名词 [subtraction](https://www.etymonline.com/word/subtraction "Etymology, meaning and definition of subtraction") 的反构词，或直接来自拉丁语过去分词 _subtractus_，该词是动词 _subtrahere_ 的过去分词，意为“拿走，减去”。相关词形有 _subtracted_ 和 _subtracting_。数学上的“减法”含义始于1550年代。较早的动词形式为 _subtraien_，见于15世纪早期数学用语，直接源自拉丁语动词。
 
-数学计算的意义始于1550年代。早期动词形式为 _subtraien_（大约15世纪早期数学意义），直接来源于拉丁语动词。
+原文引用：  
+“这里教你这门技艺，让你知道当你做了减法，是否正确。” ——《计数技艺》，约1425年
 
-> “这里他教你这门技艺如何知道，何时你已经减去了，是否已正确地完成。” \[《数字工艺》，约1425年\]
+- subtract 减去，扣除  
+- subtraction 减法  
+- subtractus 拉丁语过去分词，减去的  
+- subtrahere 拿走，减去  
+- subtraien 早期动词形式
 ```

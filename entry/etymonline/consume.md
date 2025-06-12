@@ -5,7 +5,16 @@ late 14c., "to destroy by separating into parts which cannot be reunited, as by 
 Specifically, "to destroy by use, wear out by applying to its natural or intended use" from c. 1400. Sense of "to engage the full attention and energy of" is from 1570s.
 
 ```md
-"消费" (consume) 在14世纪晚期意指“通过分离成无法重聚的部分来摧毁，如同通过燃烧或吞噬”，因此引申为“摧毁物质，消灭”。该词源于中古法语 _consumer_ (12世纪) 和直接源自拉丁语 _consumere_，意思是“用尽，吃，浪费”。其中的构成是前缀 _com-_，这里可能是一个加强前缀 (参考 [com-](https://www.etymonline.com/word/com- "Etymology, meaning and definition of com- ")) + _sumere_，意为“取”，来自 _sub-_ (参考 [sub-](https://www.etymonline.com/word/sub- "Etymology, meaning and definition of sub- "))，意为“在...之下” + _emere_，意为“购买，获取”，其源于原始印欧语根 [\*em-](https://www.etymonline.com/word/*em- "Etymology, meaning and definition of *em- ")，表示“获取，分发”。
+14世纪晚期，动词 **consume** 意为“通过将物体分解成无法复合的部分（如燃烧或食用）来破坏”，引申为“破坏实质，消灭”，来源于12世纪古法语 _consumer_ “消耗”，直接来源于拉丁语 _consumere_ “用尽，吃掉，浪费”，由同化形式的前缀 _com-_（此处可能为加强意义的前缀，参见 [com-](https://www.etymonline.com/word/com- "Etymology, meaning and definition of com-")）与 _sumere_ “取，用”，_sumere_ 又由 _sub-_ “在……下”（见 [sub-](https://www.etymonline.com/word/sub- "Etymology, meaning and definition of sub-")）和 _emere_ “买，取”（源自印欧语根 [\*em-] “取，用，分配”）组成。
 
-具体来说，"通过使用摧毁，或因其自然或预期用途的应用而磨损" 的含义出现在约1400年。关于"全心全意投入精力"的意思则出现在1570年代。
+特别地，“通过使用而破坏，因使用而磨损”为约1400年开始的含义。“全神贯注，投入全部精力”的含义自1570年代起。
+
+- consume 消耗，破坏  
+- consumer 消耗者  
+- consumere 用尽，浪费  
+- com- 加强前缀  
+- sumere 取，用  
+- sub- 在……下  
+- emere 买，取  
+- *em- 取，用，分配
 ```

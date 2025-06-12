@@ -16,6 +16,7 @@
 |:-|:-|:-|
 |comfyui,txt2img|[ComfyUI wrapper for Kwai-Kolors](https://github.com/kijai/ComfyUI-KwaiKolorsWrapper)
 |comfyui|[CImaGen](https://github.com/ServOKio/CImaGen)
+|comfyui|[ComfyUI IPAdapter plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)|
 |comfyui|[ComfyUI nodes to use LivePortrait](https://github.com/kijai/ComfyUI-LivePortraitKJ)
 |comfyui|[ComfyUI Segment Anything](https://github.com/storyicon/comfyui_segment_anything)
 |comfyui|[ComfyUI-CogVideoXWrapper](https://github.com/kijai/ComfyUI-CogVideoXWrapper)

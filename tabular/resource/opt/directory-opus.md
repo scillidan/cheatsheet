@@ -59,3 +59,4 @@
 |windows10,dopus,torrent|[Column_TorrentInfo](https://resource.dopus.com/t/column-torrentinfo-bt-bdecode-parsing-torrent-file-to-generate-metadata-columns/49741)|
 |windows10,dopus,tree|[copying tree view of selected files & folders](https://resource.dopus.com/t/script-command-for-copying-tree-view-of-selected-files-folders/51628)|
 |windows10,dopus,viewer|[Sync viewer and file selection](https://gist.github.com/ScribbleGhost/e88738769df7f67a335eae634500cbe1)|
+|windows10,dopus,explorer|[MOSViewer](https://github.com/mrfearless/MOSViewer)|

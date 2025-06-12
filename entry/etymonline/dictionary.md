@@ -14,15 +14,22 @@ As an adjective, "of or pertaining to a dictionary," from 1630s. _Dictionarist_
 
 
 ```md
-一本包含语言中全部或主要单词的书，或一个或多个特定类别的单词，按照规定的顺序排列，通常是字母顺序，并提供其含义的定义或解释，以及与其相关的其他信息，这些信息用同种语言或另一种语言表达；词典 (词典)；词汇表 (词汇表) .... \[世纪 _字典_\]
+**dictionary**（词典，字典）一词始见于1520年代，来源于中世纪拉丁语 _dictionarium_，意为“词语和短语的集合”，可能为 _dictionarius (liber)_（“词语书”）的缩写，来源于拉丁语 _dictionarius_，意为“词语的”，本身来自 _dictio_“话语，表达”，在晚期拉丁语中指“词语”，该词为 _dicere_（说话，讲述，表达）的过去分词词干形成的动作名词，源自原始印欧语词根 [\*deik-](https://www.etymonline.com/word/*deik- "Etymology, meaning and definition of *deik- ")，意为“展示”，也有“庄重宣读”的含义。
 
-1520年代，源自中世纪拉丁语 _dictionarium_ “单词和短语的集合”，可能是 _dictionarius (liber)_ “单词（书）”的缩写，源自拉丁语 _dictionarius_ “关于单词的”，来自 _dictio_ “一句话，表达”，在晚期拉丁语中“一个单词”，是动词的名词形式，源自过去分词 _dicere_ “说，告诉，表达”，源自原始印欧语根 [*deik-](https://www.etymonline.com/word/*deik- "Etymology, meaning and definition of *deik-") “展示”，也指“庄严宣告”。
+据说该词首次出现在约1220年由约翰·德·加兰迪亚（Johannes de Garlandia，约翰·加兰）所编拉丁词汇表的书名中。英语中首次用于书名大约见于1538年托马斯·埃利奥特爵士（Sir Thomas Elyot）的《拉丁词典》（Latin _Dictionary_）。
 
-据说这个中世纪拉丁词汇由约翰·德·加兰迪亚 (Johannes de Garlandia) 首次使用，作为一本拉丁词汇的书名，出版于公元1220年左右。可能在英语中的首次使用是出现在托马斯·艾利奥特爵士 (Sir Thomas Elyot) 的《拉丁词典》(1538) 的书名中。
+作为形容词，“与词典相关的”始见于1630年代。词典编纂者称为 _dictionarist_，始见于1610年代，比 _dictionarian_（作名词见于1806年，形容词见于1785年）出现得早。1788年Grose所著《粗俗语言词典》中有“RICHARD SNARY. A dictionary.”的用法。
 
-作为形容词，“与词典相关的或属于词典的”，从1630年代开始使用。 _Dictionarist_ “词典编纂者”（1610年代）比 _dictionarian_ （名词在1806年，形容词在1785年）更早。格罗斯（Grose）于1788年发表的《通俗语词典》中提到“理查德·斯内里 (RICHARD SNARY). A dictionary。”
+引用：
+- “然而，大多数人在学会拼写之后，主要是为了展示而保存（英语词典），这是它们最有效的目的。除词典学家之外，只有偶尔的好奇求知者能够理智地欣赏其令人遗憾的虚荣与欺骗性。” —— 菲茨爱德华·霍尔，《现代英语》，1873年
+- “词典，名词。一种危险的文学工具，用以限制语言的发展，使其变得僵硬而无弹性。但这本词典却是极为有用的著作。” —— 契尔西·比尔斯（Bierce）
 
-> 然而，大多数人，在学会拼写之后，主要是为了展示而保留 [英语词典]，这是他们最能发挥的作用。除了词典编纂者之外，只有这里那里有些好奇的探究者，能够智能地欣赏到它们令人沮丧的自负和虚幻。 \[菲茨爱德华·霍尔 (Fitzedward Hall)， "现代英语" ，1873\]
-
-> 词典，_名词_：一种恶性文学装置，用于抑制语言的发展，使其变得僵化和不灵活。然而，这本词典却是一本非常有用的作品。 \[比尔斯 (Bierce)\]
+- dictionary 词典，字典  
+- dictionarium 词语集合  
+- dictionarius 词语的  
+- dictio 话语，表达  
+- dicere 说，讲述  
+- *deik- 展示，庄重宣读  
+- dictionarist 词典编纂者  
+- dictionarian 词典编纂者（晚出现形式）
 ```

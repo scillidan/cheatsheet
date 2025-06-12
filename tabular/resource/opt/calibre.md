@@ -10,5 +10,7 @@
 
 |tag|link|
 |:-|:-|
+|calibre|[calibre-douban](https://github.com/fugary/calibre-douban)|
 |calibre|[Markdown Output](https://www.mobileread.com/forums/showthread.php?p=3978884)|
 |calibre|[opds-reader](https://github.com/steinarb/opds-reader)|
+|calibre|[WordDumb](https://github.com/xxyzz/WordDumb)|

@@ -78,15 +78,17 @@
 |brave|Inactive|[SF Explorer](https://info.sf-explorer.com)|
 |brave|Inactive|[simple-modify-headers](https://github.com/didierfred/SimpleModifyHeaders?tab=readme-ov-file)|
 |brave|Inactive|[Speechify — Text to Speech](https://speechify.com)|
+|brave|Inactive|[Wallabagger](https://github.com/wallabag/wallabagger)|
 
 ## Cache
 
 |tag|link|
 |:-|:-|
-|brave,linkding|[linkding injector](https://github.com/fivefold/linkding-injector)|
-|brave,linkding|[linkding extension](https://github.com/sissbruecker/linkding-extension)|
-|brave,buku|[bukubrow-webext](https://github.com/SamHH/bukubrow-webext)|
 |brave,buku|[bukubrow-host](https://github.com/samhh/bukubrow-host)|
+|brave,buku|[bukubrow-webext](https://github.com/SamHH/bukubrow-webext)|
+|brave,linkding|[linkding extension](https://github.com/sissbruecker/linkding-extension)|
+|brave,linkding|[linkding injector](https://github.com/fivefold/linkding-injector)|
+|brave|[10ten Japanese Reader (Rikaichamp)](https://github.com/birchill/10ten-ja-reader)
 |brave|[Allow CORS](https://mybrowseraddon.com/access-control-allow-origin.html)|
 |brave|[Allow Right Click](https://webextension.org/listing/allow-right-click.html)|
 |brave|[Aria2 Explorer](https://aria2e.com)|
@@ -130,11 +132,13 @@
 |brave|[GitHub Web IDE](https://github.com/zvizvi/GitHub-Web-IDE)|
 |brave|[GitLab-Project-Favicon](https://github.com/SogoKato/gitlab-project-favicon)|
 |brave|[Global Speed](https://github.com/polywock/globalSpeed)|
+|brave|[Hypothesis - Web & PDF Annotation](https://github.com/hypothesis/browser-extension)|
 |brave|[ImageQuilts](http://imagequilts.com)|
 |brave|[Jiffy Reader](https://github.com/ansh/jiffyreader.com)|
 |brave|[Json Bookmarks](https://github.com/1nfiniteloop/json-bookmarks)|
 |brave|[Link to Text Fragment](https://github.com/GoogleChromeLabs/link-to-text-fragment)|
 |brave|[Little Rat](https://github.com/dnakov/little-rat)|
+|brave|[Memex](https://memex.garden)|
 |brave|[Midscene.js](https://github.com/web-infra-dev/midscene)|
 |brave|[Module Linker](https://github.com/fiatjaf/module-linker)|
 |brave|[Mouse Click Enabler](https://chromewebstore.google.com/detail/mouse-click-enabler/hbbhfdjgphhgaolabinibnfflfoobiaj)|
@@ -143,12 +147,15 @@
 |brave|[mpv for Chrome](https://github.com/taupiqueur/chrome-mpv)|
 |brave|[nextpage](https://github.com/sylecn/nextpage-we)|
 |brave|[NoScript](https://noscript.net)|
+|brave|[Obsidian clipper](https://github.com/Ruoyu-Klaus/obsidian-clipper)|
 |brave|[OCR - Image Reader](https://webextension.org/listing/ocr.html)|
 |brave|[ODH](https://github.com/ninja33/ODH)|
+|brave|[Omnivore List Popup](https://github.com/herrherrmann/omnivore-list-popup)|
 |brave|[Open In Firefox](https://webextension.org/listing/open-in.html)|
 |brave|[Open in new tab](https://chrome.google.com/webstore/detail/open-in-new-tab/cplillmhmcegjlhcbedmgmalbgjpmlkh)|
 |brave|[open-in-mpv](https://github.com/Tatsh/open-in-mpv)|
 |brave|[Play with MPV](https://github.com/Thann/play-with-mpv)|
+|brave|[Powerful Pixiv Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader)|
 |brave|[Print Edit WE](https://chrome.google.com/webstore/detail/print-edit-we/olnblpmehglpcallpnbgmikjblmkopia)|
 |brave|[Privacy Badger](https://eff.org/pages/privacy-badger)|
 |brave|[QuicKey](https://github.com/fwextensions/QuicKey)|
@@ -177,6 +184,7 @@
 |brave|[Wikiwand](https://wikiwand.com)|
 |brave|[Window Resizer](https://coolx10.com/window-resizer)|
 |brave|[xBrowserSync](https://xbrowsersync.org)|
+|brave|[Yomichan](https://foosoft.net/projects/yomichan)
 |brave|[Yomikiri](https://github.com/BlueGreenMagick/yomikiri)|
 |brave|[划词翻译](https://hcfy.ai)|
 |brave|[鼠标工具提示翻译器](https://github.com/ttop32/MouseTooltipTranslator)|

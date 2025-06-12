@@ -1,6 +1,7 @@
 |tag|link|
 |:-|:-|
 |document|[树莓派文档](https://pidoc.cn/)|
+|document|[Amulet](http://www.amulet.xyz/doc)|
 |document|[AutoHotkey](https://www.autohotkey.com/docs/v2/)|
 |document|[Bastard Keyboards](https://docs.bastardkb.com/)|
 |document|[Beancount Documentation](https://beancount.github.io/docs/index.html)|

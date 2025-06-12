@@ -9,13 +9,20 @@ In music, from late 14c. as "air, tune;" 1570s as "rhythmic pattern." Specifical
 The meaning "treatment 'meted out' to someone" is from 1590s; that of "plan or course of action intended to obtain some goal" is from 1690s; sense of "legislative enactment" is from 1759. Figurative phrase **_for good measure_** is from _good measure_ as "ample in quantity in goods sold by measure" (late 14c.).
 
 ```md
-约公元1200年，“适度，节制，克己”；约公元1300年，“测量的工具”，来自于古法语 _mesure_（测量，边界；数量，维度；时机，时间）（12世纪），源于拉丁语 _mensura_（一种测量，测量的东西），由 _mensus_（ _metiri_ 的过去分词，“测量”）派生，而 _metiri_ 的根源是印欧语系词根 [\*me-](https://www.etymonline.com/word/*me-#etymonline_v_52683 "Etymology, meaning and definition of *me- ")（2）“测量”。本土词汇是古英语同源词 _mæð_（“测量”）。
+名词 **measured** 大约起始于1200年，意为“节制、温和、禁欲”；约1300年指“测量的工具”，来源于古法语 _mesure_，意为“限度，边界；数量，尺寸；时机，时间”（12世纪），源自拉丁语 _mensura_，“测量，测量工具”，该词来自 _mensus_，是动词 _metiri_（“测量”）的过去分词，动词本身源自原始印欧语词根 [*me-](https://www.etymonline.com/word/*me-#etymonline_v_52683 "Etymology, meaning and definition of *me-")（2）“测量”。英语中的对应本土词为古英语同源词 _mæð_，意为“测量”。
 
-“通过测量确定的大小或数量”的含义始于14世纪早期。后来14世纪末，出现了“测量的行为；数量的标准衡量；测量的系统；指定或分配的任何物品的数量”的含义。相同时间段中，“合适的比例；平衡”的含义也被采纳。而“用以比较以确定其数量的东西”的意义始于1570年代。
+“通过测量确定的尺寸或数量”义项见于14世纪早期；“测量动作；量的标准单位；测量系统；指定或分配的数量”等意义见于14世纪晚期；同样来自14世纪晚期的还有“适当比例；平衡”义项；“作为比较物以确定数量的标准”义项出现于1570年代。
 
-在音乐中，14世纪末开始使用“空气，旋律”；1570年代起使用“韵律模式”。具体“指在两个主要节拍之间所指示的音调组”从1660年代开始使用。从15世纪中期起，“诗中的韵律模式”也被使用；约1500年起出现在舞蹈中。
+在音乐领域，14世纪晚期开始指“调子，旋律”；1570年代用以表示“节奏型”；1660年代特指“两个主拍间的音符群”；15世纪中期用于诗歌中的“节奏模式”；约1500年用于舞蹈节奏。
 
-“给予某人待遇”的意思起始于1590年代；“旨在实现某个目标的计划或行动”始于1690年代；“立法颁布”的含义起始于1759年。比喻性短语 **_for good measure_**（为了增加分量）起源于 _good measure_（以适量出售的商品或货物中大量的）这一短语（14世纪末）。
+“给予某人的应得待遇”意义从1590年代出现；“为实现目标而制定的计划或行动方针”始于1690年代；“立法行为”义项始于1759年。比喻短语 **for good measure** 来源于中世纪晚期的 _good measure_，意为“货物数量充足、量足”。
+
+- measured 测量，节制，适当比例  
+- mesure 古法语测量，限度  
+- mensura 拉丁语测量工具  
+- metiri 测量（拉丁语动词）  
+- me- 测量（原始印欧语词根）  
+- mæð 古英语测量
 ```
 
 ## measured (adj.)
@@ -23,12 +30,8 @@ The meaning "treatment 'meted out' to someone" is from 1590s; that of "plan or c
 late 14c., "moderate, temperate" (a sense now obsolete), past-participle adjective from [_measure_](https://www.etymonline.com/word/measure#etymonline_v_12499 "Etymology, meaning and definition of measure") (v.) in the sense of "exercise moderation." Meaning "uniform, regular, characterized by uniformity of movement or rhythm" is from c. 1400. That of "ascertained or determined by measuring" is from mid-15c. Meaning "deliberate, restrained" is from 1802.
 
 ```md
-在14世纪晚期，“适度的，温和的”（这个意义现在已过时），是过去分词形容词，来源于[_measure_](https://www.etymonline.com/word/measure#etymonline_v_12499 "Etymology, meaning and definition of measure")（测量）动词，意为“行使适度”。“统一的，规则的，具有运动或节奏的统一性”的意思来自大约1400年。“通过测量确定或决定的”意思出现在15世纪中期。“故意的，克制的”意思则出现在1802年。
+形容词 **measured** 出现于14世纪晚期，意为“适度的，有节制的”（该义现已废止），为动词 [_measure_](https://www.etymonline.com/word/measure#etymonline_v_12499 "Etymology, meaning and definition of measure") 的过去分词形容词，含义为“实行节制”。“统一的，有规律的，具有均匀运动或节奏特征的”义项起始于约1400年；“经测量确定的”义项见于15世纪中叶；“深思熟虑的，克制的”义项始于1802年。
 
-- moderate (适度的): 来源于拉丁语 *moderatus*，意为“适度的”或“缓和的”。
-- measure (测量): 源自拉丁语 *mensura*，意为“测量”或“量度”。
-- uniform (统一的): 来源于拉丁语 *uniformis*，由 *uni-*（一个）和 *formis*（形式）组合而成，表示“一种形式”。
-- deliberate (故意的): 来源于拉丁语 *deliberatus*，意为“仔细考虑”或“深思熟虑”。
-
-这些词的含义和使用反映了它们的历史背景和演变。
+- measured 适度的，有节制的，均匀的  
+- measure 测量，节制
 ```

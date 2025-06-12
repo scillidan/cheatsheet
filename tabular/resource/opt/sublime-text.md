@@ -166,3 +166,4 @@
 |sublime-text,window|[Layout](https://github.com/loggerhead/Layout)|
 |sublime-text,workspace|[Project And Workspace Management](https://github.com/kyoobey/ProjectAndWorkspaceManagement)|
 |sublime-text,workspace|[ProjectManager](https://github.com/randy3k/ProjectManager)|
+|sublime-text,diff|[Diffable](https://github.com/yaroslavyaroslav/Diffable)|

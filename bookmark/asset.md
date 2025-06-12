@@ -58,3 +58,14 @@
 |photo|[Pexels](https://www.pexels.com)|
 |photo|[Upsplash](https://unsplash.com)|
 |product|[Kickstarter](https://www.kickstarter.com/discover/categories/technology)|
+|cad|[Cadmapper](https://cadmapper.com)|
+|explorer|[QuickLook - Available Plugins](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins)|
+|editor,asset|[Sigil-plugins](https://mobileread.com/forums/showthread.php?t=247431)|
+|database|[RetroArch Database](https://github.com/libretro/libretro-database)|
+|game,asset|[Lite XL colors](https://github.com/lite-xl/lite-xl-colors)|
+|game,asset|[Lite XL plugins](https://github.com/lite-xl/lite-xl-plugins)|
+|reader|[ZIM - Plugins](https://github.com/jaap-karssenberg/zim-wiki/wiki/Plugins)|
+|document|[Dash's user contributed docset feed](https://github.com/hashhar/dash-contrib-docset-feeds)|
+|dictionary|[Yomichan/Yomitan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries)|
+|dotfile|[ArchSway](https://github.com/Ultra-Code/archsway)|
+|dotfile|[@Fluffy-Bean](https://github.com/Fluffy-Bean/dots)|

@@ -116,3 +116,4 @@
 |sd-webui,video|[FastBlend](https://github.com/Artiprocher/sd-webui-fastblend)
 |sd-webui,video|[VideoCrafter1](https://github.com/AILab-CVC/VideoCrafter)
 |sd-webui,zoom|[SD Webui Mosaic Outpaint](https://github.com/Haoming02/sd-webui-mosaic-outpaint)
+|sd-webui,blender|[Dream Texture](https://github.com/carson-katri/dream-textures)|

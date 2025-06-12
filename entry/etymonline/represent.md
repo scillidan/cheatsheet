@@ -9,11 +9,21 @@ Specifically in legal actions, "speak and act with authority on behalf of anothe
 The meaning "serve as a specimen or example of" is by 1858, at first usually passive (_the Dead Rabbits were represented by_, etc.). Related: _Represented_; _representing_.
 
 ```md
-14世纪末，_representen_，“展示，显示，表达；通过描述使人想起”，同时也指“象征，作为（某物或某个抽象概念的）标志或象征；作为某人的代表”（他人的权威）。
+动词 **represent** 出现于14世纪晚期，形式为 _representen_，意为“显示，展示，表达；通过描述使人想起某物”，也指“象征，作为（另一物，抽象事物）的标志或象征；作为某种类型或体现”；还指“作为他人（权力）的代表”。
 
-该词源于古法语 _representer_ “呈现，展示，描绘”（12世纪）并直接源于拉丁语 _repraesentare_ “使呈现，显现，展示，展出”，由 _re-_ 组成，这里可能是强化前缀（参见 [re-](https://www.etymonline.com/word/re- "Etymology, meaning and definition of re- ")），+ _praesentare_ “呈现”，字面意思是“放在前面”。拉丁语 _praesentare_ 源自 _praesens_，“在场，手边，看得见；立即，及时；当代”，本身来源于动词 _præesse_ 的现在分词“在（某人或某物）之前，下降于手边”，由 _prae-_ “在……之前”（参见 [pre-](https://www.etymonline.com/word/pre- "Etymology, meaning and definition of pre- ")）+ _esse_ “存在”（源自PIE词根 [\*es-](https://www.etymonline.com/word/*es- "Etymology, meaning and definition of *es- ") “存在”）。
+该词源自古法语 _representer_（12世纪），意为“呈现，展示，描绘”，并直接来自拉丁语 _repraesentare_，意为“使在场，使呈现，展示，陈列”，由前缀 _re-_（此处可能为加强语气，参见 [re-](https://www.etymonline.com/word/re- "Etymology, meaning and definition of re-")）和动词 _praesentare_（“呈现”，字面义为“放在前面”）组成。拉丁语 _praesentare_ 源自形容词 _praesens_，意为“当前的，手边的，眼前的；直接的；迅速的，即刻的；当代的”，其本身是动词 _præesse_（“在……之前，在手边”）的现在分词形式，_præ-_ 表示“在前”（参见 [pre-](https://www.etymonline.com/word/pre- "Etymology, meaning and definition of pre-")），_esse_ 表示“存在”（来自印欧语词根 [*es-](https://www.etymonline.com/word/*es- "Etymology, meaning and definition of *es-") “存在”）。
 
-在法律行为中特别指“以授权的权利代表他人发言和行动”，至1500年已见于文献。此外，自约1500年起，表示“描述为具有特定特征或品质”。法律上的“在立法集会上为（一群人）担任被认可的代理人”的含义自1650年代起被记录。
+在法律用语中，1500年前后出现“以委托权利代表他人说话和行动”的含义；同一时期也有“描述具有某特定性质或性质”的用法。1650年代起，产生“作为立法机关中代表某群体的被授权代理人”的含义。
 
-“作为样本或例证”的用法则起始于1858年，最初通常为被动形式（如 _the Dead Rabbits were represented by_ 等）。相关词：_Represented_；_representing_。
+“作为样本或典型代表”的含义出现于1858年，初期常用被动形式（如“由……代表”）。相关词形包括 _represented_、_representing_。
+
+- represent 表示，代表  
+- representer 呈现，描绘（古法语）  
+- repraesentare 使出现，展示（拉丁语）  
+- re- 加强前缀  
+- praesentare 呈现，放在前面  
+- praesens 当前的，存在的  
+- praesse 在前，存在  
+- pre- 在前  
+- esse 存在
 ```

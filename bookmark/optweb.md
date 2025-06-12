@@ -5,6 +5,7 @@
 |Dev Encyclopedia;|https://devpedia.dev|
 |DevDocs|https://devdocs.io|
 |DownSub|https://downsub.com|
+|Dynamic Dummy Image Generator|[dummyimage](https://dummyimage.com)|
 |Emoji Keyboard Online|https://emojikeyboard.io|
 |Free OG Image Generator|https://ogimage.click|
 |Free Open Graph Generator|https://og.indiehub.best|
@@ -41,12 +42,15 @@
 |altium.js|https://gm-altium-js.vercel.app/altium_sch.html|
 |Anime Garden|https://gm-anime-garden.vercel.app|
 |ASCIIFlow|https://scillidan.github.io/asciiflow|
+|bfxr2|https://gm-bfxr2.vercel.app|
+|blamscamp editor|https://gm-blamscamp.vercel.app|
 |Calcutext|https://gm-calcutext.vercel.app|
 |CL Calc|https://gm-clcalc.vercel.app|
 |cnvrt|https://gm-cnvrt.vercel.app|
 |Codi.link|https://gm-codi-link.vercel.app|
 |CyberChef|https://scillidan.github.io/CyberChef|
 |Datasette Lite|https://scillidan.github.io/datasette-lite|
+|Deeplx Vercel|https://gm-deeplx-vercel.vercel.app|
 |diceRoller|https://gm-dice-roller.vercel.app|
 |drawDB|https://gm-drawdb.vercel.app/editor|
 |Ebook Reader|https://gm-ebook-reader.vercel.app/manage|
@@ -107,6 +111,7 @@
 |Signature Pad|https://gm-signature-pad.vercel.app|
 |sketch-to-lineart|https://gm-sketch-to-lineart.vercel.app|
 |sreadium|https://gm-sreadium.vercel.app|
+|Strike|https://gm-strike.vercel.app|
 |studio|https://gm-studio1.vercel.app|
 |github-search-rss|https://scillidan.github.io/github-search-rss|
 |SVGEdit|https://gm-svgedit.vercel.app|

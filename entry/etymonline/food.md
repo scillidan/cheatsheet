@@ -5,7 +5,18 @@ Middle English _foode_, _fode_, from Old English _foda_ "_food_, nourishment; fu
 _**_Food_ chain**_ is by 1915. _**_Food_ poisoning**_ attested by 1864; _**food processor**_ in the kitchen appliance sense from 1973; _**food stamp**_ (n.) is from 1962.
 
 ```md
-中英语 _foode_、_fode_ 来源于古英语 _foda_ (食物，滋养；燃料)，也具有比喻意义，源自原始日耳曼语 _\*fodon_ (其来源也包括瑞典语 _föda_、丹麦语 _föde_、哥特语 _fodeins_)，来自日耳曼语 _\*fod-_ (食物)，再进一步追溯到印欧语 _\*pat-_，为根[ \*pa-](https://www.etymonline.com/word/*pa- "Etymology, meaning and definition of *pa- ") “喂养”的扩展形式。
+名词 **food**（食物，营养，燃料，也有比喻义）来源于中古英语 _foode_、_fode_，继承自古英语 _foda_，意为“食物，营养，燃料”，其词义也用于比喻性表达。该词源自原始日耳曼语 _*fodon_，同时为瑞典语 _föda_、丹麦语 _föde_、哥特语 _fodeins_ 的词源，进一步源自日耳曼语 _*fod-_ “食物”，最终自原始印欧语 _*pat-_，这是词根 [*pa-](https://www.etymonline.com/word/*pa- "Etymology, meaning and definition of *pa-") “喂养”的延伸形式。
 
-**食物链** (food chain) 早在1915年就已出现。**食物中毒** (food poisoning) 的记录可以追溯到1864年；**食品加工机** (food processor) 在厨房电器的意义上从1973年开始使用；**食品券** (food stamp) (名词) 则起源于1962年。
+相关短语和复合词：  
+- **food chain**（食物链），首次见于1915年  
+- **food poisoning**（食物中毒），首次见于1864年  
+- **food processor**（食品加工机），家用电器意义起始于1973年  
+- **food stamp**（食品券），首次出现于1962年
+
+- food 食物  
+- foda 食物，营养  
+- fodon 食物（原始日耳曼语）  
+- fod 食物（日耳曼语）  
+- pat- 喂养（原始印欧语）  
+- pa- 喂养（词根）
 ```

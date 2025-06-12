@@ -15,19 +15,34 @@ The meaning "limitation, stipulation" (1888) is American English, in political j
 **_Strings_** "stringed instruments" is attested from mid-14c.; **_string-band_** "band composed of stringed instruments" is by 1889, American English. **_String bean_** is from 1759, probably so called for its fibrous threads; **_string bikini_** is by 1974, for the straps that hold the fabric together.
 
 ```md
-中英文 _streng_ (弦) 来自古英语 _streng_，意思是“线、细绳、粗线”，同时也指绳索，以及弓或竖琴的 _string_ (弦)，紧绷时能够发声；复数形式指“装备、索具”；同时指“血统、种族”。这个词来源于原始日耳曼语 _\*strangiz_（其源也包括古诺尔斯语 _strengr_，丹麦语 _streng_，中世纪荷兰语 _strenge_，荷兰语 _streng_，古高地德语 _strang_，德语 _Strang_ 意为“绳子、线”）。此词被重建为来自 _\*strang-_ (紧绷、硬，) 源于原始印欧语词根 _\*strenk-_ 意为“紧、窄”。
+名词 **string**，中古英语为 _streng_，源自古英语 _streng_，意为“线，细绳，粗线”，也指绳索，以及弓弦或竖琴弦，绷紧时可发声；其复数形式指“索具，装备绳索”；还有“血统，家族”之意。该词来自原始日耳曼语 _*strangiz_（见于古诺斯语 _strengr_、丹麦语 _streng_、中古低地德语 _strenge_、荷兰语 _streng_、古高地德语 _strang_ 以及德语 _Strang_，均意为“绳索，线”）。该词可追溯到 _*strang-_ “紧绷，坚硬”，进一步源自原始印欧语词根 _*strenk-_，意为“紧，窄”。
 
-这一意义在早期的中英语期间逐渐限制为比 _rope_ (绳) 更小的线。约在15世纪末，"一系列排列成某种文件或在 _string_ (线) 上的物体" 的意义被记录；而关于成功、灾难等的“连续系列或接连”则在1710年被提及。
+其含义在中古英语早期逐渐限定为比绳索更细的线。至15世纪末，出现“排列成列的多个物体或串连的物品”之义；1710年起，指“成功或灾难等的连续系列或连续发生”。
 
-古英语的“韧带、肌腱”意义保留在 [hamstring](https://www.etymonline.com/word/hamstring#etymonline_v_50997 "词源、含义及定义") (名词) 和 [heart-strings](https://www.etymonline.com/word/heart-strings "词源、含义及定义") 中。
+古英语中“韧带，肌腱”的含义保留于词汇 [hamstring](https://www.etymonline.com/word/hamstring#etymonline_v_50997 "Etymology, meaning and definition of hamstring") 和 [heart-strings](https://www.etymonline.com/word/heart-strings "Etymology, meaning and definition of heart-strings")。
 
-**_pull strings_** (牵动木偶) “控制事务的进程”（1860年）源于木偶剧院的形象。
+短语 **pull strings**（操纵事务进展）始见于1860年，源于木偶剧中的操线形象。
 
-“限制、约定”的含义（1888年）是美式英语中的政治行话，可能来自于当时流行的愚人节恶作剧，行为是将一只装满钱的口袋摆放在地上，等人弯腰捡起时，偷偷拉一根藏在暗处的 _string_ (绳) 将它拖走。因此，出现了比喻短语 **_no strings attached_**（无附加条件，约1951年），不过这可能与木偶线的概念混淆。
+含义为“限制，附加条件”出现于1888年的美式英语政治术语，可能源自当时常见的愚人节恶作剧：有人放下钱袋欲诱人拾起，实则利用藏在绳子上的机关将钱袋悄然拉走。由此引申出短语 **no strings attached**（无附加条件，1951年出现），但易与“木偶的操控线”混淆。
 
-**_First string_**（第一弦）、**_second string_**（第二弦）等在田径运动中出现于1863年，据称来自于弓箭手携带备用弦以备其他断裂的情况。短语 _have two strings to one's bow_（有备选资源）在1540年代的英语中也已经出现。
+体育术语中 **first string**、**second string** 等指主力队员和替补队员，始于1863年，据说源自弓箭手携带备用弦以备弦断；短语 **have two strings to one's bow**（有备用手段）在英语中出现于1540年代。
 
-**_Strings_**（弦乐器）在14世纪中期就有记载；**_string-band_**（弦乐团），是指由弦乐器组成的乐队，出现在1889年，美式英语中。**_String bean_**（扁豆）在1759年首次出现，可能因其纤维丝而得名；**_string bikini_**（细绳比基尼）首次出现在1974年，是由于支撑织物的细带。
+作为乐器，“strings”指弦乐器，中世纪14世纪中期开始出现；**string-band**（弦乐队）为1889年美式英语用词。**string bean**（绿豆荚）始见于1759年，因其纤维状筋络而得名；**string bikini**（细绳比基尼）始于1974年，因衣料由细绳系紧而得名。
+
+- string 线，细绳，弦  
+- streng 古英语细绳  
+- *strangiz 原始日耳曼语绳索  
+- *strang- 紧绷，坚硬  
+- *strenk- 紧，窄（原始印欧语根）  
+- hamstring 腿筋  
+- heart-strings 心弦，情感之弦  
+- pull strings 操控局势  
+- no strings attached 无附加条件  
+- first string 主力队员  
+- have two strings to one's bow 有备用手段  
+- string-band 弦乐队  
+- string bean 细豆荚  
+- string bikini 细绳比基尼
 ```
 
 ## string (v.)
@@ -37,7 +52,15 @@ c. 1400, "fit (a bow) with a _string_," from [_string_](https://www.etymonline.c
 To **__string_ (someone) along_** is slang attested by 1902 and is of uncertain origin. **__String__** (v.) in the sense "deceive" is attested in British dialect from c. 1812; perhaps the phrase is ultimately from the musical instrument sense and has a notion of "'tune' someone (for some purpose)." Related: _Stringed_ (later _strung_); _stringing_.
 
 ```md
-约1400年，意为“给（弓）装上 _string_ (弦)”，源于 [_string_](https://www.etymonline.com/word/string#etymonline_v_22182 "词源、含义及定义") (名词)。表示“在线上穿珠（等）”的含义出现在1610年代。提到乐器时，“配备弦”的意思始于1520年代（**_stringed instrument_** (弦乐器) 自约1600年起使用）。一般意义上的“以松散的线排列”则是出现在1824年。
+动词 **string** 约始于1400年，意为“给（弓）装上弦”，源自名词 [_string_](https://www.etymonline.com/word/string#etymonline_v_22182 "Etymology, meaning and definition of string")。“用线串联（如穿珠子等）”的意义出现于1610年代。指为乐器“装配弦线”的用法起于1520年代（**stringed instrument** “弦乐器”约始于1600年）。“松散地成行移动”的一般意义见于1824年。
 
-**__string_ (someone) along_**（欺骗某人）是俚语，首次记录于1902年，其起源不明。**__String__** (动词) 用于“欺骗”的意义在1812年左右的英式方言中就有记录；可能这个短语最终来源于乐器的意义，并传达了“为某种目的‘调动’某人”的概念。相关词： _Stringed_ (后来的 _strung_)；_stringing_ (装弦)。
+短语 **string (someone) along**，意为“愚弄某人，蒙骗某人”，为俚语，用于1902年文献，词源不详。英国方言中动词 **string** 也有“欺骗”之意，始见于约1812年；该用法或源自乐器的比喻义，意含“为某种目的调（某人）的音”。相关词形有 _stringed_（后来作 _strung_）和 _stringing_。
+
+- string 弦，装弦  
+- string (v.) 给…装弦，串联  
+- stringed 弦的  
+- strung （string的过去分词）  
+- stringing 装弦，穿线  
+- string (someone) along 愚弄某人  
+- stringed instrument 弦乐器
 ```

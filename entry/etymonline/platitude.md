@@ -6,8 +6,18 @@
 > A platitude is a thing the stating of which as though it were enlightening or needing to be stated convicts the speaker of dullness ; a platitude is never valuable. \[Fowler\]
 
 ```md
-1812年，“思维的迟钝，平淡无奇，陈腐”，源自法语 _platitude_ “平坦，乏味”（17世纪末），来自古法语 _plat_ “平坦”（参见 [plateau](https://www.etymonline.com/word/plateau#etymonline_v_16457 "Etymology, meaning and definition of plateau ")（名词））；其构成模仿了 _latitude_ 等词。“平坦、乏味、陈腐或平常的言论”，尤其是作为新鲜事物陈述的真理，自1815年被记录在案。相关词：_Platitudinous_（1862）。因此， _platitudinarian_（名词）“沉溺于陈腐言论的人”，出现于1855年；_platitudinize_（1867）。
+名词 **platitude**（平淡无味，缺乏思想的新颖性，陈词滥调）始于1812年，源自法语 _platitude_（17世纪晚期），意为“平坦，无味”，来源于古法语 _plat_，意为“平坦”（参见名词 [plateau](https://www.etymonline.com/word/plateau#etymonline_v_16457 "Etymology, meaning and definition of plateau") “高原”）；该词构成借鉴了 _latitude_（纬度）等词的形式。1815年出现“平淡、乏味、陈词滥调的言论”，尤指作为新奇之语而发表的显而易见的真理。相关词有 _platitudinous_（1862年，形容词，意为“陈腐乏味的”）。由此衍生的名词 _platitudinarian_（1855年，指经常说陈词滥调的人）；动词 _platitudinize_（1867年，意为“说陈词滥调”）。
 
-> 平常话是指某件事情，无论是真还是假，在特定场合下被如此频繁地说，以至于说它的人无法期待原创性得到认可；但平常话可能是有用的。  
-> 平淡（platitude）则是指以启发性或需要被陈述的方式表达某件事，这会使说话者显得迟钝；平淡是永远没有价值的。 \[Fowler\]
+引用：  
+“陈词滥调无论真伪，因在特定场合被频繁重复，重复者无需因原创性获得赞誉；但陈词滥调或许有其用处。  
+而平淡无味的言论，却因假装其有启发性或需要被指出而暴露说话者的乏味；平淡无味的言论永远无价值。”  —— 弗勒（Fowler）
+
+- platitude 陈词滥调，乏味  
+- platitude 法语平坦，无味  
+- plat 古法语平坦  
+- plateau 高原  
+- latitude 维度  
+- platitudinous 陈腐乏味的  
+- platitudinarian 说陈词滥调的人  
+- platitudinize 说陈词滥调
 ```
