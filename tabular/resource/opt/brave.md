@@ -77,7 +77,6 @@
 |brave|Inactive|[SF Explorer](https://info.sf-explorer.com)|
 |brave|Inactive|[simple-modify-headers](https://github.com/didierfred/SimpleModifyHeaders?tab=readme-ov-file)|
 |brave|Inactive|[Speechify — Text to Speech](https://speechify.com)|
-|brave|Inactive|[Wallabagger](https://github.com/wallabag/wallabagger)|
 
 ## Cache
 
@@ -180,6 +179,7 @@
 |brave|[Unclutter](https://github.com/lindylearn/unclutter)|
 |brave|[Vault Lens](https://github.com/jk-oster/obsidian-search-for-web)|
 |brave|[View Image](https://github.com/bijij/ViewImage)|
+|brave|[Wallabagger](https://github.com/wallabag/wallabagger)|
 |brave|[Wappalyzer](https://wappalyzer.com)|
 |brave|[Wikiwand](https://wikiwand.com)|
 |brave|[Window Resizer](https://coolx10.com/window-resizer)|

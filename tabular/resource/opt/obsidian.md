@@ -65,7 +65,6 @@
 |:-|:-|:-|
 |obsidian|live|[Citations](https://github.com/hans/obsidian-citation-plugin)|
 |obsidian|live|[Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration)|
-|obsidian|cheat|[Obsidian Wallabag Plugin](https://github.com/huseyz/obsidian-wallabag)|
 
 ## Cache
 
@@ -176,6 +175,7 @@
 |obsidian|[Obsidian Vault to Hugo Content](https://github.com/devidw/obsidian-to-hugo)|
 |obsidian|[Obsidian Venn Tags](https://github.com/MichaelMahlberg/obsidian-venn-tags)|
 |obsidian|[Obsidian Virtual Linker Plugin (Glossary Plugin)](https://github.com/vschroeter/obsidian-virtual-linker)|
+|obsidian|[Obsidian Wallabag Plugin](https://github.com/huseyz/obsidian-wallabag)|
 |obsidian|[Obsidian-Birthday-Tracker-Plugin](https://github.com/Raboro/Obsidian-Birthday-Tracker-Plugin)|
 |obsidian|[obsidian-continuous-mode](https://github.com/gasparschott/obsidian-continuous-mode)|
 |obsidian|[obsidian-pagescroll-plugin](https://github.com/chenshutian9610/obsidian-pagescroll-plugin)|

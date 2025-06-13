@@ -2,6 +2,7 @@
 
 |tag|link|
 |:-|:-|
+|sublime-text,editorconfig|[EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)|
 |sublime-text,edit|[AlignTab](https://github.com/randy3k/AlignTab)|
 |sublime-text,edit|[Calculate](https://github.com/colinta/SublimeCalculate)|
 |sublime-text,edit|[Data Wizard](https://github.com/nickklaskala/DataWizard)|
@@ -25,7 +26,19 @@
 |sublime-text,highlight|[Text Marker](https://github.com/Kronuz/TextMarker)|
 |sublime-text,keymap|[FindKeyConflicts](https://github.com/skuroda/FindKeyConflicts)|
 |sublime-text,keymap|[Keymaps](https://github.com/MiroHibler/sublime-keymaps)|
+|sublime-text,latex|[LaTeXTools](https://github.com/SublimeText/LaTeXTools)
 |sublime-text,link|[OpenUri](https://github.com/jfcherng-sublime/ST-OpenUri)|
+|sublime-text,lsp|[LSP-css](https://github.com/sublimelsp/LSP-css)|
+|sublime-text,lsp|[LSP-eslint](https://github.com/sublimelsp/LSP-eslint)|
+|sublime-text,lsp|[LSP-html](https://github.com/sublimelsp/LSP-html)|
+|sublime-text,lsp|[LSP-json](https://github.com/sublimelsp/LSP-json)|
+|sublime-text,lsp|[LSP-ltex-ls](https://github.com/sublimelsp/LSP-ltex-ls)|
+|sublime-text,lsp|[LSP-stylelint](https://github.com/sublimelsp/LSP-stylelint)|
+|sublime-text,lsp|[LSP-tailwindcss](https://github.com/sublimelsp/LSP-tailwindcss)|
+|sublime-text,lsp|[LSP-TexLab](https://github.com/sublimelsp/LSP-TexLab)|
+|sublime-text,lsp|[LSP-typescript](https://github.com/sublimelsp/LSP-typescript)|
+|sublime-text,lsp|[LSP-yaml](https://github.com/sublimelsp/LSP-yaml)|
+|sublime-text,lsp|[LSP](https://github.com/sublimelsp/LSP)|
 |sublime-text,search|[Simple Fuzzy](https://github.com/ukyouz/SublimeText-SimpleFuzzy)|
 |sublime-text,search|[StickySearch](https://github.com/vim-zz/StickySearch)|
 |sublime-text,syntax|[AutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey)|
@@ -45,28 +58,10 @@
 |sublime-text,view|[Show Unicode Name](https://github.com/ned-martin/sublime-text-show-unicode-name)|
 |sublime-text,window|[Origami](https://github.com/SublimeText/Origami)|
 |sublime-text|[CommandsBrowser](https://github.com/Sublime-Instincts/CommandsBrowser)|
+|sublime-text|[PackageDev](https://github.com/SublimeText/PackageDev)
 |sublime-text|[ScopeHunter](https://github.com/facelessuser/ScopeHunter/)|
 |sublime-text|[Terminal](https://github.com/wbond/sublime_terminal)|
-|sublime-text|[WakaTime](https://github.com/wakatime/sublime-wakatime)|
-|sublime-text,editorconfig|[EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)|
-
-## Later
-
-|tag|link|
-|:-|:-|
-|sublime-text|[LanguageTool](https://github.com/gtarawneh/languagetool-sublime)|
-|sublime-text,lsp|[LSP](https://github.com/sublimelsp/LSP)|
-|sublime-text,lsp|[LSP-html](https://github.com/sublimelsp/LSP-html)|
-|sublime-text,lsp|[LSP-css](https://github.com/sublimelsp/LSP-css)|
-|sublime-text,lsp|[LSP-eslint](https://github.com/sublimelsp/LSP-eslint)|
-|sublime-text,lsp|[LSP-typescript](https://github.com/sublimelsp/LSP-typescript)|
-|sublime-text,lsp|[LSP-stylelint](https://github.com/sublimelsp/LSP-stylelint)|
-|sublime-text,lsp|[LSP-tailwindcss](https://github.com/sublimelsp/LSP-tailwindcss)|
-|sublime-text,lsp|[LSP-json](https://github.com/sublimelsp/LSP-json)|
-|sublime-text,lsp|[LSP-yaml](https://github.com/sublimelsp/LSP-yaml)|
-|sublime-text,lsp|[LSP-TexLab](https://github.com/sublimelsp/LSP-TexLab)|
-|sublime-text,lsp|[LSP-ltex-ls](https://github.com/sublimelsp/LSP-ltex-ls)|
-|sublime-text,latex|[LaTeXTools](https://github.com/SublimeText/LaTeXTools)|
+|sublime-text|[WakaTime](https://github.com/wakatime/sublime-wakatime)||
 
 ## Cache
 
@@ -120,6 +115,7 @@
 |sublime-text,lint|[Autoprefixer](https://github.com/sindresorhus/sublime-autoprefixer)|
 |sublime-text,lint|[Dictionaries for Sublime Text](https://github.com/titoBouzout/Dictionaries)|
 |sublime-text,lint|[ESLint](https://github.com/polygonplanet/sublime-text-eslint)|
+|sublime-text,lint|[LanguageTool](https://github.com/gtarawneh/languagetool-sublime)|
 |sublime-text,lint|[Linter-contrib-markdownlint](https://github.com/patrickrgaffney/SublimeLinter-contrib-staticcheck)|
 |sublime-text,lint|[SblimeLinter-contrib-write-good](https://github.com/ckaznocha/SublimeLinter-contrib-write-good)|
 |sublime-text,lint|[SublimeLint-contrib-LanguageTool](https://github.com/GiovanH/sublimelint-contrib-languagetool)|

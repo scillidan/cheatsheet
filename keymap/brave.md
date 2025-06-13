@@ -7,7 +7,6 @@
 |Brave|pinned|Scramble|
 |Brave|pinned|AI Grammar Checker & Paraphraser – LanguageTool|
 |Brave|pinned|Yomitan Popup Dictionary|
-|Brave|pinned|Wallabagger|
 |Brave|pinned|Read Later|
 |Brave|pinned|Violentmonkey|
 |Brave|pinned|uBlock Origin|

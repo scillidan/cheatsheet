@@ -2,35 +2,29 @@
 
 |tag|link|
 |:-|:-|
-|linux,zsh,plugin-manager|[zinit](https://github.com/zdharma-continuum/zinit)|
-|linux,zsh|[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)|
-|linux,zsh|[zsh-completions](https://github.com/zsh-users/zsh-completions)|
-|linux,zsh|[fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting)|
-|linux,zsh|[zsh-history-on-success](https://github.com/nyoungstudios/zsh-history-on-success)|
 |linux,zsh,chezmoi|[zsh-chezmoi](https://github.com/mass8326/zsh-chezmoi)|
 |linux,zsh,exa|[Zsh exa](https://github.com/zplugin/zsh-exa)|
 |linux,zsh,fzf|[fzf-tab](https://github.com/Aloxaf/fzf-tab)|
+|linux,zsh,git|[forgit](https://github.com/wfxr/forgit)|
+|linux,zsh,jump|[Zsh-z](https://github.com/agkozak/zsh-z)|
+|linux,zsh,plugin-manager|[zinit](https://github.com/zdharma-continuum/zinit)|
 |linux,zsh,theme|[minimal](https://github.com/subnixr/minimal)|
+|linux,zsh|[fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting)|
+|linux,zsh|[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)|
+|linux,zsh|[zsh-completions](https://github.com/zsh-users/zsh-completions)|
 |linux,zsh|[zsh-help](https://github.com/Freed-Wu/zsh-help)|
+|linux,zsh|[zsh-history-on-success](https://github.com/nyoungstudios/zsh-history-on-success)|
 |linux,zsh|[zsh-proxy](https://github.com/SukkaW/zsh-proxy)|
-|linux,zsh|[zsh-touchplus](https://github.com/raisedadead/zsh-touchplus)|
 |linux,zsh|[zsh-smart-insert](https://github.com/lgdevlop/zsh-smart-insert)|
 |linux,zsh|[zsh-snr](https://github.com/raisedadead/zsh-snr)|
-
-## Later
-
-|tag|link|
-|:-|:-|
-|linux,zsh,backup|[Zsnapshot](https://github.com/zdharma-continuum/zsnapshot)|
-|linux,zsh,git|[forgit](https://github.com/wfxr/forgit)|
-|linux,zsh,git|[ugit](https://github.com/Bhupesh-V/ugit)|
-|linux,zsh,ssh|[zsh-ssh](https://github.com/sunlei/zsh-ssh)|
+|linux,zsh|[zsh-touchplus](https://github.com/raisedadead/zsh-touchplus)|
 
 ## Cache
 
 |tag|link|
 |:-|:-|
 |linux,zsh,backup|[zshrc-sync](https://github.com/Skylor-Tang/zshrc-sync)|
+|linux,zsh,backup|[Zsnapshot](https://github.com/zdharma-continuum/zsnapshot)|
 |linux,zsh,banner|[zsh-banner](https://github.com/drkhsh/zsh-banner)|
 |linux,zsh,calculator|[Simple zsh calculator](https://github.com/arzzen/calc.plugin.zsh)|
 |linux,zsh,cd|[cdh](https://github.com/johncassol/cdh)|
@@ -59,7 +53,7 @@
 |linux,zsh,highlight|[zsh-url-highlighter](https://github.com/ascii-soup/zsh-url-highlighter)|
 |linux,zsh,history|[history-search-multi-word - zsh plugin](https://github.com/zdharma-continuum/history-search-multi-word)|
 |linux,zsh,jump|[fzf-z](https://github.com/andrewferrier/fzf-z)|
-|linux,zsh,jump|[Zsh-z](https://github.com/agkozak/zsh-z)|
+|linux,zsh,jump|[wd](https://github.com/mfaerevaag/wd)|
 |linux,zsh,ls|[zsh-lsd](https://github.com/wintermi/zsh-lsd)|
 |linux,zsh,manage|[zplug](https://github.com/zplug/zplug)|
 |linux,zsh,manage|[zsh_unplugged](https://github.com/mattmc3/zsh_unplugged)|
@@ -75,6 +69,7 @@
 |linux,zsh,skim|[zsh-git-switch-branch-skim](https://github.com/okhiroyuki/zsh-git-switch-branch-skim)|
 |linux,zsh,skim|[zsh-select-history-skim](https://github.com/okhiroyuki/zsh-select-history-skim)|
 |linux,zsh,ssh|[zsh-ssh-agent](https://github.com/twfksh/zsh-ssh-agent)|
+|linux,zsh,ssh|[zsh-ssh](https://github.com/sunlei/zsh-ssh)|
 |linux,zsh,start|[auto-fortune-cowsay-zsh](https://github.com/babasbot/auto-fortune-cowsay-zsh)|
 |linux,zsh,start|[zsh-async](https://github.com/mafredri/zsh-async)|
 |linux,zsh,theme|[alien-minimal](https://github.com/eendroroy/alien-minimal)|
@@ -86,7 +81,9 @@
 |linux,zsh,web,search|[ZSH Web Search](https://github.com/GowayLee/zsh_web_search)|
 |linux,zsh,zellij|[Zsh plugin for Zellij](https://codeberg.org/tranzystorekk/zellij.zsh)|
 |linux,zsh,zsh|[zsh-auto-source-file](https://github.com/maximux13/zsh-auto-source-file)|
-|linux,zsh|[org-hopper](https://github.com/hjdarnel/org-hopper)
+|linux,zsh|[org-hopper](https://github.com/hjdarnel/org-hopper)|
 |linux,zsh|[Pycalc Oh My Zsh Plugin](https://github.com/alalik/pycalc)|
-|linux,zsh|[Smart Files Plugin for Zsh](https://github.com/vxfemboy/zsh-smart-files)
+|linux,zsh|[Smart Files Plugin for Zsh](https://github.com/vxfemboy/zsh-smart-files)|
+|linux,zsh|[zenquotes](https://github.com/Dhaiwat10/zenquotes)|
 |linux,zsh|[zsh-journal](https://github.com/onurhanak/zsh-journal)|
+|linux,zsh|[zsh-warrior)](https://github.com/OfferPi/zsh-warrior)|

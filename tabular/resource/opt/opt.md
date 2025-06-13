@@ -173,17 +173,13 @@
 |linux,opt,windows|[Bottles](https://github.com/bottlesdevs/Bottles)|
 |linux,opt|[Loopers](https://github.com/mwylde/loopers)|
 |opt,3d|[Blender](https://github.com/blender/blender)|
-|opt,adb|[AYA](https://github.com/liriliri/aya)|
 |opt,graphic|[FreeCAD](https://github.com/FreeCAD/FreeCAD)|
 |opt,graphic|[Inkscape](https://inkscape.org)|
 |opt,graphic|[Krita](https://github.com/KDE/krita)|
 |opt,pcb|[KiCad](https://gitlab.com/kicad/code/kicad)|
 |opt,pcb|[LibrePCB](https://github.com/LibrePCB/LibrePCB)|
-|opt,snapshot|[Kopia](https://github.com/kopia/kopia)|
-|opt,sync|[Unison](https://github.com/bcpierce00/unison)|
 |opt,video|[Shotcut](https://github.com/mltframework/shotcut)|
 |windows10,opt,pdf|[WinScan2PDF](https://softwareok.com/?seite=Microsoft/WinScan2PDF)|
-|windows10,opt|[OpenArk](https://openark.blackint3.com)|
 
 ## Cache
 
@@ -220,6 +216,7 @@
 |linux,opt|[Asteria](https://github.com/alamahant/Asteria)|
 |linux,opt|[Cave Story NX](https://gitlab.com/coringao/cavestory-nx)|
 |opt,adb|[scrcpy](https://github.com/Genymobile/scrcpy)|
+|opt,adb|[AYA](https://github.com/liriliri/aya)|
 |opt,audio|[AIMP](https://aimp.ru)|
 |opt,audio|[AudioRelay](https://audiorelay.net)|
 |opt,audio|[Exaile](https://github.com/exaile/exaile)|
@@ -418,6 +415,7 @@
 |opt,rss|[Follow](https://github.com/RSSNext/Follow)|
 |opt,scrape|[HTTrack](https://httrack.com)|
 |opt,search|[Semantra](https://github.com/freedmand/semantra)|
+|opt,snapshot|[Kopia](https://github.com/kopia/kopia)|
 |opt,share|[Bananas Screen Sharing](https://github.com/mistweaverco/bananas)|
 |opt,sharing|[Barrier](https://github.com/debauchee/barrier)|
 |opt,snippet|[Pieces](https://pieces.app)|
@@ -433,6 +431,7 @@
 |opt,stream|[Streamlink Twitch GUI](https://github.com/streamlink/streamlink-twitch-gui)|
 |opt,subtitle|[Aegisub](https://github.com/arch1t3cht/Aegisub)|
 |opt,subtitle|[字幕共享计划](https://github.com/foxofice/sub_share)|
+|opt,sync|[Unison](https://github.com/bcpierce00/unison)|
 |opt,tabular|[Tad](https://github.com/antonycourtney/tad)|
 |opt,terminal|[Tabby](https://github.com/Eugeny/tabby)|
 |opt,terminal|[Wave Terminal](https://github.com/wavetermdev/waveterm)|
@@ -609,6 +608,7 @@
 |windows10,opt|[NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector)|
 |windows10,opt|[ONScripter_Multi_Converter](https://github.com/Prince-of-sea/ONScripter_Multi_Converter)|
 |windows10,opt|[Open Hardware Monitor](https://openhardwaremonitor.org)|
+|windows10,opt|[OpenArk](https://openark.blackint3.com)|
 |windows10,opt|[Playnite](https://github.com/JosefNemec/Playnite)|
 |windows10,opt|[Process Hacker](https://processhacker.sourceforge.io)|
 |windows10,opt|[Quick Color Picker](https://github.com/ModuleArt/quick-color-picker)|

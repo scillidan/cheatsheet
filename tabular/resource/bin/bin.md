@@ -41,6 +41,7 @@
 |bin,git|[Git](https://git-scm.com)|
 |bin,git|[gptcommit](https://github.com/zurawiki/gptcommit)|
 |bin,git|[mgitstatus](https://github.com/fboender/multi-git-status)|
+|bin,git|[ugit](https://github.com/Bhupesh-V/ugit)|
 |bin,grep|[ripgrep](https://github.com/BurntSushi/ripgrep)|
 |bin,grep|[sig](https://github.com/ynqa/sig)|
 |bin,hash|[Gethash](https://github.com/xymy/gethash)|
@@ -108,7 +109,6 @@
 
 |tag|link|
 |:-|:-|
-|bin,cheat|[kb](https://github.com/gnebbia/kb)|
 |bin,database|[sq](https://github.com/neilotoole/sq)|
 |bin,database|[trdsql](https://github.com/noborus/trdsql)|
 |bin,data|[Mille](https://github.com/johnkerl/miller)|
@@ -162,6 +162,7 @@
 |bin,cat|[ccat](https://github.com/owenthereal/ccat)|
 |bin,cat|[gat](https://github.com/koki-develop/gat)|
 |bin,cat|[treecat](https://github.com/Knio/treecat)|
+|bin,cheat|[kb](https://github.com/gnebbia/kb)|
 |bin,cheat|[navi](https://github.com/denisidoro/navi)|
 |bin,clipboard|[pastejpeg](https://github.com/foone/pastejpeg)|
 |bin,cli|[Himalaya](https://github.com/pimalaya/himalaya)|

@@ -10,6 +10,7 @@
 |neovim,bracket|[Auto Pairs](https://github.com/LunarWatcher/auto-pairs)|
 |neovim,colorcheme|[Tokyo Night](https://github.com/folke/tokyonight.nvim)|
 |neovim,comment|[nvim-hemingway](https://github.com/javiorfo/nvim-hemingway)|
+|neovim,complete|[Blink Completion (blink.cmp)](https://github.com/Saghen/blink.cmp)|
 |neovim,console|[flow.nvim](https://github.com/arjunmahishi/flow.nvim)|
 |neovim,console|[telescope-cmdline.nvim](https://github.com/jonarrien/telescope-cmdline.nvim)|
 |neovim,console|[toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)|
@@ -27,6 +28,7 @@
 |neovim,editor|[truncateline.nvim](https://github.com/rlychrisg/truncateline.nvim)|
 |neovim,edit|[move-lines.nvim](https://github.com/kobbikobb/move-lines.nvim)|
 |neovim,edit|[vim-sandwich](https://github.com/machakann/vim-sandwich)|
+|neovim,explorer|[oil.nvim](https://github.com/stevearc/oil.nvim)|
 |neovim,feed|[feed.nvim](https://github.com/neo451/feed.nvim)|
 |neovim,file|[telescope-file-browser.nvim](https://github.com/simonmclean/triptych.nvim)|
 |neovim,format|[stylua-nvim](https://github.com/ckipp01/stylua-nvim)|
@@ -54,6 +56,7 @@
 |neovim,move|[Beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim)|
 |neovim,move|[Treewalker.nvim](https://github.com/aaronik/Treewalker.nvim)|
 |neovim,navigate|[Goto Preview](https://github.com/rmagatti/goto-preview)|
+|neovim,obsidian|[obsidian.nvim](https://github.com/epwalsh/obsidian.nvim)|
 |neovim,pdf|[Markdown to PDF](https://github.com/arminveres/md-pdf.nvim)|
 |neovim,proj|[Neovim project manager plugin](https://github.com/coffebar/neovim-project)|
 |neovim,python|[py-requirements.nvim](https://github.com/MeanderingProgrammer/py-requirements.nvim)|
@@ -73,13 +76,6 @@
 |neovim,telescope|[telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)|
 |neovim,template|[templatory.nvim](https://github.com/dheerajshenoy/templatory.nvim)|
 |neovim,translate|[translate.nvim](https://github.com/uga-rosa/translate.nvim)|
-
-## Later
-
-|tag|link|
-|:-|:-|
-|neovim,complete|[Blink Completion (blink.cmp)](https://github.com/Saghen/blink.cmp)|
-|neovim,obsidian|[obsidian.nvim](https://github.com/epwalsh/obsidian.nvim)|
 
 ## Cache
 

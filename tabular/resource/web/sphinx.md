@@ -12,6 +12,12 @@
 |sphinx|[sphinxcontrib-video](https://github.com/sphinx-contrib/video)|
 |sphinx|[sphinxext-photofinish](https://github.com/wpilibsuite/sphinxext-photofinish)|
 
+## Later
+
+|tag|link|
+|:-|:-|
+|sphinx|[Y2-Software-Engineering-Project](https://github.com/dundd2/Y2-Software-Engineering-Project)|
+
 ## Cache
 
 |tag|link|
@@ -35,3 +41,5 @@
 |sphinx|[sphinxcontrib.external-links](https://github.com/finleyfamily/sphinxcontrib.external-links)|
 |sphinx|[Sphinx Substitution Extensions](https://github.com/adamtheturtle/sphinx-substitution-extensions)|
 |sphinx|[DOCtor-RST](https://github.com/OskarStark/doctor-rst)|
+|sphinx|[sphinx-automodapi](https://github.com/astropy/sphinx-automodapi)|
+|sphinx|[doc8](https://github.com/PyCQA/doc8)|

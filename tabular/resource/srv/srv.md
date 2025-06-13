@@ -16,18 +16,15 @@
 |:-|:-|
 |srv,github-action,markdown|[Markdown autodocs](https://github.com/dineshsonachalam/markdown-autodocs)|
 |srv,github-action|[Howto Deploy LaTeX Documents](https://github.com/SimonWaldherr/HowTo-Deploy-LaTeX-Documents)|
-|srv,latex|[VS Code LaTeX Devcontainer](https://github.com/a-nau/latex-devcontainer)|
-|srv,lsp,reason|[Reason Language Server](https://github.com/jaredly/reason-language-server)|
-|srv,read-later|[wallabag](https://github.com/wallabag/wallabag)|
 |srv,sync|[Resilio-sync](https://github.com/linuxserver/docker-resilio-sync)|
 |srv,sync|[Syncthing](https://github.com/linuxserver/docker-syncthing)|
-|srv,yomitan|[Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)|
-|srv,yomitan|[yomichan_audio_server](https://github.com/aramrw/yomichan_audio_server)|
 
 ## Extra
 
 |tag|link|
 |:-|:-|
+|srv,github-action|[configure-pages](https://github.com/actions/configure-pages)|
+|srv,github-action|[deploy-pages](https://github.com/actions/deploy-pages)|
 |srv,github-action|[GitLab Sync - GitHub Action](https://github.com/kujov/gitlab-sync)|
 |srv,github-action|[Torrent Webseed Creator](https://github.com/AnimMouse/torrent-webseed-creator)|
 |srv,jackett|[jackett.md](https://gist.github.com/wilmardo/cffb41d694edd069c28d585d2e20e0fc)|
@@ -120,7 +117,9 @@
 |srv,kubernete|[K9s](https://github.com/derailed/k9s)|
 |srv,kubernete|[Viddy](https://github.com/sachaos/viddy)|
 |srv,lan|[Network scanner & notification framework](https://github.com/jokob-sk/NetAlertX)|
+|srv,latex|[VS Code LaTeX Devcontainer](https://github.com/a-nau/latex-devcontainer)|
 |srv,linkding,singlefile|[Linkding Archiver](https://github.com/sebw/linkding-archiver)|
+|srv,lsp,reason|[Reason Language Server](https://github.com/jaredly/reason-language-server)|
 |srv,lyric|[Song Database](https://github.com/mathisdt/sdb2)|
 |srv,mail|[Maddy Mail Server](https://github.com/foxcpp/maddy)|
 |srv,mail|[Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox)|
@@ -157,6 +156,7 @@
 |srv,prod|[PostHog](https://github.com/PostHog/posthog)|
 |srv,qa|[Answer](https://github.com/apache/incubator-answer)|
 |srv,read-later|[Omnivore](https://github.com/omnivore-app/omnivore)|
+|srv,read-later|[wallabag](https://github.com/wallabag/wallabag)|
 |srv,retroarch|[RetroArch asset server](https://github.com/NickHeap2/retroarch-asset-server)|
 |srv,rpi|[Pi-hole](https://github.com/pi-hole/pi-hole)|
 |srv,search|[Manticore Search](https://manticoresearch.com)|
@@ -189,6 +189,8 @@
 |srv,webdav|[webdav](https://github.com/hacdias/webdav)|
 |srv,wireles|[Unifi-network-application](https://github.com/linuxserver/docker-unifi-network-application)|
 |srv,write|[HedgeDoc](https://github.com/linuxserver/docker-hedgedoc)|
+|srv,yomitan|[Local Audio Server for Yomichan](https://github.com/themoeway/local-audio-yomichan)|
+|srv,yomitan|[yomichan_audio_server](https://github.com/aramrw/yomichan_audio_server)|
 
 ## Cancel
 
