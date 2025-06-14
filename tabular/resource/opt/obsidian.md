@@ -228,3 +228,7 @@
 |obsidian|[Wheel Tab Switcher](https://github.com/22-2/wheel-tab-switcher)|
 |obsidian|[ZettleFlow](https://github.com/RafaelGB/Obsidian-ZettlelFlow)|
 |obsidian|[Zoom](https://github.com/vslinko/obsidian-zoom)|
+|obsidian|[Vim Marker Sharpener](https://github.com/artemDvoryadkin/obsidian-vim-marker-sharpener)|
+|obsidian|[Template Filename](https://github.com/callumalpass/obsidian-template-filename)|
+|obsidian|[Macros Plugin for Obsidian](https://github.com/JamesCliffordSpratt/macros)|
+|obsidian|[Timelive Plugin](https://github.com/aNNiMON/obsidian-timelive)|

@@ -8,6 +8,7 @@
 |sublime-text,edit|[Data Wizard](https://github.com/nickklaskala/DataWizard)|
 |sublime-text,edit|[DeleteBlankLines](https://github.com/NicholasBuse/sublime_DeleteBlankLines)|
 |sublime-text,edit|[EditorConfig](https://github.com/sindresorhus/editorconfig-sublime)|
+|sublime-text,edit|[Inc-Dec-Value](https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value)|
 |sublime-text,edit|[Insert Nums](https://github.com/jbrooksuk/InsertNums)|
 |sublime-text,edit|[SortBy](https://github.com/Doi9t/SortBy)|
 |sublime-text,edit|[TrailingSpaces](https://github.com/SublimeText/TrailingSpaces)|
@@ -47,6 +48,8 @@
 |sublime-text,syntax|[Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)|
 |sublime-text,syntax|[MarLant](https://github.com/retifrav/marlant)|
 |sublime-text,syntax|[MDX](https://github.com/SublimeText/MDX)|
+|sublime-text,syntax|[Pretty Lua](https://github.com/aerobounce/Sublime-Pretty-Lua)|
+|sublime-text,syntax|[Pretty JSON](https://github.com/dzhibas/SublimePrettyJson)|
 |sublime-text,syntax|[rainbow_csv](https://github.com/mechatroner/sublime_rainbow_csv)|
 |sublime-text,syntax|[reStructuredText Improved](https://github.com/adamchainz/sublime-rst-improved)|
 |sublime-text,ui|[A File Icon](https://github.com/SublimeText/AFileIcon)|
@@ -58,10 +61,11 @@
 |sublime-text,view|[Show Unicode Name](https://github.com/ned-martin/sublime-text-show-unicode-name)|
 |sublime-text,window|[Origami](https://github.com/SublimeText/Origami)|
 |sublime-text|[CommandsBrowser](https://github.com/Sublime-Instincts/CommandsBrowser)|
+|sublime-text|[Fmt](https://github.com/mitranim/sublime-fmt)|
 |sublime-text|[PackageDev](https://github.com/SublimeText/PackageDev)
 |sublime-text|[ScopeHunter](https://github.com/facelessuser/ScopeHunter/)|
 |sublime-text|[Terminal](https://github.com/wbond/sublime_terminal)|
-|sublime-text|[WakaTime](https://github.com/wakatime/sublime-wakatime)||
+|sublime-text|[WakaTime](https://github.com/wakatime/sublime-wakatime)|
 
 ## Cache
 
@@ -130,7 +134,6 @@
 |sublime-text,lsp|[PyRock](https://github.com/abhishek72850/pyrock)|
 |sublime-text,lsp|[PYTHON TOOLS](https://github.com/ginanjarn/pythontools)|
 |sublime-text,lsp|[quick-lint-js](https://github.com/quick-lint/quick-lint-js)|
-|sublime-text,lsp|[Reason](https://github.com/reasonml-editor/sublime-reason)|
 |sublime-text,lsp|[StyleLint-Formatter](https://github.com/LetsZiggy/StyleLint-Formatter)|
 |sublime-text,lsp|[Tabnine](https://tabnine.com)|
 |sublime-text,quarto|[Quarto](https://github.com/quarto-dev/quarto-sublime)|
@@ -149,7 +152,6 @@
 |sublime-text,syntax|[chuck](https://chuck.stanford.edu)|
 |sublime-text,syntax|[hum](https://github.com/crbulakites/hum)|
 |sublime-text,syntax|[MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing)|
-|sublime-text,syntax|[Pretty Lua](https://github.com/aerobounce/Sublime-Pretty-Lua)|
 |sublime-text,syntax|[StyLua](https://github.com/JohnnyMorganz/StyLua)|
 |sublime-text,syntax|[SVG Viewer](https://github.com/YariKartoshe4ka/sublime-svg-viewer)|
 |sublime-text,terminal|[Terminus](https://github.com/randy3k/Terminus)|

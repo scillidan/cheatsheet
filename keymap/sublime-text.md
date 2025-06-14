@@ -15,24 +15,25 @@
 
 ## [[resource/opt/sublime-text|Package]] shortcut
 
-|opt|package|shortcut|comment|
+|opt|package|comment|shortcut|
 |:-|:-|:-|:-|
-|Sublime Text|InsertNums|C-S-a-n, `1:1~02`|For example|
-|Sublime Text|Origami|C-k, C-Up/Down/Left/Right|Create Pane|
-|Sublime Text|Origami|C-k, C-S-Up/Down/Left/Right|Destroy Pane|
-|Sublime Text|Simple Fuzzy|C-k, C-p|Search Project|
-|Sublime Text|StickySearch|C-A-8|Clear all highlight|
-|Sublime Text|StickySearch|C-S-8|Highlight more text|
-|Sublime Text|Text Marker|A-Spc|Toggle Select Highlight|
-|Sublime Text|UnicodeMath|\\|Insert Unicode|
+|Sublime Text|InsertNums|For example|C-S-a-n, `1:1~02`|
+|Sublime Text|Inc-Dec-Value|increases 1|A-Up|
+|Sublime Text|Inc-Dec-Value|decreases -1|A-Down|
+|Sublime Text|Origami|Create Pane|C-k, C-Up/Down/Left/Right|
+|Sublime Text|Origami|Destroy Pane|C-k, C-S-Up/Down/Left/Right|
+|Sublime Text|Simple Fuzzy|Search Project|C-k, C-p|
+|Sublime Text|StickySearch|Clear all highlight|C-A-8|
+|Sublime Text|StickySearch|Highlight more text|C-S-8|
+|Sublime Text|Text Marker|Toggle Select Highlight|A-Spc|
 
 ## Key binding
 
 |opt|package|command|key_binding|
 |:-|:-|:-|:-|
+|Sublime Text|/|toggle_in_selection|A-f|
 |Sublime Text|Data Wizard|datawizardjustifycolumns|A-\\|
 |Sublime Text|Data Wizard|datawizardcollapsecolumns|A-S-\\|
-
 
 ## Command palette
 
@@ -45,6 +46,8 @@
 |Sublime Text|FilterPipes|FilterPipes|
 |Sublime Text|FindCursor|Find Cursor|
 |Sublime Text|FindKeyConflicts|FindKeyConflicts: All Conflicts|
+|Sublime Text|Fmt|Format Buffer|
+|Sublime Text|Fmt|Format Selection|
 |Sublime Text|Keymaps|Keymaps: Cheat Sheet|
 |Sublime Text|PackagesUI|Packages UI|
 |Sublime Text|ScopeHunter|Scope Hunter: Toggle Instant Scoper|

@@ -43,3 +43,6 @@
 |sphinx|[DOCtor-RST](https://github.com/OskarStark/doctor-rst)|
 |sphinx|[sphinx-automodapi](https://github.com/astropy/sphinx-automodapi)|
 |sphinx|[doc8](https://github.com/PyCQA/doc8)|
+|sphinx|[sphinxnotes-project](https://github.com/sphinx-notes/project)|
+|sphinx|[SPHinXsys](https://github.com/Xiangyu-Hu/SPHinXsys)|
+|sphinx|[sphinx-gha](https://github.com/drewcassidy/sphinx-gha)|

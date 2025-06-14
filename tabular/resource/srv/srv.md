@@ -14,7 +14,6 @@
 
 |tag|link|
 |:-|:-|
-|srv,github-action,markdown|[Markdown autodocs](https://github.com/dineshsonachalam/markdown-autodocs)|
 |srv,github-action|[Howto Deploy LaTeX Documents](https://github.com/SimonWaldherr/HowTo-Deploy-LaTeX-Documents)|
 |srv,sync|[Resilio-sync](https://github.com/linuxserver/docker-resilio-sync)|
 |srv,sync|[Syncthing](https://github.com/linuxserver/docker-syncthing)|
@@ -97,7 +96,9 @@
 |srv,gist|[Drift](https://github.com/MaxLeiter/Drift)|
 |srv,gist|[Opengist](https://github.com/thomiceli/opengist)|
 |srv,github-action,pdf|[Markdown to PDF](https://github.com/BaileyJM02/markdown-to-pdf)|
+|srv,github-action|[Markdown autodocs](https://github.com/dineshsonachalam/markdown-autodocs)|
 |srv,github-action|[Tencent Cloud COS and CDN action](https://github.com/sylingd/tencent-cos-and-cdn-action)|
+|srv,github-action|[Generating PDF Documents with Quarto, LaTeX, and GitHub Actions](https://github.com/SimonWaldherr/BookTemplate)|
 |srv,git|[git-sync](https://github.com/kubernetes/git-sync)|
 |srv,git|[Gogs](https://github.com/gogs/gogs)|
 |srv,home-assistant|[Home Assistant](https://github.com/home-assistant/core)|

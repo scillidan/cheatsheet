@@ -10,7 +10,6 @@
 |neovim,bracket|[Auto Pairs](https://github.com/LunarWatcher/auto-pairs)|
 |neovim,colorcheme|[Tokyo Night](https://github.com/folke/tokyonight.nvim)|
 |neovim,comment|[nvim-hemingway](https://github.com/javiorfo/nvim-hemingway)|
-|neovim,complete|[Blink Completion (blink.cmp)](https://github.com/Saghen/blink.cmp)|
 |neovim,console|[flow.nvim](https://github.com/arjunmahishi/flow.nvim)|
 |neovim,console|[telescope-cmdline.nvim](https://github.com/jonarrien/telescope-cmdline.nvim)|
 |neovim,console|[toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)|
@@ -50,8 +49,15 @@
 |neovim,lazy|[lazy.nvim](https://github.com/folke/lazy.nvim)|
 |neovim,lazy|[lazydev.nvim](https://github.com/folke/lazydev.nvim)|
 |neovim,lazy|[telescope-lazy.nvim](https://github.com/tsakirist/telescope-lazy.nvim)|
-|neovim,lsp,manage|[mason.nvim](https://github.com/williamboman/mason.nvim)|
-|neovim,lsp|[rime-ls](https://github.com/wlh320/rime-ls)|
+|neovim,lsp,mason|[mason.nvim](https://github.com/williamboman/mason.nvim)|
+|neovim,lsp,mason|[conform.nvim](https://github.com/stevearc/conform.nvim)|
+|neovim,lsp,mason|[mason-conform.nvim](https://github.com/zapling/mason-conform.nvim)|
+|neovim,lsp,mason|[nvim-lint](https://github.com/mfussenegger/nvim-lint)|
+|neovim,lsp,mason|[mason-nvim-lint](https://github.com/rshkarin/mason-nvim-lint)|
+|neovim,lsp|[Blink Completion (blink.cmp)](https://github.com/Saghen/blink.cmp)|
+|neovim,lsp|[blink.compat](https://github.com/Saghen/blink.compat)|
+|neovim,lsp|[lsp-setup.nvim](https://github.com/junnplus/lsp-setup.nvim)|
+|neovim,lsp|[wezterm-types](https://github.com/justinsgithub/wezterm-types)|
 |neovim,manage|[vim-plug](https://github.com/junegunn/vim-plug)|
 |neovim,move|[Beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim)|
 |neovim,move|[Treewalker.nvim](https://github.com/aaronik/Treewalker.nvim)|
@@ -76,11 +82,14 @@
 |neovim,telescope|[telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)|
 |neovim,template|[templatory.nvim](https://github.com/dheerajshenoy/templatory.nvim)|
 |neovim,translate|[translate.nvim](https://github.com/uga-rosa/translate.nvim)|
+|neovim|[indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)|
+|NeoVim|[visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim)
 
 ## Cache
 
 |tag|link|
 |:-|:-|
+|neovim,lsp|[rime-ls](https://github.com/wlh320/rime-ls)|
 |neovim,ai|[Aider Plugin for Neovim](https://github.com/joshuavial/aider.nvim)|
 |neovim,ai|[ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim)|
 |neovim,ai|[CodeCompanion](https://github.com/olimorris/codecompanion.nvim)|

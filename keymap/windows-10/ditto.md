@@ -1,3 +1,3 @@
 |opt|command|shortcut|
 |:-|:-|:-|
-|Ditto|Activate|C-d|
+|Ditto|Activate|A-d|

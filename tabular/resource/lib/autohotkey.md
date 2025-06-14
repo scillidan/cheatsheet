@@ -4,7 +4,6 @@
 |:-|:-|
 |autohotkey,control|[AutoHotkey Keyboard Locker](https://github.com/sophice/ahk-keyboard-locker)|
 |autohotkey,control|[Toggle screen autohotkey](https://github.com/ArturTkaczuk/toggle-screen-autohotkey)|
-|autohotkey,ime|[KBLAutoSwitch](https://github.com/flyinclouds/KBLAutoSwitch)|
 |autohotkey,input|[AHK-KeyMap](https://github.com/Gustice/AHK-KeyMap)|
 |autohotkey,lintalist|[Lintalist](https://github.com/lintalist/lintalist)|
 |autohotkey,lintalist|[Themes for Lintalist](https://github.com/lintalist/lintalist-themes)|
@@ -89,3 +88,5 @@
 |autohotkey,ocr|[Vis2](https://github.com/iseahound/Vis2)|
 |autohotkey,ocr|[TextShot](https://github.com/ianzhao05/textshot)|
 |autohotkey|[iwck](https://github.com/Nigh/I-wanna-clean-keyboard)|
+|autohotkey|[lib-v2](https://github.com/Axlefublr/lib-v2)|
+|autohotkey,ime|[KBLAutoSwitch](https://github.com/flyinclouds/KBLAutoSwitch)|

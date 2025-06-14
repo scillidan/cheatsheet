@@ -88,6 +88,7 @@
 |linux,bin,asciinema|[autocast](https://github.com/k9withabone/autocast)|
 |linux,bin,cmus|[cmus](https://cmus.github.io/)|
 |linux,bin,dictionary|[sdcv](https://github.com/Dushistov/sdcv)|
+|linux,bin,github-action|[act](https://github.com/nektos/act)|
 |linux,bin,recent|[Atuin](https://github.com/ellie/atuin)|
 |linux,bin,tmux|[tmux](https://github.com/tmux/tmux)|
 |linux,bin,translate|[Translate Shell](https://github.com/soimort/translate-shell)|
@@ -259,7 +260,6 @@
 |bin,gif|[Gifsicle](https://lcdf.org/gifsicle)|
 |bin,gif|[Gifski](https://gif.ski)|
 |bin,gist|[snpt](https://github.com/mike182uk/snpt)|
-|bin,github-action|[act](https://github.com/nektos/act)|
 |bin,github|[gh-md-toc](https://github.com/ekalinin/github-markdown-toc)|
 |bin,github|[Markdown to GitHub style web](https://github.com/KrauseFx/markdown-to-html-github-style)|
 |bin,github|[Mediawiki to GitHub Flavoured Markdown](https://github.com/outofcontrol/mediawiki-to-gfm)|
