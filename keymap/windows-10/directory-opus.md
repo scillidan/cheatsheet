@@ -1,3 +1,5 @@
+## Shortcut
+
 |opt|part|command|shortcut|
 |:-|:-|:-|:-|
 |Directory Opus|build-in|Print|C-p|
@@ -13,3 +15,9 @@
 |Directory Opus|FastCopy|Copy|Right_Drag|
 |Directory Opus|Link Shell Extension|Create Symlink|Right_Drag|
 |Directory Opus|SmartZip|Decompress|C-Left_Double_Click|
+
+## Open with
+
+|opt|file_extension|open_with|
+|:-|:-|:-|
+|Directory Opus|ahk|vscodium|

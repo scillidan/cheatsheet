@@ -232,3 +232,4 @@
 |obsidian|[Template Filename](https://github.com/callumalpass/obsidian-template-filename)|
 |obsidian|[Macros Plugin for Obsidian](https://github.com/JamesCliffordSpratt/macros)|
 |obsidian|[Timelive Plugin](https://github.com/aNNiMON/obsidian-timelive)|
+|obsidian|[UID Generator Plugin for Obsidian](https://github.com/Netajam/obsidian_note_uid_generator)|

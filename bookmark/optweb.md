@@ -7,7 +7,7 @@
 |Dev Encyclopedia;|https://devpedia.dev|
 |DevDocs|https://devdocs.io|
 |DownSub|https://downsub.com|
-|Dynamic Dummy Image Generator|[dummyimage](https://dummyimage.com)|
+|Dynamic Dummy Image Generator|https://dummyimage.com|
 |Emoji Keyboard Online|https://emojikeyboard.io|
 |Free OG Image Generator|https://ogimage.click|
 |Free Open Graph Generator|https://og.indiehub.best|

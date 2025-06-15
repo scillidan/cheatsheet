@@ -1,12 +1,12 @@
-|tag|site|
-|:-|:-|
-|design|[Behance](https://www.behance.net)|
-|design|[Dribbble](https://dribbble.com)|
-|design|[Pinterest](https://www.pinterest.com)|
-|image,ai|[Civiai - Images](https://civitai.com/images)|
-|image,ai|[Civiai - models](https://civitai.com/models)|
-|news|[Kumo](https://gm-kumo.vercel.app)|
-|news|[News Now](https://newsnow.busiyi.world)|
+| tag      | site                                          |
+| :------- | :-------------------------------------------- |
+| design   | [Behance](https://www.behance.net)            |
+| design   | [Dribbble](https://dribbble.com)              |
+| design   | [Pinterest](https://www.pinterest.com)        |
+| image,ai | [Civiai - Images](https://civitai.com/images) |
+| image,ai | [Civiai - models](https://civitai.com/models) |
+| news     | [Kumo](https://gm-kumo.vercel.app)            |
+| news     | [News Now](https://newsnow.busiyi.world)      |
 
 |tag|site|
 |:-|:-|

@@ -26,6 +26,7 @@
 |i3|[UnaSemana](http://dotshare.it/dots/307/)|
 |icon|[Lucide](https://github.com/lucide-icons/lucide)|
 |icon|[Streamline](https://home.streamlinehq.com/)|
+|icon|[things](https://www.thiings.co/things)|
 |krita,brush|[Metallics by Draneria](https://github.com/Draneria/Metallics-by-Draneria_Krita-Brushes)|
 |krita,brush|[STIPPLE BEAST EVOLVED Brush Pack](https://tombofnull.itch.io/stipple-beast-evolved-brush-pack)|
 |launch|[Awesome-launch](https://github.com/KingMenes/awesome-launch)|

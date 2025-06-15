@@ -94,6 +94,7 @@
 |lib,war3|[GoWarcraft3](https://github.com/nielsAD/gowarcraft3)|
 |lib,war3|[war3map](https://github.com/invoker-bot/war3map)|
 |lib,watch|[LVGL](https://lvgl.io)|
+|lib,yomitan|[Yomichan Dict Reader](https://github.com/MarvNC/yomichan-dict-reader)|
 |linux,lib,stabilize|[VidStab](https://github.com/georgmartius/vid.stab)|
 |windows10,lib,autohotkey|[ahk](https://github.com/spyoungtech/ahk)|
 |windows10,lib,epub|[pubReader](https://github.com/vers-one/EpubReader)|
